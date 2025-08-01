@@ -21,6 +21,7 @@
  */
 
 class HRuler extends Ruler {
+	_tabstopVerticalLine: HTMLDivElement;
 	_firstLineMarker: HTMLDivElement;
 	_pStartMarker: HTMLDivElement;
 	_pEndMarker: HTMLDivElement;
@@ -87,6 +88,9 @@ class HRuler extends Ruler {
 		this._map.off('scrolllimits', this._updatePaintTimer, this);
 		this._map.off('moveend fixruleroffset', this._fixOffset, this);
 		this._map.off('updatepermission', this._changeInteractions, this);
+		if (this._tabstopVerticalLine) {
+			this._hideTabstopVerticalLine();
+		}
 	}
 
 	_changeInteractions(e: any) {
@@ -315,13 +319,26 @@ class HRuler extends Ruler {
 			'cool-ruler-horizontal-tabstopcontainer',
 			this._rMarginWrapper,
 		);
+		L.DomEvent.disableClickPropagation(this._rTSContainer);
+		L.DomEvent.disableScrollPropagation(this._rTSContainer);
 		L.DomEvent.on(
 			this._rTSContainer,
 			'mousedown',
 			this._initiateTabstopDrag,
 			this,
 		);
-
+		this._tabstopVerticalLine = L.DomUtil.create(
+			'div',
+			'cool-ruler-tabstop-vertical-line',
+			this._rFace,
+		);
+		this._tabstopVerticalLine.style.display = 'none';
+		this._tabstopVerticalLine.style.position = 'absolute';
+		this._tabstopVerticalLine.style.width = '1px';
+		this._tabstopVerticalLine.style.backgroundColor = 'transparent';
+		this._tabstopVerticalLine.style.borderLeft = '1px dashed #000000';
+		this._tabstopVerticalLine.style.zIndex = '1000';
+		this._tabstopVerticalLine.style.pointerEvents = 'none';
 		this._hammer = new Hammer(this._rTSContainer);
 		this._hammer.add(new Hammer.Pan({ threshold: 0, pointers: 0 }));
 		this._hammer.get('press').set({
@@ -949,7 +966,7 @@ class HRuler extends Ruler {
 
 		tabstopContainer.tabStopMarkerBeingDragged = tabstop;
 		tabstopContainer.tabStopInitialPosiiton = pointX;
-
+		this._showTabstopVerticalLine(pointX);
 		if (
 			!this.getWindowProperty<boolean>('ThisIsTheiOSApp') &&
 			event.pointerType !== 'touch'
@@ -980,6 +997,7 @@ class HRuler extends Ruler {
 
 		var pixelDiff = pointX - tabstopContainer.tabStopInitialPosiiton;
 		marker.style.left = marker.tabStopLocation.left + pixelDiff + 'px';
+		this._updateTabstopVerticalLine(pointX);
 	}
 
 	_endTabstopDrag(event: any) {
@@ -998,7 +1016,7 @@ class HRuler extends Ruler {
 		if (tabstopContainer === null) return;
 		var marker = tabstopContainer.tabStopMarkerBeingDragged;
 		if (marker === null) return;
-
+		this._hideTabstopVerticalLine();
 		if (event.type == 'mouseout') {
 			marker.style.left = marker.tabStopLocation.left + 'px';
 		} else {
@@ -1026,7 +1044,35 @@ class HRuler extends Ruler {
 		L.DomEvent.off(this._rTSContainer, 'mouseup', this._endTabstopDrag, this);
 		L.DomEvent.off(this._rTSContainer, 'mouseout', this._endTabstopDrag, this);
 	}
+	_showTabstopVerticalLine(pointX: number) {
+		// คำนวณตำแหน่งที่จะแสดงเส้น
+		const rulerRect = this._rTSContainer.getBoundingClientRect();
+		const containerRect = this._map.getContainer().getBoundingClientRect();
 
+		// ตำแหน่ง X ของเส้นแนวตั้ง
+		const lineLeft = rulerRect.left + pointX - containerRect.left;
+
+		// ความสูงของเส้น (จาก ruler ลงไปถึงด้านล่างของ container)
+		const lineTop = rulerRect.bottom - containerRect.top;
+		const lineHeight = containerRect.height - lineTop;
+
+		this._tabstopVerticalLine.style.left = lineLeft + 'px';
+		this._tabstopVerticalLine.style.top = lineTop + 'px';
+		this._tabstopVerticalLine.style.height = lineHeight + 'px';
+		this._tabstopVerticalLine.style.display = 'block';
+	}
+	_updateTabstopVerticalLine(pointX: number) {
+		if (this._tabstopVerticalLine.style.display === 'block') {
+			const rulerRect = this._rTSContainer.getBoundingClientRect();
+			const containerRect = this._map.getContainer().getBoundingClientRect();
+			const lineLeft = rulerRect.left + pointX - containerRect.left;
+			this._tabstopVerticalLine.style.left = lineLeft + 'px';
+		}
+	}
+
+	_hideTabstopVerticalLine() {
+		this._tabstopVerticalLine.style.display = 'none';
+	}
 	_onTabstopContainerLongPress(event: any) {
 		var tabstopContainer = event.target;
 		var pointX = event.center.x - tabstopContainer.getBoundingClientRect().left;

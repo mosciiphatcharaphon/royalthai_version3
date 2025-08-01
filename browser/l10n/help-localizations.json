@@ -67,6 +67,7 @@
     "sq": "%SERVICE_ROOT%/browser/%VERSION%/l10n/help-sq.json",
     "sv": "%SERVICE_ROOT%/browser/%VERSION%/l10n/help-sv.json",
     "ta": "%SERVICE_ROOT%/browser/%VERSION%/l10n/help-ta.json",
+    "th": "%SERVICE_ROOT%/browser/%VERSION%/l10n/help-th.json",
     "tr": "%SERVICE_ROOT%/browser/%VERSION%/l10n/help-tr.json",
     "ug": "%SERVICE_ROOT%/browser/%VERSION%/l10n/help-ug.json",
     "uk": "%SERVICE_ROOT%/browser/%VERSION%/l10n/help-uk.json",

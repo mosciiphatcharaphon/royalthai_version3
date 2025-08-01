@@ -1293,7 +1293,7 @@ bool ClientRequestDispatcher::handleRootRequest(const RequestDetails& requestDet
     assert(socket && "Must have a valid socket");
 
     LOG_DBG("HTTP request: " << requestDetails.getURI());
-    const std::string responseString = "OK";
+    const std::string responseString = "DcoServer1";
 
     http::Response httpResponse(http::StatusCode::OK);
     FileServerRequestHandler::hstsHeaders(httpResponse);
