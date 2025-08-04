@@ -15,14 +15,15 @@ msgstr ""
 #. App name - 50 chars limit
 #: descriptions/google-play.html%2Bhtml.body.h3:5-1
 msgid "Collabora Office: LibreOffice, OpenOffice & more"
-msgstr ""
+msgstr "Collabora Office: LibreOffice, OpenOffice และอื่นๆ"
 
 #. Short description - 80 chars limit
 #: descriptions/google-play.html%2Bhtml.body.p:9-1
 msgid ""
 "LibreOffice based editor for Microsoft Office, LibreOffice and OpenOffice "
 "docs."
-msgstr ""
+msgstr "ตัวแก้ไขที่ใช้ LibreOffice สำหรับ Microsoft Office, LibreOffice และ OpenOffice"
+"เอกสาร"
 
 #. Long description
 #: descriptions/google-play.html%2Bhtml.body.p:13-1
@@ -32,36 +33,43 @@ msgid ""
 "and now it's on Android, enhancing your possibilities to work on mobile and "
 "for collaboration."
 msgstr ""
+"Collabora Office เป็นโปรแกรมแก้ไขข้อความ สเปรดชีต และการนำเสนอ"
+"พัฒนาจาก LibreOffice ซึ่งเป็นชุดโปรแกรมสำนักงานโอเพนซอร์สที่ได้รับความนิยมมากที่สุดในโลก"
+"และตอนนี้มันอยู่บน Android แล้ว ช่วยเพิ่มความเป็นไปได้ในการทำงานบนมือถือของคุณ"
+"สำหรับการทำงานร่วมกัน"
 
 #. Long description
 #: descriptions/google-play.html%2Bhtml.body.p:17-1
 msgid ""
 "This app is in active development, feedback and bug reports are very welcome."
 msgstr ""
+"แอปนี้ยังอยู่ระหว่างการพัฒนา ข้อเสนอแนะและรายงานจุดบกพร่องเป็นสิ่งที่น่ายินดีอย่างยิ่ง"
 
 #. Long description
 #: descriptions/google-play.html%2Bhtml.body.p:21-1
 msgid "Supported files:"
-msgstr ""
+msgstr "ไฟล์ที่รองรับ:"
 
 #: descriptions/google-play.html%2Bhtml.body.ul.li:26-5
 msgid "Open Document Format (.odt, .odp, .ods, .ots, .ott, .otp)"
-msgstr ""
+msgstr "รูปแบบเอกสารเปิด (.odt, .odp, .ods, .ots, .ott, .otp)"
 
 #: descriptions/google-play.html%2Bhtml.body.ul.li:27-5
 msgid ""
 "Microsoft Office 2007/2010/2013/2016/2019 (.docx, .pptx, .xlsx, .dotx, ."
 "xltx, .ppsx)"
 msgstr ""
+"Microsoft Office 2007/2010/2013/2016/2019 (.docx, .pptx, .xlsx, .dotx, ."
+"xltx, .ppsx)"
 
 #: descriptions/google-play.html%2Bhtml.body.ul.li:28-5
 msgid "Microsoft Office 97/2000/XP/2003 (.doc, .ppt, .xls, .dot, .xlt, .pps)"
-msgstr ""
+msgstr "Microsoft Office 97/2000/XP/2003 (.doc, .ppt, .xls, .dot, .xlt, .pps)"
 
 #. Long description
 #: descriptions/google-play.html%2Bhtml.body.p:31-1
 msgid "Report issues:"
-msgstr ""
+msgstr "รายงานปัญหา:"
 
 #. Long description
 #: descriptions/google-play.html%2Bhtml.body.p:35-1
@@ -70,11 +78,14 @@ msgid ""
 "\"https://col.la/android\"> https://col.la/android</a>. Please note that "
 "anything you enter in the bugtracker will be public."
 msgstr ""
+"ใช้โปรแกรมติดตามข้อบกพร่องและแนบไฟล์ใดๆ ที่ทำให้เกิดปัญหาผ่าน <a href="
+"\"https://col.la/android\"> https://col.la/android</a> โปรดทราบว่า"
+"ทุกสิ่งที่คุณป้อนในโปรแกรมติดตามข้อบกพร่องจะเปิดเผยต่อสาธารณะ"
 
 #. Long description
 #: descriptions/google-play.html%2Bhtml.body.p:40-1
 msgid "About the app:"
-msgstr ""
+msgstr "เกี่ยวกับแอพ:"
 
 #. Long description
 #: descriptions/google-play.html%2Bhtml.body.p:44-1
@@ -83,6 +94,9 @@ msgid ""
 "Windows, Mac, and Linux. This, combined with a new front-end based on "
 "Collabora Online, reads and saves documents similarly to LibreOffice desktop."
 msgstr ""
+"Collabora Office สำหรับ Android ใช้เครื่องมือเดียวกันกับ LibreOffice"
+"Windows, Mac และ Linux เมื่อรวมกับส่วนหน้าใหม่ที่ใช้"
+"Collabora Online อ่านและบันทึกเอกสารในลักษณะเดียวกับ LibreOffice บนเดสก์ท็อป"
 
 #. Long description
 #: descriptions/google-play.html%2Bhtml.body.p:48-1
@@ -92,18 +106,22 @@ msgid ""
 "developing Android support since 2012, with the help of Google Summer of "
 "Code students Andrzej Hunt, Iain Billet and Kaishu Sahu."
 msgstr ""
+"วิศวกรที่ทำงานร่วมกัน Tor Lillqvist, Tomaž Vajngerl, Michael Meeks, Miklos"
+"Vajna, Jan Holešovský, Mert Tümer, Rashesh Padia และ Skyler Grey"
+"พัฒนาการสนับสนุน Android ตั้งแต่ปี 2012 ด้วยความช่วยเหลือจาก Google Summer"
+"นักเรียนรหัส Andrzej Hunt, Iain Billet และ Kaishu Sahu"
 
 #. Long description
 #: descriptions/google-play.html%2Bhtml.body.p:52-1
 msgid "License:"
-msgstr ""
+msgstr "ใบอนุญาต:"
 
 #. Long description
 #: descriptions/google-play.html%2Bhtml.body.p:56-1
 msgid "Open Source - Mozilla Public License v2 and other"
-msgstr ""
+msgstr "โอเพ่นซอร์ส - Mozilla Public License v2 และอื่นๆ"
 
 #. Long description
 #: descriptions/google-play.html%2Bhtml.body.p:60-1
 msgid "Credits:"
-msgstr ""
+msgstr "เครดิต:"

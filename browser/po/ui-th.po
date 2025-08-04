@@ -19,23 +19,23 @@ msgstr ""
 
 #: admin/admin.strings.js:15
 msgid "Admin console"
-msgstr ""
+msgstr "คอนโซลผู้ดูแลระบบ"
 
 #: admin/admin.strings.js:16
 msgid "Settings"
-msgstr ""
+msgstr "การตั้งค่า"
 
 #: admin/admin.strings.js:17
 msgid "Overview"
-msgstr ""
+msgstr "ภาพรวม"
 
 #: admin/admin.strings.js:18
 msgid "(current)"
-msgstr ""
+msgstr "(ปัจจุบัน)"
 
 #: admin/admin.strings.js:19
 msgid "Analytics"
-msgstr ""
+msgstr "การวิเคราะห์"
 
 #: admin/admin.strings.js:20
 msgid "History"
@@ -43,100 +43,100 @@ msgstr "ประวัติ"
 
 #: admin/admin.strings.js:21
 msgid "Log"
-msgstr ""
+msgstr "บันทึก"
 
 #: admin/admin.strings.js:22
 msgid "Dashboard"
-msgstr ""
+msgstr "แผงควบคุม"
 
 #: admin/admin.strings.js:23
 msgid "Users online"
-msgstr ""
+msgstr "ผู้ใช้ออนไลน์"
 
 #: admin/admin.strings.js:24
 msgid "User Name"
-msgstr ""
+msgstr "ชื่อผู้ใช้"
 
 #: admin/admin.strings.js:25
 msgid "Documents open"
-msgstr ""
+msgstr "เอกสารเปิดอยู่"
 
 #: admin/admin.strings.js:26 admin/src/AdminSocketOverview.js:82
 #: admin/src/AdminSocketOverview.js:131 admin/src/AdminSocketOverview.js:358
 msgid " user(s)."
-msgstr ""
+msgstr "ผู้ใช้"
 
 #: admin/admin.strings.js:27 admin/src/AdminSocketOverview.js:214
 msgid " document(s) open."
-msgstr ""
+msgstr "เอกสารเปิดอยู่"
 
 #: admin/admin.strings.js:28
 msgid "Number of Documents"
-msgstr ""
+msgstr "จำนวนเอกสาร"
 
 #: admin/admin.strings.js:29
 msgid "Memory consumed"
-msgstr ""
+msgstr "หน่วยความจำที่ใช้ไป"
 
 #: admin/admin.strings.js:30
 msgid "Bytes sent"
-msgstr ""
+msgstr "ส่งไบต์แล้ว"
 
 #: admin/admin.strings.js:31
 msgid "Bytes received"
-msgstr ""
+msgstr "ได้รับไบต์แล้ว"
 
 #: admin/admin.strings.js:32
 msgid "PID"
-msgstr ""
+msgstr "พีไอดี"
 
 #: admin/admin.strings.js:33 admin/src/AdminClusterOverview.js:352
 msgid "Document"
-msgstr ""
+msgstr "เอกสาร"
 
 #: admin/admin.strings.js:34
 msgid "Views"
-msgstr ""
+msgstr "จำนวนการดู"
 
 #: admin/admin.strings.js:35
 msgid "Elapsed time"
-msgstr ""
+msgstr "เวลาที่ผ่านไป"
 
 #: admin/admin.strings.js:36
 msgid "Idle time"
-msgstr ""
+msgstr "เวลาว่าง"
 
 #: admin/admin.strings.js:37
 msgid "Modified"
-msgstr ""
+msgstr "ดัดแปลง"
 
 #: admin/admin.strings.js:38
 msgid "Uploaded"
-msgstr ""
+msgstr "อัปโหลดแล้ว"
 
 #: admin/admin.strings.js:39
 msgid "WOPI host"
-msgstr ""
+msgstr "โฮสต์ WOPI"
 
 #: admin/admin.strings.js:40
 msgid "Kill"
-msgstr ""
+msgstr "ยุติกระบวนการ"
 
 #: admin/admin.strings.js:41
 msgid "Graphs"
-msgstr ""
+msgstr "กราฟ"
 
 #: admin/admin.strings.js:42
 msgid "Memory Graph"
-msgstr ""
+msgstr "กราฟหน่วยความจำ"
 
 #: admin/admin.strings.js:43
 msgid "CPU Graph"
-msgstr ""
+msgstr "กราฟซีพียู"
 
 #: admin/admin.strings.js:44
 msgid "Network Graph"
-msgstr ""
+msgstr "กราฟเครือข่าย"
 
 #: admin/admin.strings.js:45
 #: admin/src/integrator/AdminIntegratorSettings.ts:630
@@ -153,77 +153,77 @@ msgstr "บันทึก"
 
 #: admin/admin.strings.js:46
 msgid "Cache size of memory statistics"
-msgstr ""
+msgstr "ขนาดหน่วยความจำแคชที่ใช้ในข้อมูลสถิติ"
 
 #: admin/admin.strings.js:47
 msgid "Time interval of memory statistics (in ms)"
-msgstr ""
+msgstr "ช่วงเวลาในการเก็บสถิติหน่วยความจำ (เป็นมิลลิวินาที)"
 
 #: admin/admin.strings.js:48
 msgid "Cache size of CPU statistics"
-msgstr ""
+msgstr "ขนาดแคชของสถิติซีพียู"
 
 #: admin/admin.strings.js:49
 msgid "Time interval of CPU statistics (in ms)"
-msgstr ""
+msgstr "ช่วงเวลาในการเก็บสถิติของ CPU (หน่วยเป็นมิลลิวินาที)"
 
 #: admin/admin.strings.js:50 admin/src/AdminSocketOverview.js:100
 msgid "Kill session."
-msgstr ""
+msgstr "ยุติการเชื่อมต่อเซสชัน"
 
 #: admin/admin.strings.js:51
 msgid "Maximum Document process virtual memory (in MB) - reduce only"
-msgstr ""
+msgstr "หน่วยความจำเสมือนของกระบวนการเอกสารสูงสุด (เป็น MB) - ลดลงเท่านั้น"
 
 #: admin/admin.strings.js:52
 msgid "Maximum Document process stack memory (in KB) - reduce only"
-msgstr ""
+msgstr "หน่วยความจำสแต็กกระบวนการเอกสารสูงสุด (เป็น KB) - ลดลงเท่านั้น"
 
 #: admin/admin.strings.js:53
 msgid "Maximum file size allowed to write to disk (in MB) - reduce only"
-msgstr ""
+msgstr "ขนาดไฟล์สูงสุดที่อนุญาตให้เขียนลงดิสก์ (เป็น MB) - ลดลงเท่านั้น"
 
 #: admin/admin.strings.js:54
 msgid "Documents:"
-msgstr ""
+msgstr "เอกสาร:"
 
 #: admin/admin.strings.js:55
 msgid "Expired:"
-msgstr ""
+msgstr "หมดอายุ:"
 
 #: admin/admin.strings.js:56 admin/src/AdminSocketBase.js:61
 #: src/control/Control.Zotero.js:213
 msgid "Refresh"
-msgstr ""
+msgstr "รีเฟรช"
 
 #: admin/admin.strings.js:57
 msgid "Shutdown Server"
-msgstr ""
+msgstr "ปิดเซิร์ฟเวอร์"
 
 #: admin/admin.strings.js:58
 msgid "Server uptime"
-msgstr ""
+msgstr "เวลาทำงานของเซิร์ฟเวอร์"
 
 #: admin/admin.strings.js:59
 msgid "Refresh Log"
-msgstr ""
+msgstr "รีเฟรชบันทึก"
 
 #: admin/admin.strings.js:60
 msgid "Channel Filter:"
-msgstr ""
+msgstr "ตัวกรองช่อง:"
 
 #: admin/admin.strings.js:61 src/control/Control.JSDialogBuilder.js:496
 #: src/control/Control.StatusBar.js:219 src/control/Control.StatusBar.js:224
 msgid "None"
-msgstr ""
+msgstr "ไม่มี"
 
 #: admin/admin.strings.js:62
 msgid "Set Log Levels"
-msgstr ""
+msgstr "ตั้งค่าระดับบันทึก"
 
 #: admin/admin.strings.js:63
 msgid "Log Levels"
-msgstr ""
+msgstr "ระดับบันทึกเหตุการณ์"
 
 #: admin/admin.strings.js:64 src/canvas/sections/CommentListSection.ts:165
 #: src/control/Control.AlertDialog.js:32 src/control/Control.AlertDialog.js:38
@@ -232,19 +232,19 @@ msgstr ""
 #: src/core/Socket.js:437 src/core/Socket.js:1218 src/core/Socket.js:1223
 #: welcome/welcome.html%2Bhtml.body.div.div.div.div.div:51-7
 msgid "Close"
-msgstr ""
+msgstr "ปิด"
 
 #: admin/admin.strings.js:65
 msgid "Update Log Levels"
-msgstr ""
+msgstr "ปรับปรุงระดับบันทึกเหตุการณ์"
 
 #: admin/admin.strings.js:66
 msgid "Version Information"
-msgstr ""
+msgstr "ข้อมูลเวอร์ชัน"
 
 #: admin/admin.strings.js:67
 msgid "License"
-msgstr ""
+msgstr "ใบอนุญาต"
 
 #: admin/admin.strings.js:68 src/control/Control.Menubar.ts:419
 #: src/control/Control.Menubar.ts:597 src/control/Control.Menubar.ts:735
@@ -253,35 +253,35 @@ msgstr ""
 #: src/control/Control.Menubar.ts:1290
 #: src/control/Control.NotebookbarWriter.js:549
 msgid "About"
-msgstr ""
+msgstr "เกี่ยวกับ"
 
 #: admin/src/AdminClusterOverview.js:105
 msgid "CPU History"
-msgstr ""
+msgstr "ประวัติ CPU"
 
 #: admin/src/AdminClusterOverview.js:116
 msgid "Memory History"
-msgstr ""
+msgstr "ประวัติหน่วยความจำ"
 
 #: admin/src/AdminClusterOverview.js:356
 msgid "Memory"
-msgstr ""
+msgstr "หน่วยความจำ"
 
 #: admin/src/AdminClusterOverview.js:540
 msgid "Please wait kubernetes cluster is scaling..."
-msgstr ""
+msgstr "กรุณารอสักครู่ กำลังปรับขนาดคลัสเตอร์ Kubernetes..."
 
 #: admin/src/AdminClusterOverview.js:550 admin/src/AdminSocketOverview.js:420
 msgid "Failed to set jwt authentication cookie over insecure connection"
-msgstr ""
+msgstr "ไม่สามารถตั้งค่า cookie การยืนยันตัวตน JWT บนการเชื่อมต่อที่ไม่ปลอดภัยได้"
 
 #: admin/src/AdminClusterOverview.js:553 admin/src/AdminSocketOverview.js:424
 msgid "Failed to authenticate this session over protocol {0}"
-msgstr ""
+msgstr "การตรวจสอบสิทธิ์เซสชันนี้ผ่านโปรโตคอล {0} ไม่สำเร็จ"
 
 #: admin/src/AdminClusterOverview.js:558 admin/src/AdminSocketOverview.js:429
 msgid "Warning"
-msgstr ""
+msgstr "คำเตือน"
 
 #: admin/src/AdminClusterOverview.js:560 admin/src/AdminSocketBase.js:63
 #: admin/src/AdminSocketBase.js:74 admin/src/AdminSocketOverview.js:108
@@ -310,7 +310,7 @@ msgstr ""
 #: src/slideshow/SlideShowPresenter.ts:697
 #: src/slideshow/SlideShowPresenter.ts:720
 msgid "OK"
-msgstr ""
+msgstr "ตกลง"
 
 #: admin/src/AdminClusterOverview.js:561 admin/src/AdminSocketOverview.js:109
 #: admin/src/AdminSocketOverview.js:432 admin/src/AdminSocketSettings.js:48
@@ -331,143 +331,147 @@ msgstr "ยกเลิก"
 
 #: admin/src/AdminSocketAnalytics.js:247
 msgid "Received"
-msgstr ""
+msgstr "ได้รับแล้ว"
 
 #: admin/src/AdminSocketAnalytics.js:251
 msgid "Sent"
-msgstr ""
+msgstr "ส่งแล้ว"
 
 #: admin/src/AdminSocketAnalytics.js:255
 msgid "Connections"
-msgstr ""
+msgstr "การเชื่อมต่อ"
 
 #: admin/src/AdminSocketBase.js:62
 msgid "Server has been shut down; please reload the page."
-msgstr ""
+msgstr "เซิร์ฟเวอร์ถูกปิดลง กรุณาโหลดหน้าใหม่อีกครั้ง"
 
 #: admin/src/AdminSocketBase.js:72 admin/src/AdminSocketBase.js:73
 msgid "Connection error"
-msgstr ""
+msgstr "ข้อผิดพลาดในการเชื่อมต่อ"
 
 #: admin/src/AdminSocketOverview.js:106 admin/src/AdminSocketSettings.js:45
 msgid "Confirmation"
-msgstr ""
+msgstr "การยืนยัน"
 
 #: admin/src/AdminSocketOverview.js:107
 msgid "Are you sure you want to terminate this session?"
-msgstr ""
+msgstr "คุณแน่ใจว่าต้องการยุติเซสชันนี้หรือไม่?"
 
 #: admin/src/AdminSocketSettings.js:46
 msgid "Are you sure you want to shut down the server?"
-msgstr ""
+msgstr "คุณแน่ใจหรือไม่ว่าต้องการปิดเซิร์ฟเวอร์?"
 
 #: admin/src/integrator/AdminIntegratorSettings.ts:113
 msgid "Accessibility"
-msgstr ""
+msgstr "การเข้าถึง"
 
 #: admin/src/integrator/AdminIntegratorSettings.ts:214
 msgid "Invalid JSON file"
-msgstr ""
+msgstr "ไฟล์ JSON ไม่ถูกต้อง"
 
 #: admin/src/integrator/AdminIntegratorSettings.ts:218
 msgid "Error reading file"
-msgstr ""
+msgstr "เกิดข้อผิดพลาดในการอ่านไฟล์"
 
 #: admin/src/integrator/AdminIntegratorSettings.ts:230
 msgid "Autotext"
-msgstr ""
+msgstr "ข้อความอัตโนมัติ"
 
 #: admin/src/integrator/AdminIntegratorSettings.ts:232
 msgid ""
 "Upload reusable text snippets (.bau). To insert the text in your document, "
 "type the shortcut for an AutoText entry and press F3."
-msgstr ""
+msgstr "อัปโหลดข้อความสั้นที่นำมาใช้ซ้ำได้ (.bau) หากต้องการแทรกข้อความในเอกสารของคุณ"
+"พิมพ์ทางลัดสำหรับรายการข้อความอัตโนมัติและกด F3"
 
 #: admin/src/integrator/AdminIntegratorSettings.ts:238
 msgid "Upload Autotext"
-msgstr ""
+msgstr "อัปโหลดข้อความอัตโนมัติ"
 
 #: admin/src/integrator/AdminIntegratorSettings.ts:242
 msgid "Custom dictionaries"
-msgstr ""
+msgstr "พจนานุกรมที่กำหนดเอง"
 
 #: admin/src/integrator/AdminIntegratorSettings.ts:244
 msgid ""
 "Add or edit words in a spell check dictionary. Words in your wordbook (."
 "dic) will be available for spelling checks."
-msgstr ""
+msgstr "เพิ่มหรือแก้ไขคำในพจนานุกรมตรวจสอบการสะกด คำศัพท์ในสมุดคำศัพท์ของคุณ (."
+"dic) จะพร้อมใช้งานสำหรับการตรวจสอบการสะกดคำ"
 
 #: admin/src/integrator/AdminIntegratorSettings.ts:250
 msgid "Upload Wordbook"
-msgstr ""
+msgstr "อัปโหลดสมุดคำ"
 
 #: admin/src/integrator/AdminIntegratorSettings.ts:254
 msgid "Document settings"
-msgstr ""
+msgstr "การตั้งค่าเอกสาร"
 
 #: admin/src/integrator/AdminIntegratorSettings.ts:255
 #: admin/src/integrator/Xcu.ts:297
 msgid "Adjust how office documents behave."
-msgstr ""
+msgstr "ปรับเปลี่ยนวิธีการทำงานของเอกสารสำนักงาน"
 
 #: admin/src/integrator/AdminIntegratorSettings.ts:261
 msgid "Upload Xcu"
-msgstr ""
+msgstr "อัปโหลดไฟล์ Xcu"
 
 #: admin/src/integrator/AdminIntegratorSettings.ts:312
 msgid "Shared Config URL is missing in initial variables."
-msgstr ""
+msgstr "URL การกำหนดค่าที่แชร์หายไปจากตัวแปรเริ่มต้น"
 
 #: admin/src/integrator/AdminIntegratorSettings.ts:318
 msgid "Access token is missing in initial variables."
-msgstr ""
+msgstr "โทเค็นการเข้าถึงหายไปจากตัวแปรเริ่มต้น"
 
 #: admin/src/integrator/AdminIntegratorSettings.ts:354
 msgid "Something went wrong. Please try to refresh the page."
-msgstr ""
+msgstr "มีบางอย่างผิดพลาด โปรดลองรีเฟรชหน้านี้"
 
 #: admin/src/integrator/AdminIntegratorSettings.ts:452
 msgid ""
 "Something went wrong while fetching setting file. Please try to refresh the "
 "page."
-msgstr ""
+msgstr "เกิดข้อผิดพลาดขณะดึงไฟล์การตั้งค่า โปรดลองรีเฟรช"
+"หน้า."
 
 #: admin/src/integrator/AdminIntegratorSettings.ts:477
 msgid ""
 "Something went wrong while fetching wordbook. Please try to refresh the "
 "page."
-msgstr ""
+msgstr "เกิดข้อผิดพลาดขณะดึงข้อมูลหนังสือคำศัพท์ โปรดลองรีเฟรช"
+"หน้า."
 
 #: admin/src/integrator/AdminIntegratorSettings.ts:487
 msgid "Interface Settings"
-msgstr ""
+msgstr "การตั้งค่าอินเทอร์เฟซ"
 
 #: admin/src/integrator/AdminIntegratorSettings.ts:489
 msgid "Set default interface preferences."
-msgstr ""
+msgstr "ตั้งค่าอินเทอร์เฟซเริ่มต้น."
 
 #: admin/src/integrator/AdminIntegratorSettings.ts:597
 msgid "Select a tab to browser settings."
-msgstr ""
+msgstr "เลือกแท็บเพื่อตั้งค่าเบราว์เซอร์"
 
 #: admin/src/integrator/AdminIntegratorSettings.ts:610
 #: admin/src/integrator/Xcu.ts:357
 msgid "Reset to default Document settings"
-msgstr ""
+msgstr "รีเซ็ตเป็นการตั้งค่าเอกสารเริ่มต้น"
 
 #: admin/src/integrator/AdminIntegratorSettings.ts:614
 #: admin/src/integrator/Xcu.ts:371
 msgid "Are you sure you want to reset Document settings?"
-msgstr ""
+msgstr "คุณแน่ใจหรือไม่ว่าต้องการรีเซ็ตการตั้งค่าเอกสาร?"
 
 #: admin/src/integrator/AdminIntegratorSettings.ts:631
 #: admin/src/integrator/Xcu.ts:386
 msgid "Save Document settings"
-msgstr ""
+msgstr "บันทึกการตั้งค่าเอกสาร"
 
 #: admin/src/integrator/AdminIntegratorSettings.ts:961
 msgid "Notebookbar view"
-msgstr ""
+msgstr "มุมมองแถบโน้ตบุ๊ก"
 
 #: admin/src/integrator/AdminIntegratorSettings.ts:968
 #: src/control/Control.NotebookbarCalc.js:1362
@@ -475,386 +479,391 @@ msgstr ""
 #: src/control/Control.NotebookbarImpress.js:542
 #: src/control/Control.NotebookbarWriter.js:1623
 msgid "Compact view"
-msgstr ""
+msgstr "มุมมองที่กะทัดรัด"
 
 #: admin/src/integrator/AdminIntegratorSettings.ts:1041
 msgid "Something went wrong while uploading the file. Please try again."
-msgstr ""
+msgstr "เกิดข้อผิดพลาดขณะอัปโหลดไฟล์ โปรดลองอีกครั้ง"
 
 #: admin/src/integrator/AdminIntegratorSettings.ts:1117
 #: src/control/Control.ContextMenu.js:264 src/docdispatcher.ts:521
 msgid "Delete"
-msgstr ""
+msgstr "ลบ"
 
 #: admin/src/integrator/AdminIntegratorSettings.ts:1155
 msgid ""
 "Something went wrong while deleting the file. Please try refreshing the "
 "page."
-msgstr ""
+msgstr "มีบางอย่างผิดพลาดขณะลบไฟล์ โปรดลองรีเฟรช"
+"หน้า"
 
 #: admin/src/integrator/AdminIntegratorSettings.ts:1170
 msgid "Edit"
-msgstr ""
+msgstr "แก้ไข"
 
 #: admin/src/integrator/AdminIntegratorSettings.ts:1196
 msgid "View Settings"
-msgstr ""
+msgstr "ดูการตั้งค่า"
 
 #: admin/src/integrator/AdminIntegratorSettings.ts:1197
 msgid "Adjust view settings."
-msgstr ""
+msgstr "ปรับการตั้งค่ามุมมอง"
 
 #: admin/src/integrator/AdminIntegratorSettings.ts:1207
 msgid "Option"
-msgstr ""
+msgstr "ตัวเลือก"
 
 #: admin/src/integrator/AdminIntegratorSettings.ts:1242
 msgid "(Warning: Server accessibility must be enabled to toggle)"
-msgstr ""
+msgstr "(คำเตือน: ต้องเปิดใช้งานการเข้าถึงเซิร์ฟเวอร์เพื่อสลับ)"
 
 #: admin/src/integrator/AdminIntegratorSettings.ts:1276
 msgid "Reset to default View settings"
-msgstr ""
+msgstr "รีเซ็ตเป็นการตั้งค่ามุมมองเริ่มต้น"
 
 #: admin/src/integrator/AdminIntegratorSettings.ts:1280
 msgid "Are you sure you want to reset View Settings?"
-msgstr ""
+msgstr "คุณแน่ใจหรือไม่ว่าต้องการรีเซ็ตการตั้งค่ามุมมอง?"
 
 #: admin/src/integrator/AdminIntegratorSettings.ts:1300
 msgid "Save View Settings"
-msgstr ""
+msgstr "บันทึกการตั้งค่ามุมมอง"
 
 #: admin/src/integrator/AdminIntegratorSettings.ts:1448
 #: src/map/handler/Map.WOPI.js:691
 msgid "Error"
-msgstr ""
+msgstr "ข้อผิดพลาด"
 
 #: admin/src/integrator/WordBook.ts:117
 msgid "Standard dictionary"
-msgstr ""
+msgstr "พจนานุกรมมาตรฐาน"
 
 #: admin/src/integrator/WordBook.ts:118
 msgid "Words are ignored by the spell checker"
-msgstr ""
+msgstr "ระบบตรวจสอบการสะกดคำจะละเว้นคำเหล่านี้"
 
 #: admin/src/integrator/WordBook.ts:122
 msgid "Dictionary of exceptions"
-msgstr ""
+msgstr "พจนานุกรมข้อยกเว้น"
 
 #: admin/src/integrator/WordBook.ts:123
 msgid "Exception words are underlined while checking spelling"
-msgstr ""
+msgstr "คำข้อยกเว้นจะถูกขีดเส้นใต้ขณะตรวจสอบการสะกดคำ"
 
 #: admin/src/integrator/WordBook.ts:132
 msgid "Loading Wordbook..."
-msgstr ""
+msgstr "กำลังโหลด Wordbook..."
 
 #: admin/src/integrator/WordBook.ts:333
 msgid "Type to add a word"
-msgstr ""
+msgstr "พิมพ์เพื่อเพิ่มคำ"
 
 #: admin/src/integrator/WordBook.ts:338
 msgid "Add"
-msgstr ""
+msgstr "เพิ่ม"
 
 #: admin/src/integrator/WordBook.ts:466
 msgid "Invalid dictionary format. Please check the file."
-msgstr ""
+msgstr "รูปแบบพจนานุกรมไม่ถูกต้อง โปรดตรวจสอบไฟล์"
 
 #: admin/src/integrator/WordBook.ts:486
 msgid "Something went wrong while uploading dictionary file"
-msgstr ""
+msgstr "มีบางอย่างผิดพลาดขณะอัพโหลดไฟล์พจนานุกรม"
 
 #: admin/src/integrator/Xcu.ts:160 admin/src/integrator/Xcu.ts:172
 msgid "Something went wrong while loading Document settings."
-msgstr ""
+msgstr "มีบางอย่างผิดพลาดขณะโหลดการตั้งค่าเอกสาร"
 
 #: admin/src/integrator/Xcu.ts:293
 msgid "Document Settings"
-msgstr ""
+msgstr "การตั้งค่าเอกสาร"
 
 #: admin/src/integrator/Xcu.ts:344
 msgid "Select a tab to view settings."
-msgstr ""
+msgstr "เลือกแท็บเพื่อดูการตั้งค่า"
 
 #: admin/src/Util.js:26
 msgid "kB"
-msgstr ""
+msgstr "กิโลไบต์"
 
 #: admin/src/Util.js:26
 msgid "MB"
-msgstr ""
+msgstr "เมกะไบต์"
 
 #: admin/src/Util.js:26
 msgid "GB"
-msgstr ""
+msgstr "กิกะไบต์"
 
 #: admin/src/Util.js:26
 msgid "TB"
-msgstr ""
+msgstr "เทระไบต์"
 
 #: admin/src/Util.js:26
 msgid "PB"
-msgstr ""
+msgstr "เพตะไบต์"
 
 #: admin/src/Util.js:26
 msgid "EB"
-msgstr ""
+msgstr "เอ็กซะไบต์"
 
 #: admin/src/Util.js:26
 msgid "ZB"
-msgstr ""
+msgstr "เซตตะไบต์"
 
 #: admin/src/Util.js:26
 msgid "YB"
-msgstr ""
+msgstr "โยตะไบต์"
 
 #: admin/src/Util.js:26
 msgid "BB"
-msgstr ""
+msgstr "บิคตะไบต์"
 
 #: admin/src/Util.js:86 admin/src/Util.js:88
 msgid " hrs"
-msgstr ""
+msgstr "ชั่วโมง"
 
 #: admin/src/Util.js:92 admin/src/Util.js:94
 msgid " mins"
-msgstr ""
+msgstr "นาที"
 
 #: admin/src/Util.js:97
 msgid " s"
-msgstr ""
+msgstr "วินาที"
 
 #: js/global.js:1585
 msgid "Cluster is scaling, retrying..."
-msgstr ""
+msgstr "คลัสเตอร์กำลังปรับขนาด กำลังลองใหม่..."
 
 #: js/global.js:1587
 msgid "Document is migrating to new server, retrying..."
-msgstr ""
+msgstr "เอกสารถูกย้ายไปยังเซิร์ฟเวอร์ใหม่ กำลังลองใหม่..."
 
 #: js/global.js:1589
 msgid "Failed to get RouteToken from controller"
-msgstr ""
+msgstr "ไม่สามารถรับ RouteToken จากคอนโทรลเลอร์ได้"
 
 #: src/app/Debug.ts:135
 msgid "Debug Tools"
-msgstr ""
+msgstr "เครื่องมือดีบัก"
 
 #: src/app/Debug.ts:137
 msgid "Ctrl+Shift+Alt+D to exit"
-msgstr ""
+msgstr "กด Ctrl+Shift+Alt+D เพื่อออก"
 
 #: src/app/Debug.ts:1376
 msgid "Event handling has been delayed for an unexpectedly long time: {0}ms"
-msgstr ""
+msgstr "การจัดการเหตุการณ์ถูกหน่วงเวลานานกว่าที่คาดไว้: {0} มิลลิวินาที"
 
 #: src/canvas/sections/CommentListSection.ts:164
 msgid "A comment is being edited"
-msgstr ""
+msgstr "กำลังแก้ไขความคิดเห็น"
 
 #: src/canvas/sections/CommentListSection.ts:165
 msgid "Please save or discard the comment currently being edited."
-msgstr ""
+msgstr "กรุณาบันทึกหรือยกเลิกความคิดเห็นที่กำลังแก้ไขอยู่ครับ"
 
 #: src/canvas/sections/CommentListSection.ts:1166
 msgid "Modify"
-msgstr ""
+msgstr "แก้ไข"
 
 #: src/canvas/sections/CommentListSection.ts:1172
 #: src/canvas/sections/CommentSection.ts:169
 msgid "Reply"
-msgstr ""
+msgstr "ตอบกลับ"
 
 #: src/canvas/sections/CommentListSection.ts:1178
 msgid "Remove"
-msgstr ""
+msgstr "ลบ"
 
 #: src/canvas/sections/CommentListSection.ts:1184
 msgid "Remove Thread"
-msgstr ""
+msgstr "ลบเธรด"
 
 #: src/canvas/sections/CommentListSection.ts:1190
 msgid "Resolve"
-msgstr ""
+msgstr "แก้ไข"
 
 #: src/canvas/sections/CommentListSection.ts:1190
 msgid "Unresolve"
-msgstr ""
+msgstr "เลิกแก้ไข"
 
 #: src/canvas/sections/CommentListSection.ts:1196
 msgid "Unresolve Thread"
-msgstr ""
+msgstr "ยกเลิกการแก้ไขเธรด"
 
 #: src/canvas/sections/CommentListSection.ts:1196
 msgid "Resolve Thread"
-msgstr ""
+msgstr "แก้ไขปัญหาเธรด"
 
 #: src/canvas/sections/CommentListSection.ts:1202
 msgid "Promote to top comment"
-msgstr ""
+msgstr "เลื่อนเป็นความคิดเห็นบนสุด"
 
 #: src/canvas/sections/CommentListSection.ts:1208
 msgid "Show on the side"
-msgstr ""
+msgstr "แสดงด้านข้าง"
 
 #: src/canvas/sections/CommentListSection.ts:1208
 msgid "Open in full view"
-msgstr ""
+msgstr "เปิดในมุมมองเต็มหน้าจอ"
 
 #: src/canvas/sections/CommentListSection.ts:1236
 #: src/control/Control.JSDialogBuilder.js:1950
 #: src/layer/tile/CanvasTileLayer.js:3421
 #: src/layer/tile/CanvasTileLayer.js:3432
 msgid "Comment"
-msgstr ""
+msgstr "ความคิดเห็น"
 
 #: src/canvas/sections/CommentListSection.ts:1456
 #: src/canvas/sections/CommentListSection.ts:1469
 msgid "Comments Updated"
-msgstr ""
+msgstr "อัปเดตความคิดเห็นแล้ว"
 
 #: src/canvas/sections/CommentListSection.ts:1457
 msgid "Another user has removed this comment."
-msgstr ""
+msgstr "ผู้ใช้รายอื่นได้ลบความคิดเห็นนี้"
 
 #: src/canvas/sections/CommentListSection.ts:1470
 msgid ""
 "Another user has updated the comment. Would you like to overwrite those "
 "changes?"
-msgstr ""
+msgstr "ผู้ใช้รายอื่นได้อัปเดตความคิดเห็น คุณต้องการจะเขียนทับความคิดเห็นเหล่านั้นหรือไม่"
+"การเปลี่ยนแปลง?"
 
 #: src/canvas/sections/CommentListSection.ts:1471 src/core/Socket.js:1459
 msgid "Overwrite"
-msgstr ""
+msgstr "เขียนทับ"
 
 #: src/canvas/sections/CommentListSection.ts:1472
 msgid "Update"
-msgstr ""
+msgstr "อัปเดต"
 
 #: src/canvas/sections/CommentListSection.ts:1573
 #: src/canvas/sections/CommentListSection.ts:1647
 msgid "Autosaved"
-msgstr ""
+msgstr "บันทึกอัตโนมัติ"
 
 #: src/canvas/sections/CommentSection.ts:232
 msgid "Edit comment"
-msgstr ""
+msgstr "แก้ไขความคิดเห็น"
 
 #: src/canvas/sections/CommentSection.ts:239
 msgid "Reply comment"
-msgstr ""
+msgstr "ตอบความคิดเห็น"
 
 #: src/canvas/sections/CommentSection.ts:317
 msgid "Open menu"
-msgstr ""
+msgstr "เปิดเมนู"
 
 #: src/canvas/sections/CommentSection.ts:383
 #: src/canvas/sections/CommentSection.ts:384
 msgid "Accept change"
-msgstr ""
+msgstr "ยอมรับการเปลี่ยนแปลง"
 
 #: src/canvas/sections/CommentSection.ts:390
 #: src/canvas/sections/CommentSection.ts:391
 msgid "Reject change"
-msgstr ""
+msgstr "ปฏิเสธการเปลี่ยนแปลง"
 
 #: src/canvas/sections/CommentSection.ts:414
 msgid "Resolved"
-msgstr ""
+msgstr "แก้ไขแล้ว"
 
 #: src/canvas/sections/ShapeHandlesSection.ts:459
 msgid "Document contains unsupported media"
-msgstr ""
+msgstr "เอกสารมีสื่อที่ไม่ได้รับการสนับสนุน"
 
 #: src/canvas/sections/URLPopUpSection.ts:66
 msgid "Copy link location"
-msgstr ""
+msgstr "คัดลอกตำแหน่งลิงก์"
 
 #: src/canvas/sections/URLPopUpSection.ts:80
 msgid "Edit link"
-msgstr ""
+msgstr "แก้ไขลิงค์"
 
 #: src/canvas/sections/URLPopUpSection.ts:95
 msgid "Remove link"
-msgstr ""
+msgstr "ลบลิงก์"
 
 #: src/control/ColorPicker.ts:270
 msgid "No color"
-msgstr ""
+msgstr "ไม่มีสี"
 
 #: src/control/ColorPicker.ts:275
 msgid "Automatic color"
-msgstr ""
+msgstr "สีอัตโนมัติ"
 
 #: src/control/Control.AboutDialog.ts:112
 msgid "This version of {productname} is powered by"
-msgstr ""
+msgstr "{productname} เวอร์ชันนี้ขับเคลื่อนโดย"
 
 #: src/control/Control.AboutDialog.ts:135
 msgid "\"Slow Proxy\""
-msgstr ""
+msgstr "\"พร็อกซีช้า\""
 
 #: src/control/Control.AboutDialog.ts:147
 msgid "Time zone:"
-msgstr ""
+msgstr "เขตเวลา:"
 
 #: src/control/Control.AboutDialog.ts:185
 msgid "Copy all version information in English"
-msgstr ""
+msgstr "คัดลอกข้อมูลเวอร์ชันทั้งหมดเป็นภาษาอังกฤษ"
 
 #: src/control/Control.AddressInputField.ts:68
 msgid "cell address"
-msgstr ""
+msgstr "ที่อยู่ของเซลล์"
 
 #: src/control/Control.AlertDialog.js:53
 msgid "External link"
-msgstr ""
+msgstr "ลิงค์ภายนอก"
 
 #: src/control/Control.AlertDialog.js:54
 msgid "Open link"
-msgstr ""
+msgstr "เปิดลิงก์"
 
 #: src/control/Control.AlertDialog.js:66
 msgid "Copied external sources are not allowed"
-msgstr ""
+msgstr "ไม่อนุญาตให้คัดลอกแหล่งข้อมูลภายนอก"
 
 #: src/control/Control.AlertDialog.js:67
 msgid "It seems you have copied a selection that includes external images."
-msgstr ""
+msgstr "ดูเหมือนว่าคุณได้คัดลอกส่วนที่เลือกซึ่งรวมถึงรูปภาพภายนอก"
 
 #: src/control/Control.AlertDialog.js:68
 msgid ""
 "Downloading external resources is forbidden but pasting images is still "
 "possible. Please right click in the image, choose \"Copy Image\" and paste "
 "it into the document instead."
-msgstr ""
+msgstr "ห้ามดาวน์โหลดทรัพยากรภายนอก แต่การวางรูปภาพยังคงทำได้"
+"เป็นไปได้ โปรดคลิกขวาที่รูปภาพ เลือก \"คัดลอกรูปภาพ\" และวาง"
+"ลงในเอกสารแทน"
 
 #: src/control/Control.AlertDialog.js:72
 msgid "External data source not allowed"
-msgstr ""
+msgstr "แหล่งข้อมูลภายนอกไม่ได้รับอนุญาต"
 
 #: src/control/Control.AlertDialog.js:73
 msgid "It seems you have tried to insert external data."
-msgstr ""
+msgstr "ดูเหมือนว่าคุณได้พยายามแทรกข้อมูลภายนอก"
 
 #: src/control/Control.AlertDialog.js:74
 msgid ""
 "Selected external data source is forbidden. Please contact the system "
 "administrator."
-msgstr ""
+msgstr "แหล่งข้อมูลภายนอกที่เลือกไม่ได้รับอนุญาต กรุณาติดต่อระบบ"
+"ผู้ดูแลระบบ"
 
 #: src/control/Control.AlertDialog.js:86
 msgid "Don't show this again"
-msgstr ""
+msgstr "อย่าแสดงสิ่งนี้อีก"
 
 #: src/control/Control.AlertDialog.js:105
 msgid "The server encountered a {0} error while parsing the {1} command."
-msgstr ""
+msgstr "เซิร์ฟเวอร์พบข้อผิดพลาด {0} ในขณะวิเคราะห์คำสั่ง {1}"
 
 #: src/control/Control.Command.js:90
 msgid "Unlock"
-msgstr ""
+msgstr "ปลดล็อค"
 
 #: src/control/Control.ContextMenu.js:300
 msgid "Paste Special"
@@ -862,63 +871,64 @@ msgstr "วางแบบพิเศษ"
 
 #: src/control/Control.ContextMenu.js:307
 msgid "Copy Cells"
-msgstr ""
+msgstr "คัดลอกเซลล์"
 
 #: src/control/Control.ContextMenu.js:312
 msgid "Fill Series"
-msgstr ""
+msgstr "เติมลำดับ"
 
 #: src/control/Control.DocumentNameInput.js:113
 msgid "Path"
-msgstr ""
+msgstr "เส้นทาง"
 
 #: src/control/Control.DocumentRepair.js:27
 #: src/control/Control.DocumentRepair.js:28
 msgid "Repair Document"
-msgstr ""
+msgstr "เอกสารการซ่อม"
 
 #: src/control/Control.DocumentRepair.js:124
 #: src/control/Control.UserList.ts:387
 msgid "You"
-msgstr ""
+msgstr "คุณ"
 
 #: src/control/Control.DocumentRepair.js:140
 msgid "Type"
-msgstr ""
+msgstr "ชนิด"
 
 #: src/control/Control.DocumentRepair.js:140
 msgid "What?"
-msgstr ""
+msgstr "อะไร"
 
 #: src/control/Control.DocumentRepair.js:140
 msgid "Who?"
-msgstr ""
+msgstr "ใคร?"
 
 #: src/control/Control.DocumentRepair.js:140
 msgid "When?"
-msgstr ""
+msgstr "เมื่อไหร่?"
 
 #: src/control/Control.DocumentRepair.js:159
 msgid "You have not done anything to rollback yet..."
-msgstr ""
+msgstr "คุณยังไม่ได้ทำอะไรเพื่อย้อนกลับเลย..."
 
 #: src/control/Control.DocumentRepair.js:169
 msgid "Redo"
-msgstr ""
+msgstr "ทำซ้ำ"
 
 #: src/control/Control.DocumentRepair.js:170
 msgid "Undo"
-msgstr ""
+msgstr "เลิกทำ"
 
 #: src/control/Control.DownloadProgress.js:43
 msgid "Download Selection"
-msgstr ""
+msgstr "ดาวน์โหลดรายการที่เลือก"
 
 #: src/control/Control.DownloadProgress.js:48
 msgid ""
 "If you want to share large elements outside of {productname} it's necessary "
 "to first download them."
-msgstr ""
+msgstr "ถ้าคุณต้องการแชร์องค์ประกอบขนาดใหญ่ภายนอก {productname} จำเป็นต้อง..."
+"เพื่อดาวน์โหลดก่อน"
 
 #: src/control/Control.DownloadProgress.js:61
 #: src/control/Control.NotebookbarCalc.js:288
@@ -926,355 +936,355 @@ msgstr ""
 #: src/control/Control.NotebookbarImpress.js:369
 #: src/control/Control.NotebookbarWriter.js:326
 msgid "Download"
-msgstr ""
+msgstr "ดาวน์โหลด"
 
 #: src/control/Control.DownloadProgress.js:82
 msgid "Downloading clipboard content"
-msgstr ""
+msgstr "การดาวน์โหลดเนื้อหาคลิปบอร์ด"
 
 #: src/control/Control.DownloadProgress.js:89
 #: src/control/Control.DownloadProgress.js:114
 #: src/control/Control.PartsPreview.js:297
 msgid "Copy"
-msgstr ""
+msgstr "สำเนา"
 
 #: src/control/Control.DownloadProgress.js:112
 msgid "Download completed and ready to be copied to clipboard."
-msgstr ""
+msgstr "ดาวน์โหลดเสร็จสิ้นและพร้อมที่จะคัดลอกไปยังคลิปบอร์ด"
 
 #: src/control/Control.DownloadProgress.js:113
 msgid ""
 "From now on clipboard notifications will discreetly appear at the bottom."
-msgstr ""
+msgstr "จากนี้ไป การแจ้งเตือนบนคลิปบอร์ดจะปรากฏที่ด้านล่างโดยไม่เด่นชัด"
 
 #: src/control/Control.DownloadProgress.js:273
 msgid "Content copied to clipboard"
-msgstr ""
+msgstr "เนื้อหาถูกคัดลอกไปยังคลิปบอร์ดแล้ว"
 
 #: src/control/Control.DownloadProgress.js:303
 msgid "Download failed"
-msgstr ""
+msgstr "การดาวน์โหลดล้มเหลว"
 
 #: src/control/Control.ESignature.ts:127
 msgid "Andorra"
-msgstr ""
+msgstr "อันดอร์รา"
 
 #: src/control/Control.ESignature.ts:128
 msgid "United Arab Emirates"
-msgstr ""
+msgstr "สหรัฐอาหรับเอมิเรตส์"
 
 #: src/control/Control.ESignature.ts:129
 msgid "Albania"
-msgstr ""
+msgstr "แอลเบเนีย"
 
 #: src/control/Control.ESignature.ts:130
 msgid "Armenia"
-msgstr ""
+msgstr "อาร์เมเนีย"
 
 #: src/control/Control.ESignature.ts:131
 msgid "Argentina"
-msgstr ""
+msgstr "อาร์เจนตินา"
 
 #: src/control/Control.ESignature.ts:132
 msgid "Austria"
-msgstr ""
+msgstr "ออสเตรีย"
 
 #: src/control/Control.ESignature.ts:133
 msgid "Australia"
-msgstr ""
+msgstr "ออสเตรเลีย"
 
 #: src/control/Control.ESignature.ts:134
 msgid "Åland Islands"
-msgstr ""
+msgstr "หมู่เกาะโอลันด์"
 
 #: src/control/Control.ESignature.ts:135
 msgid "Azerbaijan"
-msgstr ""
+msgstr "อาเซอร์ไบจาน"
 
 #: src/control/Control.ESignature.ts:136
 msgid "Bosnia and Herzegovina"
-msgstr ""
+msgstr "บอสเนียและเฮอร์เซโกวีนา"
 
 #: src/control/Control.ESignature.ts:137
 msgid "Belgium"
-msgstr ""
+msgstr "เบลเยียม"
 
 #: src/control/Control.ESignature.ts:138
 msgid "Bulgaria"
-msgstr ""
+msgstr "บัลแกเรีย"
 
 #: src/control/Control.ESignature.ts:139
 msgid "Brazil"
-msgstr ""
+msgstr "บราซิล"
 
 #: src/control/Control.ESignature.ts:140
 msgid "Belarus"
-msgstr ""
+msgstr "เบลารุส"
 
 #: src/control/Control.ESignature.ts:141
 msgid "Canada"
-msgstr ""
+msgstr "แคนาดา"
 
 #: src/control/Control.ESignature.ts:142
 msgid "Switzerland"
-msgstr ""
+msgstr "สวิตเซอร์แลนด์"
 
 #: src/control/Control.ESignature.ts:143
 msgid "Chile"
-msgstr ""
+msgstr "ชิลี"
 
 #: src/control/Control.ESignature.ts:144
 msgid "China"
-msgstr ""
+msgstr "จีน"
 
 #: src/control/Control.ESignature.ts:145
 msgid "Cyprus"
-msgstr ""
+msgstr "ไซปรัส"
 
 #: src/control/Control.ESignature.ts:146
 msgid "Czech Republic"
-msgstr ""
+msgstr "สาธารณรัฐเช็ก"
 
 #: src/control/Control.ESignature.ts:147
 msgid "Germany"
-msgstr ""
+msgstr "เยอรมนี"
 
 #: src/control/Control.ESignature.ts:148
 msgid "Denmark"
-msgstr ""
+msgstr "เดนมาร์ก"
 
 #: src/control/Control.ESignature.ts:149
 msgid "Estonia"
-msgstr ""
+msgstr "เอสโตเนีย"
 
 #: src/control/Control.ESignature.ts:150
 msgid "Spain"
-msgstr ""
+msgstr "สเปน"
 
 #: src/control/Control.ESignature.ts:151
 msgid "Finland"
-msgstr ""
+msgstr "ฟินแลนด์"
 
 #: src/control/Control.ESignature.ts:152
 msgid "France"
-msgstr ""
+msgstr "ฝรั่งเศส"
 
 #: src/control/Control.ESignature.ts:153
 msgid "United Kingdom"
-msgstr ""
+msgstr "สหราชอาณาจักร"
 
 #: src/control/Control.ESignature.ts:154
 msgid "Georgia"
-msgstr ""
+msgstr "จอร์เจีย"
 
 #: src/control/Control.ESignature.ts:155
 msgid "Guernsey"
-msgstr ""
+msgstr "เกิร์นซีย์"
 
 #: src/control/Control.ESignature.ts:156
 msgid "Greece"
-msgstr ""
+msgstr "กรีซ"
 
 #: src/control/Control.ESignature.ts:157
 msgid "Croatia"
-msgstr ""
+msgstr "โครเอเชีย"
 
 #: src/control/Control.ESignature.ts:158
 msgid "Hungary"
-msgstr ""
+msgstr "ฮังการี"
 
 #: src/control/Control.ESignature.ts:159
 msgid "Indonesia"
-msgstr ""
+msgstr "อินโดนีเซีย"
 
 #: src/control/Control.ESignature.ts:160
 msgid "Ireland"
-msgstr ""
+msgstr "ไอร์แลนด์"
 
 #: src/control/Control.ESignature.ts:161
 msgid "Israel"
-msgstr ""
+msgstr "อิสราเอล"
 
 #: src/control/Control.ESignature.ts:162
 msgid "India"
-msgstr ""
+msgstr "อินเดีย"
 
 #: src/control/Control.ESignature.ts:163
 msgid "Iceland"
-msgstr ""
+msgstr "ไอซ์แลนด์"
 
 #: src/control/Control.ESignature.ts:164
 msgid "Italy"
-msgstr ""
+msgstr "อิตาลี"
 
 #: src/control/Control.ESignature.ts:165
 msgid "Japan"
-msgstr ""
+msgstr "ญี่ปุ่น"
 
 #: src/control/Control.ESignature.ts:166
 msgid "Kenya"
-msgstr ""
+msgstr "เคนยา"
 
 #: src/control/Control.ESignature.ts:167
 msgid "South Korea"
-msgstr ""
+msgstr "เกาหลีใต้"
 
 #: src/control/Control.ESignature.ts:168
 msgid "Kazakhstan"
-msgstr ""
+msgstr "คาซัคสถาน"
 
 #: src/control/Control.ESignature.ts:169
 msgid "Liechtenstein"
-msgstr ""
+msgstr "ลิกเตนสไตน์"
 
 #: src/control/Control.ESignature.ts:170
 msgid "Lithuania"
-msgstr ""
+msgstr "ลิทัวเนีย"
 
 #: src/control/Control.ESignature.ts:171
 msgid "Luxembourg"
-msgstr ""
+msgstr "ลักเซมเบิร์ก"
 
 #: src/control/Control.ESignature.ts:172
 msgid "Latvia"
-msgstr ""
+msgstr "ลัตเวีย"
 
 #: src/control/Control.ESignature.ts:173
 msgid "Monaco"
-msgstr ""
+msgstr "โมนาโก"
 
 #: src/control/Control.ESignature.ts:174
 msgid "Moldova, Republic of"
-msgstr ""
+msgstr "มอลโดวา สาธารณรัฐ"
 
 #: src/control/Control.ESignature.ts:175
 msgid "Montenegro"
-msgstr ""
+msgstr "มอนเตเนโกร"
 
 #: src/control/Control.ESignature.ts:176
 msgid "North Macedonia, Republic of"
-msgstr ""
+msgstr "มาซิโดเนียเหนือ สาธารณรัฐ"
 
 #: src/control/Control.ESignature.ts:177
 msgid "Malta"
-msgstr ""
+msgstr "มอลตา"
 
 #: src/control/Control.ESignature.ts:178
 msgid "Mexico"
-msgstr ""
+msgstr "เม็กซิโก"
 
 #: src/control/Control.ESignature.ts:179
 msgid "Netherlands"
-msgstr ""
+msgstr "เนเธอร์แลนด์"
 
 #: src/control/Control.ESignature.ts:180
 msgid "Norway"
-msgstr ""
+msgstr "นอร์เวย์"
 
 #: src/control/Control.ESignature.ts:181
 msgid "New Zealand"
-msgstr ""
+msgstr "นิวซีแลนด์"
 
 #: src/control/Control.ESignature.ts:182
 msgid "Philippines"
-msgstr ""
+msgstr "ฟิลิปปินส์"
 
 #: src/control/Control.ESignature.ts:183
 msgid "Poland"
-msgstr ""
+msgstr "โปแลนด์"
 
 #: src/control/Control.ESignature.ts:184
 msgid "Portugal"
-msgstr ""
+msgstr "โปรตุเกส"
 
 #: src/control/Control.ESignature.ts:185
 msgid "Qatar"
-msgstr ""
+msgstr "กาตาร์"
 
 #: src/control/Control.ESignature.ts:186
 msgid "Romania"
-msgstr ""
+msgstr "โรมาเนีย"
 
 #: src/control/Control.ESignature.ts:187
 msgid "Serbia"
-msgstr ""
+msgstr "เซอร์เบีย"
 
 #: src/control/Control.ESignature.ts:188
 msgid "Russian Federation"
-msgstr ""
+msgstr "สหพันธรัฐรัสเซีย"
 
 #: src/control/Control.ESignature.ts:189
 msgid "Saudi Arabia"
-msgstr ""
+msgstr "ซาอุดีอาระเบีย"
 
 #: src/control/Control.ESignature.ts:190
 msgid "Sweden"
-msgstr ""
+msgstr "สวีเดน"
 
 #: src/control/Control.ESignature.ts:191
 msgid "Singapore"
-msgstr ""
+msgstr "สิงคโปร์"
 
 #: src/control/Control.ESignature.ts:192
 msgid "Slovenia"
-msgstr ""
+msgstr "สโลวีเนีย"
 
 #: src/control/Control.ESignature.ts:193
 msgid "Slovakia"
-msgstr ""
+msgstr "สโลวาเกีย"
 
 #: src/control/Control.ESignature.ts:194
 msgid "San Marino"
-msgstr ""
+msgstr "ซานมารีโน"
 
 #: src/control/Control.ESignature.ts:195
 msgid "Turkey"
-msgstr ""
+msgstr "ตุรกี"
 
 #: src/control/Control.ESignature.ts:196
 msgid "Taiwan, Province of China"
-msgstr ""
+msgstr "ไต้หวัน, มณฑลหนึ่งของจีน"
 
 #: src/control/Control.ESignature.ts:197
 msgid "Ukraine"
-msgstr ""
+msgstr "ยูเครน"
 
 #: src/control/Control.ESignature.ts:198
 msgid "United States of America"
-msgstr ""
+msgstr "สหรัฐอเมริกา"
 
 #: src/control/Control.ESignature.ts:199
 msgid "Holy See (Vatican City State)"
-msgstr ""
+msgstr "นครรัฐวาติกัน"
 
 #: src/control/Control.ESignature.ts:200
 msgid "Kosovo"
-msgstr ""
+msgstr "โคโซโว"
 
 #: src/control/Control.ESignature.ts:201
 msgid "South Africa"
-msgstr ""
+msgstr "แอฟริกาใต้"
 
 #: src/control/Control.ESignature.ts:335
 msgid "The document is being signed and will be availably shortly"
-msgstr ""
+msgstr "เอกสรกำลังถูกลงลายมือชื่อและจะพร้อมใช้งานในเร็วๆ นี้"
 
 #: src/control/Control.ESignatureDialog.ts:91
 msgid "Country:"
-msgstr ""
+msgstr "ประเทศ:"
 
 #: src/control/Control.ESignatureDialog.ts:120
 msgid "Provider:"
-msgstr ""
+msgstr "ผู้ให้บริการ:"
 
 #: src/control/Control.ESignatureDialog.ts:175
 #: src/control/Control.ESignatureDialog.ts:176
 msgid "Insert Electronic Signature"
-msgstr ""
+msgstr "แทรกลายเซ็นอิเล็กทรอนิกส์"
 
 #: src/control/Control.FormulaBarJSDialog.js:18
 msgid "Expand Formula Bar"
-msgstr ""
+msgstr "ขยายแถบสูตร"
 
 #: src/control/Control.FormulaBarJSDialog.js:19
 #, fuzzy
@@ -1283,122 +1293,122 @@ msgstr "ฟังก์ชัน"
 
 #: src/control/Control.FormulaBarJSDialog.js:74
 msgid "Select Function"
-msgstr ""
+msgstr "เลือกฟังก์ชัน"
 
 #: src/control/Control.FormulaBarJSDialog.js:80
 #: src/control/Control.NotebookbarWriter.js:120
 #: src/control/Control.NotebookbarWriter.js:1488
 msgid "Formula"
-msgstr ""
+msgstr "สูตร"
 
 #: src/control/Control.FormulaBarJSDialog.js:86
 #: src/control/Control.MobileTopBar.ts:42
 msgid "Accept"
-msgstr ""
+msgstr "ยอมรับ"
 
 #: src/control/Control.FormulaBarJSDialog.js:170
 msgid "Collapse Formula Bar"
-msgstr ""
+msgstr "ยุบแถบสูตร"
 
 #: src/control/Control.IdleHandler.ts:43
 msgid "Idle document - please click to reload and resume editing"
-msgstr ""
+msgstr "เอกสารที่ไม่ได้ใช้งาน - กรุณาคลิกเพื่อโหลดซ้ำและดำเนินการแก้ไขต่อ"
 
 #: src/control/Control.IdleHandler.ts:45
 msgid "Idle document - please tap to reload and resume editing"
-msgstr ""
+msgstr "เอกสารที่ไม่ได้ใช้งาน - โปรดแตะเพื่อโหลดซ้ำและดำเนินการแก้ไขต่อ"
 
 #: src/control/Control.JSDialog.js:322
 msgid "Close dialog"
-msgstr ""
+msgstr "ปิดกล่องโต้ตอบ"
 
 #: src/control/Control.JSDialogBuilder.js:499
 msgid "Solid"
-msgstr ""
+msgstr "ทึบแน่น"
 
 #: src/control/Control.JSDialogBuilder.js:502
 msgid "Linear"
-msgstr ""
+msgstr "เชิงเส้น"
 
 #: src/control/Control.JSDialogBuilder.js:505
 msgid "Axial"
-msgstr ""
+msgstr "ตามแกน"
 
 #: src/control/Control.JSDialogBuilder.js:508
 msgid "Radial"
-msgstr ""
+msgstr "รัศมี"
 
 #: src/control/Control.JSDialogBuilder.js:511
 msgid "Ellipsoid"
-msgstr ""
+msgstr "รูปทรงรี"
 
 #: src/control/Control.JSDialogBuilder.js:515
 msgid "Quadratic"
-msgstr ""
+msgstr "กำลังสอง"
 
 #: src/control/Control.JSDialogBuilder.js:518
 msgid "Square"
-msgstr ""
+msgstr "สี่เหลี่ยมจัตุรัส"
 
 #: src/control/Control.JSDialogBuilder.js:521
 msgid "Fixed size"
-msgstr ""
+msgstr "ขนาดคงที่"
 
 #: src/control/Control.JSDialogBuilder.js:1478
 msgid "From"
-msgstr ""
+msgstr "จาก"
 
 #: src/control/Control.JSDialogBuilder.js:1481
 msgid "To"
-msgstr ""
+msgstr "ถึง"
 
 #: src/control/Control.JSDialogBuilder.js:1484
 msgid "Color"
-msgstr ""
+msgstr "สี"
 
 #: src/control/Control.JSDialogBuilder.js:1560
 msgid "Select range"
-msgstr ""
+msgstr "เลือกช่วง"
 
 #: src/control/Control.JSDialogBuilder.js:1679
 #: src/control/Control.NotebookbarBuilder.js:153
 msgid "Font Name"
-msgstr ""
+msgstr "ชื่อแบบอักษร"
 
 #: src/control/Control.JSDialogBuilder.js:1681 src/control/Toolbar.js:134
 msgid "Font Size"
-msgstr ""
+msgstr "ขนาดตัวอักษร"
 
 #: src/control/Control.JSDialogBuilder.js:1683
 #: src/control/Control.TopToolbar.js:486
 msgid "Style"
-msgstr ""
+msgstr "สไตล์"
 
 #: src/control/Control.JSDialogBuilder.js:1936
 msgid "reply"
-msgstr ""
+msgstr "ตอบกลับ"
 
 #: src/control/Control.JSDialogBuilder.js:1939
 msgid "replies"
-msgstr ""
+msgstr "คำตอบ"
 
 #: src/control/Control.JSDialogBuilder.js:2014
 msgid "Insert Comment"
-msgstr ""
+msgstr "แทรกความคิดเห็น"
 
 #: src/control/Control.JSDialogBuilder.js:2310
 msgid "Open {name}"
-msgstr ""
+msgstr "เปิด {name}"
 
 #: src/control/Control.JSDialogBuilder.js:2632
 #: src/control/Control.Menubar.ts:926
 msgid "Rows"
-msgstr ""
+msgstr "แถว"
 
 #: src/control/Control.JSDialogBuilder.js:2633
 #: src/control/Control.Menubar.ts:929
 msgid "Columns"
-msgstr ""
+msgstr "คอลัมน์"
 
 #: src/control/Control.JSDialogBuilder.js:2653
 #, fuzzy
@@ -1410,47 +1420,47 @@ msgstr "แทรกตาราง"
 #: src/control/Control.Menubar.ts:585 src/control/Control.Menubar.ts:726
 #: src/control/Control.Menubar.ts:1014 src/control/Control.StatusBar.js:548
 msgid "None (Do not check spelling)"
-msgstr ""
+msgstr "ไม่มี (อย่าตรวจสอบการสะกดคำ)"
 
 #: src/control/Control.LanguageDialog.js:82
 msgid "Select language"
-msgstr ""
+msgstr "เลือกภาษา"
 
 #: src/control/Control.LanguageDialog.js:103
 msgid "Language"
-msgstr ""
+msgstr "ภาษา"
 
 #: src/control/Control.Mention.ts:180
 msgid "No search results found!"
-msgstr ""
+msgstr "ไม่พบผลการค้นหา!"
 
 #: src/control/Control.Menubar.ts:97 src/control/Control.Menubar.ts:112
 #: src/control/Control.Menubar.ts:1049
 #: src/control/Control.NotebookbarBuilder.js:336
 #: src/control/Control.NotebookbarBuilder.js:549
 msgid "ODF text document (.odt)"
-msgstr ""
+msgstr "เอกสารข้อความ ODF (.odt)"
 
 #: src/control/Control.Menubar.ts:98 src/control/Control.Menubar.ts:113
 #: src/control/Control.Menubar.ts:1050
 #: src/control/Control.NotebookbarBuilder.js:348
 #: src/control/Control.NotebookbarBuilder.js:561
 msgid "Word 2003 Document (.doc)"
-msgstr ""
+msgstr "เอกสาร Word 2003 (.doc)"
 
 #: src/control/Control.Menubar.ts:99 src/control/Control.Menubar.ts:114
 #: src/control/Control.Menubar.ts:1051
 #: src/control/Control.NotebookbarBuilder.js:344
 #: src/control/Control.NotebookbarBuilder.js:557
 msgid "Word Document (.docx)"
-msgstr ""
+msgstr "เอกสาร Word (.docx)"
 
 #: src/control/Control.Menubar.ts:100 src/control/Control.Menubar.ts:115
 #: src/control/Control.Menubar.ts:1052
 #: src/control/Control.NotebookbarBuilder.js:340
 #: src/control/Control.NotebookbarBuilder.js:553
 msgid "Rich Text (.rtf)"
-msgstr ""
+msgstr "ข้อความที่อุดมไปด้วย (.rtf)"
 
 #: src/control/Control.Menubar.ts:102 src/control/Control.Menubar.ts:109
 #: src/control/Control.Menubar.ts:432 src/control/Control.Menubar.ts:438
@@ -1461,7 +1471,7 @@ msgstr ""
 #: src/control/Control.Menubar.ts:1168 src/control/Control.Menubar.ts:1175
 #: src/control/Control.Menubar.ts:1223 src/control/Control.Menubar.ts:1233
 msgid "Export as"
-msgstr ""
+msgstr "ส่งออกเป็น"
 
 #: src/control/Control.Menubar.ts:103 src/control/Control.Menubar.ts:110
 #: src/control/Control.Menubar.ts:433 src/control/Control.Menubar.ts:439
@@ -1480,39 +1490,39 @@ msgstr ""
 #: src/control/Control.NotebookbarBuilder.js:635
 #: src/control/Control.NotebookbarDraw.js:312
 msgid "PDF Document (.pdf)"
-msgstr ""
+msgstr "เอกสาร PDF (.pdf)"
 
 #: src/control/Control.Menubar.ts:104 src/control/Control.Menubar.ts:116
 #: src/control/Control.Menubar.ts:1039 src/control/Control.Menubar.ts:1053
 #: src/control/Control.NotebookbarBuilder.js:352
 #: src/control/Control.NotebookbarBuilder.js:614
 msgid "EPUB (.epub)"
-msgstr ""
+msgstr "อีพีบี (.epub)"
 
 #: src/control/Control.Menubar.ts:106 src/control/Control.UIManager.ts:317
 msgid "Rename Document"
-msgstr ""
+msgstr "เปลี่ยนชื่อเอกสาร"
 
 #: src/control/Control.Menubar.ts:107 src/control/Control.Menubar.ts:436
 #: src/control/Control.Menubar.ts:610 src/control/Control.Menubar.ts:751
 #: src/control/Control.Menubar.ts:1041 src/control/Control.Menubar.ts:1106
 #: src/control/Control.Menubar.ts:1171 src/control/Control.Menubar.ts:1226
 msgid "Share..."
-msgstr ""
+msgstr "แบ่งปัน..."
 
 #: src/control/Control.Menubar.ts:108 src/control/Control.Menubar.ts:437
 #: src/control/Control.Menubar.ts:612 src/control/Control.Menubar.ts:752
 #: src/control/Control.Menubar.ts:1042 src/control/Control.Menubar.ts:1107
 #: src/control/Control.Menubar.ts:1173 src/control/Control.Menubar.ts:1227
 msgid "See revision history"
-msgstr ""
+msgstr "ดูประวัติการแก้ไข"
 
 #: src/control/Control.Menubar.ts:109 src/control/Control.Menubar.ts:438
 #: src/control/Control.Menubar.ts:613 src/control/Control.Menubar.ts:753
 #: src/control/Control.Menubar.ts:1046 src/control/Control.Menubar.ts:1111
 #: src/control/Control.Menubar.ts:1175 src/control/Control.Menubar.ts:1233
 msgid "Download as"
-msgstr ""
+msgstr "ดาวน์โหลดเป็น"
 
 #: src/control/Control.Menubar.ts:111 src/control/Control.Menubar.ts:440
 #: src/control/Control.Menubar.ts:615 src/control/Control.Menubar.ts:755
@@ -1522,11 +1532,11 @@ msgstr ""
 #: src/control/Control.NotebookbarBuilder.js:401
 #: src/control/Control.NotebookbarBuilder.js:443
 msgid "PDF Document (.pdf) as..."
-msgstr ""
+msgstr "เอกสาร PDF (.pdf) เป็น..."
 
 #: src/control/Control.Menubar.ts:117 src/control/Control.Menubar.ts:760
 msgid "HTML file (.html)"
-msgstr ""
+msgstr "ไฟล์ HTML (.html)"
 
 #: src/control/Control.Menubar.ts:122 src/control/Control.Menubar.ts:459
 #: src/control/Control.Menubar.ts:621 src/control/Control.Menubar.ts:768
@@ -1543,7 +1553,7 @@ msgstr "ปิดเอกสาร"
 #: src/control/Control.NotebookbarImpress.js:384
 #: src/control/Control.NotebookbarWriter.js:341
 msgid "Repair"
-msgstr ""
+msgstr "ซ่อมแซม"
 
 #: src/control/Control.Menubar.ts:157 src/control/Control.Menubar.ts:163
 #: src/control/Control.Menubar.ts:476 src/control/Control.Menubar.ts:482
@@ -1555,26 +1565,26 @@ msgstr ""
 #: src/control/Control.NotebookbarWriter.js:1585
 #: src/control/Control.StatusBar.js:280
 msgid "Reset zoom"
-msgstr ""
+msgstr "รีเซ็ตการซูม"
 
 #: src/control/Control.Menubar.ts:166 src/control/Control.Menubar.ts:488
 #: src/control/Control.Menubar.ts:650 src/control/Control.Menubar.ts:794
 msgid "Toggle UI Mode"
-msgstr ""
+msgstr "สลับโหมด UI"
 
 #: src/control/Control.Menubar.ts:167 src/control/Control.Menubar.ts:489
 msgid "Show Ruler"
-msgstr ""
+msgstr "แสดงไม้บรรทัด"
 
 #: src/control/Control.Menubar.ts:168 src/control/Control.Menubar.ts:490
 #: src/control/Control.Menubar.ts:655 src/control/Control.Menubar.ts:795
 msgid "Show Status Bar"
-msgstr ""
+msgstr "แสดงแถบสถานะ"
 
 #: src/control/Control.Menubar.ts:169 src/control/Control.Menubar.ts:492
 #: src/control/Control.Menubar.ts:656 src/control/Control.Menubar.ts:796
 msgid "Hide Menu Bar"
-msgstr ""
+msgstr "ซ่อนแถบเมนู"
 
 #: src/control/Control.Menubar.ts:170 src/control/Control.Menubar.ts:493
 #: src/control/Control.Menubar.ts:651 src/control/Control.Menubar.ts:797
@@ -1585,7 +1595,7 @@ msgstr ""
 #: src/control/Control.NotebookbarImpress.js:623
 #: src/control/Control.NotebookbarWriter.js:1668
 msgid "Dark Mode"
-msgstr ""
+msgstr "โหมดมืด"
 
 #: src/control/Control.Menubar.ts:171 src/control/Control.Menubar.ts:494
 #: src/control/Control.Menubar.ts:652 src/control/Control.Menubar.ts:798
@@ -1596,26 +1606,26 @@ msgstr ""
 #: src/control/Control.NotebookbarImpress.js:630
 #: src/control/Control.NotebookbarWriter.js:1675
 msgid "Invert Background"
-msgstr ""
+msgstr "กลับสีพื้นหลัง"
 
 #: src/control/Control.Menubar.ts:173 src/control/Control.Menubar.ts:801
 #: src/control/Control.NotebookbarCalc.js:2225
 #: src/control/Control.NotebookbarWriter.js:929
 #: src/control/Control.NotebookbarWriter.js:1048
 msgid "Style list"
-msgstr ""
+msgstr "รายการสไตล์"
 
 #: src/control/Control.Menubar.ts:181 src/control/Control.Menubar.ts:505
 #: src/control/Control.Menubar.ts:659 src/control/Control.Menubar.ts:812
 #: src/control/Control.Menubar.ts:1296 src/control/Control.Menubar.ts:1346
 #: src/control/Control.Menubar.ts:1360 src/control/Control.Menubar.ts:1383
 msgid "Local Image..."
-msgstr ""
+msgstr "รูปภาพท้องถิ่น..."
 
 #: src/control/Control.Menubar.ts:205 src/control/Control.Menubar.ts:207
 #: src/control/Control.Menubar.ts:1313 src/control/Control.Menubar.ts:1315
 msgid "All"
-msgstr ""
+msgstr "ทั้งหมด"
 
 #: src/control/Control.Menubar.ts:216 src/control/Control.Menubar.ts:516
 #: src/control/Control.Menubar.ts:666 src/control/Control.Menubar.ts:824
@@ -1624,73 +1634,73 @@ msgstr ""
 #: src/control/Control.NotebookbarImpress.js:1394
 #: src/control/Control.NotebookbarWriter.js:1245
 msgid "Smart Picker"
-msgstr ""
+msgstr "เครื่องมือเลือกอัจฉริยะ"
 
 #: src/control/Control.Menubar.ts:217 src/control/Control.Menubar.ts:517
 #: src/control/Control.Menubar.ts:667 src/control/Control.Menubar.ts:825
 msgid "AI Assistant"
-msgstr ""
+msgstr "ผู้ช่วยเอไอ"
 
 #: src/control/Control.Menubar.ts:258
 msgid "Text orientation"
-msgstr ""
+msgstr "การวางแนวข้อความ"
 
 #: src/control/Control.Menubar.ts:328
 #: src/control/Control.NotebookbarWriter.js:63
 msgid "References"
-msgstr ""
+msgstr "อ้างอิง"
 
 #: src/control/Control.Menubar.ts:331
 #: src/control/Control.NotebookbarWriter.js:2045
 msgid "Update Index"
-msgstr ""
+msgstr "อัปเดตดัชนี"
 
 #: src/control/Control.Menubar.ts:340
 #: src/control/Control.NotebookbarWriter.js:2145
 msgid "Add Citation"
-msgstr ""
+msgstr "เพิ่มการอ้างอิง"
 
 #: src/control/Control.Menubar.ts:341
 #: src/control/Control.NotebookbarWriter.js:2158
 msgid "Add Citation Note"
-msgstr ""
+msgstr "เพิ่มบันทึกการอ้างอิง"
 
 #: src/control/Control.Menubar.ts:342
 #: src/control/Control.NotebookbarWriter.js:2131
 msgid "Add Bibliography"
-msgstr ""
+msgstr "เพิ่มบรรณานุกรม"
 
 #: src/control/Control.Menubar.ts:344
 #: src/control/Control.NotebookbarWriter.js:2177
 msgid "Refresh Citations"
-msgstr ""
+msgstr "รีเฟรชการอ้างอิง"
 
 #: src/control/Control.Menubar.ts:345
 #: src/control/Control.NotebookbarWriter.js:2190
 #: src/control/Control.Zotero.js:1533
 msgid "Unlink Citations"
-msgstr ""
+msgstr "ยกเลิกการเชื่อมโยงการอ้างอิง"
 
 #: src/control/Control.Menubar.ts:346
 #: src/control/Control.NotebookbarWriter.js:2203
 msgid "Citation Preferences"
-msgstr ""
+msgstr "การตั้งค่าการอ้างอิง"
 
 #: src/control/Control.Menubar.ts:374 src/control/Control.Menubar.ts:1335
 msgid "Insert Rich Text"
-msgstr ""
+msgstr "แทรก Rich Text"
 
 #: src/control/Control.Menubar.ts:375 src/control/Control.Menubar.ts:1336
 msgid "Insert Checkbox"
-msgstr ""
+msgstr "แทรกช่องทำเครื่องหมาย"
 
 #: src/control/Control.Menubar.ts:376 src/control/Control.Menubar.ts:1337
 msgid "Insert Dropdown"
-msgstr ""
+msgstr "แทรกรายการแบบเลื่อนลง"
 
 #: src/control/Control.Menubar.ts:377 src/control/Control.Menubar.ts:1338
 msgid "Insert Picture"
-msgstr ""
+msgstr "ใส่รูปภาพ"
 
 #: src/control/Control.Menubar.ts:378 src/control/Control.Menubar.ts:1339
 #, fuzzy
@@ -1704,35 +1714,35 @@ msgstr "แทรกตาราง"
 #: src/control/Control.NotebookbarWriter.js:356
 #: src/control/Control.NotebookbarWriter.js:1547
 msgid "Properties"
-msgstr ""
+msgstr "คุณสมบัติ"
 
 #: src/control/Control.Menubar.ts:399 src/control/Control.Menubar.ts:1084
 #: src/control/Control.NotebookbarWriter.js:466
 msgid "Screen Reading"
-msgstr ""
+msgstr "การอ่านหน้าจอ"
 
 #: src/control/Control.Menubar.ts:412
 #: src/control/Control.NotebookbarWriter.js:430
 msgid "Forum"
-msgstr ""
+msgstr "ฟอรั่ม"
 
 #: src/control/Control.Menubar.ts:413 src/control/Control.Menubar.ts:591
 #: src/control/Control.Menubar.ts:729 src/control/Control.Menubar.ts:1021
 #: src/control/Control.NotebookbarWriter.js:442
 msgid "Online Help"
-msgstr ""
+msgstr "ช่วยเหลือออนไลน์"
 
 #: src/control/Control.Menubar.ts:414 src/control/Control.Menubar.ts:592
 #: src/control/Control.Menubar.ts:730 src/control/Control.Menubar.ts:1022
 #: src/control/Control.NotebookbarWriter.js:455
 msgid "Keyboard shortcuts"
-msgstr ""
+msgstr "แป้นพิมพ์ลัด"
 
 #: src/control/Control.Menubar.ts:415 src/control/Control.Menubar.ts:593
 #: src/control/Control.Menubar.ts:731 src/control/Control.Menubar.ts:1023
 #: src/control/Control.NotebookbarWriter.js:508
 msgid "Report an issue"
-msgstr ""
+msgstr "รายงานปัญหา"
 
 #: src/control/Control.Menubar.ts:416 src/control/Control.Menubar.ts:594
 #: src/control/Control.Menubar.ts:732 src/control/Control.Menubar.ts:1024
@@ -1740,7 +1750,7 @@ msgstr ""
 #: src/control/Control.Menubar.ts:1213 src/control/Control.Menubar.ts:1288
 #: src/control/Control.NotebookbarWriter.js:522
 msgid "Latest Updates"
-msgstr ""
+msgstr "อัพเดทล่าสุด"
 
 #: src/control/Control.Menubar.ts:417 src/control/Control.Menubar.ts:595
 #: src/control/Control.Menubar.ts:733 src/control/Control.Menubar.ts:1025
@@ -1748,7 +1758,7 @@ msgstr ""
 #: src/control/Control.Menubar.ts:1214 src/control/Control.Menubar.ts:1289
 #: src/control/Control.NotebookbarWriter.js:536
 msgid "Send Feedback"
-msgstr ""
+msgstr "ส่งคำติชม"
 
 #: src/control/Control.Menubar.ts:418 src/control/Control.Menubar.ts:596
 #: src/control/Control.Menubar.ts:734 src/control/Control.Menubar.ts:1026
@@ -1756,238 +1766,238 @@ msgstr ""
 #: src/control/Control.ServerAuditDialog.ts:196
 #: src/control/Control.ServerAuditDialog.ts:197
 msgid "Server audit"
-msgstr ""
+msgstr "การตรวจสอบเซิร์ฟเวอร์"
 
 #: src/control/Control.Menubar.ts:421 src/control/Control.Menubar.ts:599
 #: src/control/Control.Menubar.ts:737 src/control/Control.Menubar.ts:1029
 msgid "Last modification"
-msgstr ""
+msgstr "การแก้ไขครั้งล่าสุด"
 
 #: src/control/Control.Menubar.ts:428 src/control/Control.Menubar.ts:441
 #: src/control/Control.Menubar.ts:1114
 #: src/control/Control.NotebookbarBuilder.js:409
 #: src/control/Control.NotebookbarBuilder.js:583
 msgid "ODF presentation (.odp)"
-msgstr ""
+msgstr "การนำเสนอ ODF (.odp)"
 
 #: src/control/Control.Menubar.ts:429 src/control/Control.Menubar.ts:442
 #: src/control/Control.Menubar.ts:1115
 #: src/control/Control.NotebookbarBuilder.js:421
 #: src/control/Control.NotebookbarBuilder.js:591
 msgid "PowerPoint 2003 Presentation (.ppt)"
-msgstr ""
+msgstr "การนำเสนอ PowerPoint 2003 (.ppt)"
 
 #: src/control/Control.Menubar.ts:430 src/control/Control.Menubar.ts:443
 #: src/control/Control.Menubar.ts:1116
 #: src/control/Control.NotebookbarBuilder.js:417
 #: src/control/Control.NotebookbarBuilder.js:587
 msgid "PowerPoint Presentation (.pptx)"
-msgstr ""
+msgstr "การนำเสนอ PowerPoint (.pptx)"
 
 #: src/control/Control.Menubar.ts:435 src/control/Control.Menubar.ts:609
 msgid "Save Comments"
-msgstr ""
+msgstr "บันทึกความคิดเห็น"
 
 #: src/control/Control.Menubar.ts:444
 #: src/control/Control.NotebookbarBuilder.js:425
 msgid "HTML Document (.html)"
-msgstr ""
+msgstr "เอกสาร HTML (.html)"
 
 #: src/control/Control.Menubar.ts:445
 #: src/control/Control.NotebookbarBuilder.js:456
 msgid "Shockwave Flash (.swf)"
-msgstr ""
+msgstr "คลื่นกระแทกแฟลช (.swf)"
 
 #: src/control/Control.Menubar.ts:446
 #: src/control/Control.NotebookbarBuilder.js:468
 msgid "Scalable Vector Graphics (.svg)"
-msgstr ""
+msgstr "กราฟิกเวกเตอร์แบบปรับขนาดได้ (.svg)"
 
 #: src/control/Control.Menubar.ts:447
 #: src/control/Control.NotebookbarBuilder.js:480
 msgid "Current slide as Bitmap (.bmp)"
-msgstr ""
+msgstr "สไลด์ปัจจุบันในรูปแบบบิตแมป (.bmp)"
 
 #: src/control/Control.Menubar.ts:448
 #: src/control/Control.NotebookbarBuilder.js:492
 msgid "Current slide as Graphics Interchange Format (.gif)"
-msgstr ""
+msgstr "สไลด์ปัจจุบันในรูปแบบ Graphics Interchange Format (.gif)"
 
 #: src/control/Control.Menubar.ts:449
 #: src/control/Control.NotebookbarBuilder.js:504
 msgid "Current slide as Portable Network Graphics (.png)"
-msgstr ""
+msgstr "สไลด์ปัจจุบันในรูปแบบ Portable Network Graphics (.png)"
 
 #: src/control/Control.Menubar.ts:450
 #: src/control/Control.NotebookbarBuilder.js:516
 msgid "Current slide as Tag Image File Format (.tiff)"
-msgstr ""
+msgstr "สไลด์ปัจจุบันเป็นแท็กไฟล์ภาพ (.tiff)"
 
 #: src/control/Control.Menubar.ts:456
 #: src/control/Control.NotebookbarBuilder.js:654
 msgid "Full Page Slides"
-msgstr ""
+msgstr "สไลด์เต็มหน้า"
 
 #: src/control/Control.Menubar.ts:457
 #: src/control/Control.NotebookbarBuilder.js:658
 msgid "Notes Pages"
-msgstr ""
+msgstr "หน้าบันทึกย่อ"
 
 #: src/control/Control.Menubar.ts:491
 #: src/control/Control.NotebookbarImpress.js:587
 msgid "Notes View"
-msgstr ""
+msgstr "มุมมองบันทึกย่อ"
 
 #: src/control/Control.Menubar.ts:495
 #: src/control/Control.NotebookbarImpress.js:593
 msgid "Master View"
-msgstr ""
+msgstr "มุมมองหลัก"
 
 #: src/control/Control.Menubar.ts:507
 msgid "Local Multimedia..."
-msgstr ""
+msgstr "สื่อมัลติมีเดียภายในเครื่อง"
 
 #: src/control/Control.Menubar.ts:576 src/control/Control.Menubar.ts:1157
 #: src/control/Control.PresentationBar.js:128
 msgid "Fullscreen presentation"
-msgstr ""
+msgstr "การนำเสนอแบบเต็มหน้าจอ"
 
 #: src/control/Control.Menubar.ts:577
 msgid "Present current slide"
-msgstr ""
+msgstr "นำเสนอสไลด์ปัจจุบัน"
 
 #: src/control/Control.Menubar.ts:578
 msgid "Present in new window"
-msgstr ""
+msgstr "นำเสนอในหน้าต่างใหม่"
 
 #: src/control/Control.Menubar.ts:579
 #: src/control/Control.NotebookbarImpress.js:468
 #: src/slideshow/PresenterConsole.js:230
 msgid "Presenter Console"
-msgstr ""
+msgstr "คอนโซลผู้นำเสนอ"
 
 #: src/control/Control.Menubar.ts:616 src/control/Control.Menubar.ts:1117
 #: src/control/Control.Menubar.ts:1178
 #: src/control/Control.NotebookbarBuilder.js:413
 #: src/control/Control.NotebookbarBuilder.js:526
 msgid "ODF Drawing (.odg)"
-msgstr ""
+msgstr "การวาด ODF (.odg)"
 
 #: src/control/Control.Menubar.ts:744 src/control/Control.Menubar.ts:756
 #: src/control/Control.Menubar.ts:1236
 #: src/control/Control.NotebookbarBuilder.js:375
 #: src/control/Control.NotebookbarBuilder.js:568
 msgid "ODF spreadsheet (.ods)"
-msgstr ""
+msgstr "สเปรดชีต ODF (.ods)"
 
 #: src/control/Control.Menubar.ts:745 src/control/Control.Menubar.ts:757
 #: src/control/Control.Menubar.ts:1237
 #: src/control/Control.NotebookbarBuilder.js:383
 #: src/control/Control.NotebookbarBuilder.js:576
 msgid "Excel 2003 Spreadsheet (.xls)"
-msgstr ""
+msgstr "สเปรดชีต Excel 2003 (.xls)"
 
 #: src/control/Control.Menubar.ts:746 src/control/Control.Menubar.ts:758
 #: src/control/Control.Menubar.ts:1238
 #: src/control/Control.NotebookbarBuilder.js:379
 #: src/control/Control.NotebookbarBuilder.js:572
 msgid "Excel Spreadsheet (.xlsx)"
-msgstr ""
+msgstr "สเปรดชีต Excel (.xlsx)"
 
 #: src/control/Control.Menubar.ts:759
 msgid "CSV file (.csv)"
-msgstr ""
+msgstr "ไฟล์ CSV (.csv)"
 
 #: src/control/Control.Menubar.ts:765
 #: src/control/jsdialog/Definitions.Menu.ts:399
 msgid "Active sheet"
-msgstr ""
+msgstr "แผ่นงานที่ใช้งานอยู่"
 
 #: src/control/Control.Menubar.ts:766 src/control/Control.TopToolbar.js:110
 #: src/control/jsdialog/Definitions.Menu.ts:400
 msgid "All Sheets"
-msgstr ""
+msgstr "แผ่นงานทั้งหมด"
 
 #: src/control/Control.Menubar.ts:804
 #: src/control/Control.NotebookbarCalc.js:1301
 msgid "Focus Cell"
-msgstr ""
+msgstr "โฟกัสเซลล์"
 
 #: src/control/Control.Menubar.ts:898
 #: src/control/jsdialog/Definitions.Menu.ts:603
 msgid "Highlight cells with..."
-msgstr ""
+msgstr "ไฮไลท์เซลล์ด้วย..."
 
 #: src/control/Control.Menubar.ts:899
 #: src/control/jsdialog/Definitions.Menu.ts:606
 msgid "Values greater than..."
-msgstr ""
+msgstr "ค่าที่มากกว่า..."
 
 #: src/control/Control.Menubar.ts:900
 #: src/control/jsdialog/Definitions.Menu.ts:610
 msgid "Values less than..."
-msgstr ""
+msgstr "ค่าต่ำกว่า..."
 
 #: src/control/Control.Menubar.ts:901
 #: src/control/jsdialog/Definitions.Menu.ts:614
 msgid "Values equal to..."
-msgstr ""
+msgstr "ค่าเท่ากับ..."
 
 #: src/control/Control.Menubar.ts:902
 #: src/control/jsdialog/Definitions.Menu.ts:618
 msgid "Values between..."
-msgstr ""
+msgstr "ค่าระหว่าง..."
 
 #: src/control/Control.Menubar.ts:903
 #: src/control/jsdialog/Definitions.Menu.ts:622
 msgid "Values duplicate..."
-msgstr ""
+msgstr "ค่าซ้ำกัน..."
 
 #: src/control/Control.Menubar.ts:904
 #: src/control/jsdialog/Definitions.Menu.ts:626
 msgid "Containing text..."
-msgstr ""
+msgstr "มีข้อความ..."
 
 #: src/control/Control.Menubar.ts:906 src/control/Control.Menubar.ts:916
 #: src/control/jsdialog/Definitions.Menu.ts:630
 #: src/control/jsdialog/Definitions.Menu.ts:661
 msgid "More highlights..."
-msgstr ""
+msgstr "ไฮไลท์เพิ่มเติม..."
 
 #: src/control/Control.Menubar.ts:908
 #: src/control/jsdialog/Definitions.Menu.ts:634
 msgid "Top/Bottom Rules..."
-msgstr ""
+msgstr "กฎบน/ล่าง..."
 
 #: src/control/Control.Menubar.ts:909
 #: src/control/jsdialog/Definitions.Menu.ts:637
 msgid "Top N elements..."
-msgstr ""
+msgstr "องค์ประกอบบนสุด N รายการ..."
 
 #: src/control/Control.Menubar.ts:910
 #: src/control/jsdialog/Definitions.Menu.ts:641
 msgid "Top N percent..."
-msgstr ""
+msgstr "บนสุด N เปอร์เซ็นต์..."
 
 #: src/control/Control.Menubar.ts:911
 #: src/control/jsdialog/Definitions.Menu.ts:645
 msgid "Bottom N elements..."
-msgstr ""
+msgstr "องค์ประกอบล่างสุด N รายการ..."
 
 #: src/control/Control.Menubar.ts:912
 #: src/control/jsdialog/Definitions.Menu.ts:649
 msgid "Bottom N percent..."
-msgstr ""
+msgstr "ล่างสุด N เปอร์เซ็นต์..."
 
 #: src/control/Control.Menubar.ts:913
 #: src/control/jsdialog/Definitions.Menu.ts:653
 msgid "Above Average..."
-msgstr ""
+msgstr "สูงกว่าค่าเฉลี่ย..."
 
 #: src/control/Control.Menubar.ts:914
 #: src/control/jsdialog/Definitions.Menu.ts:657
 msgid "Below Average..."
-msgstr ""
+msgstr "ต่ำกว่าค่าเฉลี่ย..."
 
 #: src/control/Control.Menubar.ts:1033 src/control/Control.Menubar.ts:1099
 #: src/control/Control.Menubar.ts:1164 src/control/Control.Menubar.ts:1219
@@ -1999,37 +2009,37 @@ msgstr ""
 #: src/control/Control.StatusBar.js:253 src/control/Control.Zotero.js:222
 #: src/control/Toolbar.js:580 src/control/Toolbar.js:581
 msgid "Search"
-msgstr ""
+msgstr "ค้นหา"
 
 #: src/control/Control.Menubar.ts:1086
 msgid "Page Setup"
-msgstr ""
+msgstr "การตั้งค่าหน้า"
 
 #: src/control/Control.Menubar.ts:1230
 msgid "Define print area"
-msgstr ""
+msgstr "กำหนดพื้นที่การพิมพ์"
 
 #: src/control/Control.Menubar.ts:1231
 msgid "Remove print area"
-msgstr ""
+msgstr "ลบพื้นที่การพิมพ์"
 
 #: src/control/Control.Menubar.ts:1587 src/control/Control.StatusBar.js:547
 msgid "Reset to Default Language"
-msgstr ""
+msgstr "รีเซ็ตเป็นภาษาเริ่มต้น"
 
 #: src/control/Control.Menubar.ts:1618 src/control/Control.Menubar.ts:1619
 #: src/control/Control.Menubar.ts:1620 src/control/Control.Toolbar.js:140
 #: src/control/Control.Toolbar.js:206
 msgid "More..."
-msgstr ""
+msgstr "มากกว่า..."
 
 #: src/control/Control.Menubar.ts:1962
 msgid "Use Compact view"
-msgstr ""
+msgstr "ใช้มุมมองแบบกะทัดรัด"
 
 #: src/control/Control.Menubar.ts:1964
 msgid "Use Tabbed view"
-msgstr ""
+msgstr "ใช้มุมมองแบบแท็บ"
 
 #: src/control/Control.Menubar.ts:2118
 #, fuzzy
@@ -2038,67 +2048,67 @@ msgstr "แทรกตาราง"
 
 #: src/control/Control.Menubar.ts:2198
 msgid "The signature line can now be moved or resized as needed."
-msgstr ""
+msgstr "ตอนนี้สามารถย้ายหรือปรับขนาดบรรทัดลายเซ็นได้ตามต้องการ"
 
 #: src/control/Control.Menubar.ts:2200
 msgid "Finish electronic signing"
-msgstr ""
+msgstr "เสร็จสิ้นการลงนามทางอิเล็กทรอนิกส์"
 
 #: src/control/Control.Menubar.ts:2395
 msgid "file type icon"
-msgstr ""
+msgstr "ไอคอนประเภทไฟล์"
 
 #: src/control/Control.MobileBottomBar.js:28
 #: src/control/Control.MobileBottomBar.js:130
 #: src/control/Control.MobileBottomBar.js:198
 msgid "Show the search bar"
-msgstr ""
+msgstr "แสดงแถบค้นหา"
 
 #: src/control/Control.MobileBottomBar.js:37
 #: src/control/Control.TopToolbar.js:150
 msgid "Borders"
-msgstr ""
+msgstr "เส้นขอบ"
 
 #: src/control/Control.MobileSearchBar.ts:28
 msgid "Hide the search bar"
-msgstr ""
+msgstr "ซ่อนแถบค้นหา"
 
 #: src/control/Control.MobileSearchBar.ts:48
 msgid "Clear the search field"
-msgstr ""
+msgstr "ล้างช่องค้นหา"
 
 #: src/control/Control.MobileWizardBuilder.js:546
 msgid "Background Color"
-msgstr ""
+msgstr "สีพื้นหลัง"
 
 #: src/control/Control.MobileWizardBuilder.js:548
 msgid "Gradient Start"
-msgstr ""
+msgstr "เริ่มไล่ระดับ"
 
 #: src/control/Control.MobileWizardBuilder.js:550
 msgid "Gradient End"
-msgstr ""
+msgstr "สิ้นสุดการไล่ระดับสี"
 
 #: src/control/Control.NavigatorPanel.ts:96
 msgid "Navigation"
-msgstr ""
+msgstr "การนำทาง"
 
 #: src/control/Control.NavigatorPanel.ts:111
 msgid "Close Navigation"
-msgstr ""
+msgstr "ปิดการนำทาง"
 
 #: src/control/Control.NavigatorPanel.ts:135
 #: src/slideshow/PresenterConsole.js:34
 msgid "Slides"
-msgstr ""
+msgstr "สไลด์"
 
 #: src/control/Control.NavigatorPanel.ts:140
 msgid "Outline"
-msgstr ""
+msgstr "โครงร่าง"
 
 #: src/control/Control.NavigatorPanel.ts:165
 msgid "Navigator"
-msgstr ""
+msgstr "ตัวนำทาง"
 
 #: src/control/Control.Notebookbar.js:690
 #: src/control/Control.NotebookbarCalc.js:187
@@ -2111,43 +2121,43 @@ msgstr ""
 #: src/control/Control.NotebookbarWriter.js:224
 #: src/control/Control.NotebookbarWriter.js:257
 msgid "Share"
-msgstr ""
+msgstr "แบ่งปัน"
 
 #: src/control/Control.NotebookbarBuilder.js:223
 msgid "Tap to expand"
-msgstr ""
+msgstr "แตะเพื่อขยาย"
 
 #: src/control/Control.NotebookbarBuilder.js:224
 #: src/control/Control.NotebookbarBuilder.js:270
 msgid "Tap to collapse"
-msgstr ""
+msgstr "แตะเพื่อยุบ"
 
 #: src/control/Control.NotebookbarBuilder.js:362
 #: src/control/Control.NotebookbarBuilder.js:391
 msgid "HTML File (.html)"
-msgstr ""
+msgstr "ไฟล์ HTML (.html)"
 
 #: src/control/Control.NotebookbarBuilder.js:387
 msgid "CSV File (.csv)"
-msgstr ""
+msgstr "ไฟล์ CSV (.csv)"
 
 #: src/control/Control.NotebookbarBuilder.js:530
 msgid "Image (.png)"
-msgstr ""
+msgstr "รูปภาพ (.png)"
 
 #: src/control/Control.NotebookbarCalc.js:23
 #: src/control/Control.NotebookbarDraw.js:57
 #: src/control/Control.NotebookbarImpress.js:90
 #: src/control/Control.NotebookbarWriter.js:38
 msgid "File"
-msgstr ""
+msgstr "ไฟล์"
 
 #: src/control/Control.NotebookbarCalc.js:29
 #: src/control/Control.NotebookbarDraw.js:63
 #: src/control/Control.NotebookbarImpress.js:96
 #: src/control/Control.NotebookbarWriter.js:44
 msgid "Home"
-msgstr ""
+msgstr "หน้าแรก"
 
 #: src/control/Control.NotebookbarCalc.js:36
 #: src/control/Control.NotebookbarDraw.js:70
@@ -2160,51 +2170,51 @@ msgstr "แทรกตาราง"
 #: src/control/Control.NotebookbarCalc.js:42
 #: src/control/Control.NotebookbarDraw.js:1154
 msgid "Page Layout"
-msgstr ""
+msgstr "เค้าโครงหน้า"
 
 #: src/control/Control.NotebookbarCalc.js:48
 msgid "Data"
-msgstr ""
+msgstr "ข้อมูล"
 
 #: src/control/Control.NotebookbarCalc.js:54
 #: src/control/Control.NotebookbarDraw.js:82
 #: src/control/Control.NotebookbarImpress.js:121
 #: src/control/Control.NotebookbarWriter.js:69
 msgid "Review"
-msgstr ""
+msgstr "ทบทวน"
 
 #: src/control/Control.NotebookbarCalc.js:60
 #: src/control/Control.NotebookbarDraw.js:88
 #: src/control/Control.NotebookbarImpress.js:127
 #: src/control/Control.NotebookbarWriter.js:75
 msgid "Format"
-msgstr ""
+msgstr "รูปแบบ"
 
 #: src/control/Control.NotebookbarCalc.js:66
 #: src/control/Control.NotebookbarDraw.js:101
 #: src/control/Control.NotebookbarWriter.js:94
 msgid "Shape"
-msgstr ""
+msgstr "รูปร่าง"
 
 #: src/control/Control.NotebookbarCalc.js:73
 #: src/control/Control.NotebookbarDraw.js:108
 #: src/control/Control.NotebookbarWriter.js:101
 #: src/control/Control.NotebookbarWriter.js:1531
 msgid "Picture"
-msgstr ""
+msgstr "รูปภาพ"
 
 #: src/control/Control.NotebookbarCalc.js:80
 #: src/control/Control.NotebookbarDraw.js:115
 #: src/control/Control.NotebookbarImpress.js:161
 #: src/control/Control.NotebookbarWriter.js:108
 msgid "View"
-msgstr ""
+msgstr "ดู"
 
 #: src/control/Control.NotebookbarCalc.js:86
 #: src/control/Control.NotebookbarCalc.js:1520
 #: src/control/Control.NotebookbarCalc.js:2276
 msgid "Sparkline"
-msgstr ""
+msgstr "กราฟขนาดเล็ก"
 
 #: src/control/Control.NotebookbarCalc.js:93
 #: src/control/Control.NotebookbarDraw.js:121
@@ -2212,21 +2222,21 @@ msgstr ""
 #: src/control/Control.NotebookbarWriter.js:114
 #: src/control/Control.ServerAuditDialog.ts:216
 msgid "Help"
-msgstr ""
+msgstr "ช่วย"
 
 #: src/control/Control.NotebookbarCalc.js:150
 #: src/control/Control.NotebookbarImpress.js:227
 #: src/control/Control.NotebookbarWriter.js:185
 #: src/control/Control.NotebookbarWriter.js:326
-msgid "Save As"
-msgstr ""
+msgid "SavHelpe As"
+msgstr "บันทึกเป็น"
 
 #: src/control/Control.NotebookbarCalc.js:169
 #: src/control/Control.NotebookbarDraw.js:190
 #: src/control/Control.NotebookbarImpress.js:247
 #: src/control/Control.NotebookbarWriter.js:205
 msgid "Export As"
-msgstr ""
+msgstr "ส่งออกเป็น"
 
 #: src/control/Control.NotebookbarCalc.js:195
 #: src/control/Control.NotebookbarCalc.js:244
@@ -2237,14 +2247,14 @@ msgstr ""
 #: src/control/Control.NotebookbarWriter.js:232
 #: src/control/Control.NotebookbarWriter.js:281
 msgid "See history"
-msgstr ""
+msgstr "ดูประวัติ"
 
 #: src/control/Control.NotebookbarCalc.js:331
 #: src/control/Control.NotebookbarDraw.js:370
 #: src/control/Control.NotebookbarImpress.js:412
 #: src/control/Control.NotebookbarWriter.js:369
 msgid "Signature"
-msgstr ""
+msgstr "ลายเซ็น"
 
 #: src/control/Control.NotebookbarCalc.js:347
 #: src/control/Control.NotebookbarDraw.js:387
@@ -2252,97 +2262,97 @@ msgstr ""
 #: src/control/Control.NotebookbarWriter.js:385
 #: src/control/Control.UIManager.ts:317
 msgid "Rename"
-msgstr ""
+msgstr "เปลี่ยนชื่อ"
 
 #: src/control/Control.NotebookbarCalc.js:692
 msgid "General"
-msgstr ""
+msgstr "ทั่วไป"
 
 #: src/control/Control.NotebookbarCalc.js:693
 msgid "Number"
-msgstr ""
+msgstr "ตัวเลข"
 
 #: src/control/Control.NotebookbarCalc.js:694
 msgid "Percent"
-msgstr ""
+msgstr "เปอร์เซ็นต์"
 
 #: src/control/Control.NotebookbarCalc.js:695
 msgid "Currency"
-msgstr ""
+msgstr "สกุลเงิน"
 
 #: src/control/Control.NotebookbarCalc.js:696
 #: src/control/Control.NotebookbarWriter.js:1539
 #: src/control/Control.Zotero.js:1154 src/control/Control.Zotero.js:1606
 msgid "Date"
-msgstr ""
+msgstr "วันที่"
 
 #: src/control/Control.NotebookbarCalc.js:697
 msgid "Time"
-msgstr ""
+msgstr "เวลา"
 
 #: src/control/Control.NotebookbarCalc.js:698
 msgid "Scientific"
-msgstr ""
+msgstr "ทางวิทยาศาสตร์"
 
 #: src/control/Control.NotebookbarCalc.js:699
 msgid "Fraction"
-msgstr ""
+msgstr "เศษส่วน"
 
 #: src/control/Control.NotebookbarCalc.js:700
 msgid "Boolean Value"
-msgstr ""
+msgstr "ค่าบูลีน"
 
 #: src/control/Control.NotebookbarCalc.js:701 src/control/Toolbar.js:812
 msgid "Text"
-msgstr ""
+msgstr "ข้อความ"
 
 #: src/control/Control.NotebookbarCalc.js:875
 #: src/control/jsdialog/Definitions.Menu.ts:890
 msgid "Default"
-msgstr ""
+msgstr "ค่าเริ่มต้น"
 
 #: src/control/Control.NotebookbarCalc.js:882
 msgid "Heading 1"
-msgstr ""
+msgstr "หัวเรื่อง 1"
 
 #: src/control/Control.NotebookbarCalc.js:889
 msgid "Heading 2"
-msgstr ""
+msgstr "หัวเรื่อง 2"
 
 #: src/control/Control.NotebookbarCalc.js:902
 msgid "Good"
-msgstr ""
+msgstr "ดี"
 
 #: src/control/Control.NotebookbarCalc.js:909
 msgid "Neutral"
-msgstr ""
+msgstr "เป็นกลาง"
 
 #: src/control/Control.NotebookbarCalc.js:916
 msgid "Bad"
-msgstr ""
+msgstr "แย่"
 
 #: src/control/Control.NotebookbarCalc.js:947
 #: src/control/Control.NotebookbarDraw.js:1082
 #: src/control/Control.NotebookbarImpress.js:1180
 #: src/control/Control.NotebookbarWriter.js:1008
 msgid "Replace"
-msgstr ""
+msgstr "แทนที่"
 
 #: src/control/Control.NotebookbarCalc.js:1000
 msgid "Margin"
-msgstr ""
+msgstr "ระยะขอบ"
 
 #: src/control/Control.NotebookbarCalc.js:1006
 msgid "Size"
-msgstr ""
+msgstr "ขนาด"
 
 #: src/control/Control.NotebookbarCalc.js:1064
 msgid "Row Height"
-msgstr ""
+msgstr "ความสูงแถว"
 
 #: src/control/Control.NotebookbarCalc.js:1072
 msgid "Column Width"
-msgstr ""
+msgstr "ความกว้างคอลัมน์"
 
 #: src/control/Control.NotebookbarCalc.js:1086
 #, fuzzy
@@ -2351,60 +2361,60 @@ msgstr "แทรกตาราง"
 
 #: src/control/Control.NotebookbarCalc.js:1093
 msgid "Insert Columns Before"
-msgstr ""
+msgstr "แทรกคอลัมน์ก่อน"
 
 #: src/control/Control.NotebookbarCalc.js:1100
 #, fuzzy
 msgid "Delete Rows"
-msgstr "แทรกตาราง"
+msgstr "ลบแถว"
 
 #: src/control/Control.NotebookbarCalc.js:1112
 msgid "Insert Rows Below"
-msgstr ""
+msgstr "แทรกแถวด้านล่าง"
 
 #: src/control/Control.NotebookbarCalc.js:1119
 msgid "Insert Columns After"
-msgstr ""
+msgstr "แทรกคอลัมน์หลัง"
 
 #: src/control/Control.NotebookbarCalc.js:1126
 msgid "Delete Columns"
-msgstr ""
+msgstr "ลบคอลัมน์"
 
 #: src/control/Control.NotebookbarCalc.js:1310
 #: src/control/Control.NotebookbarDraw.js:404
 #: src/control/Control.NotebookbarImpress.js:445
 #: src/control/Control.NotebookbarWriter.js:1563
 msgid "Read mode"
-msgstr ""
+msgstr "โหมดการอ่าน"
 
 #: src/control/Control.NotebookbarCalc.js:1375
 #: src/control/Control.NotebookbarDraw.js:493
 #: src/control/Control.NotebookbarImpress.js:579
 #: src/control/Control.NotebookbarWriter.js:1660
 msgid "Collapse Tabs"
-msgstr ""
+msgstr "ยุบแท็บ"
 
 #: src/control/Control.NotebookbarCalc.js:1387
 #: src/control/Control.NotebookbarDraw.js:481
 #: src/control/Control.NotebookbarImpress.js:567
 #: src/control/Control.NotebookbarWriter.js:1648
 msgid "Status Bar"
-msgstr ""
+msgstr "แถบสถานะ"
 
 #: src/control/Control.NotebookbarCalc.js:1443
 msgid "Group"
-msgstr ""
+msgstr "กลุ่ม"
 
 #: src/control/Control.NotebookbarCalc.js:1450
 msgid "Ungroup"
-msgstr ""
+msgstr "ยกเลิกการจัดกลุ่ม"
 
 #: src/control/Control.NotebookbarCalc.js:1579
 #: src/control/Control.NotebookbarDraw.js:1375
 #: src/control/Control.NotebookbarImpress.js:1415
 #: src/control/Control.NotebookbarWriter.js:1266
 msgid "Assistant"
-msgstr ""
+msgstr "ผู้ช่วย"
 
 #: src/control/Control.NotebookbarCalc.js:1666
 #: src/control/Control.NotebookbarCalc.js:2588
@@ -2416,12 +2426,12 @@ msgstr ""
 #: src/control/Control.NotebookbarWriter.js:1200
 #: src/control/Control.NotebookbarWriter.js:3129
 msgid "Shapes"
-msgstr ""
+msgstr "รูปร่าง"
 
 #: src/control/Control.NotebookbarDraw.js:76
 #: src/control/Control.NotebookbarWriter.js:57
 msgid "Layout"
-msgstr ""
+msgstr "เค้าโครง"
 
 #: src/control/Control.NotebookbarDraw.js:94
 #: src/control/Control.NotebookbarDraw.js:1332
@@ -2430,118 +2440,118 @@ msgstr ""
 #: src/control/Control.NotebookbarWriter.js:87
 #: src/control/Control.NotebookbarWriter.js:1178
 msgid "Table"
-msgstr ""
+msgstr "ตาราง"
 
 #: src/control/Control.NotebookbarDraw.js:321
 msgid "PDF Document (.pdf) - Expert"
-msgstr ""
+msgstr "เอกสาร PDF (.pdf) - ผู้เชี่ยวชาญ"
 
 #: src/control/Control.NotebookbarDraw.js:469
 #: src/control/Control.NotebookbarImpress.js:555
 #: src/control/Control.NotebookbarWriter.js:1636
 msgid "Ruler"
-msgstr ""
+msgstr "ไม้บรรทัด"
 
 #: src/control/Control.NotebookbarImpress.js:109
 msgid "Design"
-msgstr ""
+msgstr "ออกแบบ"
 
 #: src/control/Control.NotebookbarImpress.js:115
 msgid "Slide Show"
-msgstr ""
+msgstr "สไลด์โชว์"
 
 #: src/control/Control.NotebookbarImpress.js:154
 msgid "Master"
-msgstr ""
+msgstr "ผู้เชี่ยวชาญ"
 
 #: src/control/Control.NotebookbarImpress.js:452
 #: src/control/Control.NotebookbarImpress.js:1154
 msgid "Presentation"
-msgstr ""
+msgstr "การนำเสนอ"
 
 #: src/control/Control.NotebookbarImpress.js:460
 msgid "Present in Window"
-msgstr ""
+msgstr "นำเสนอในหน้าต่าง"
 
 #: src/control/Control.NotebookbarImpress.js:604
 msgid "Show Grid"
-msgstr ""
+msgstr "แสดงกริด"
 
 #: src/control/Control.NotebookbarImpress.js:611
 msgid "Snap to Grid"
-msgstr ""
+msgstr "จัดชิดไปที่กริด"
 
 #: src/control/Control.NotebookbarImpress.js:726
 msgid "New"
-msgstr ""
+msgstr "ใหม่"
 
 #: src/control/Control.NotebookbarImpress.js:737
 msgid "Change Layout"
-msgstr ""
+msgstr "เปลี่ยนเค้าโครง"
 
 #: src/control/Control.NotebookbarImpress.js:745
 msgid "Reset Layout"
-msgstr ""
+msgstr "รีเซ็ตเค้าโครง"
 
 #: src/control/Control.NotebookbarImpress.js:1634
 msgid "Slide Size"
-msgstr ""
+msgstr "ขนาดสไลด์"
 
 #: src/control/Control.NotebookbarImpress.js:1657
 msgid "Background Image"
-msgstr ""
+msgstr "ภาพพื้นหลัง"
 
 #: src/control/Control.NotebookbarWriter.js:81
 msgid "Form"
-msgstr ""
+msgstr "รูปร่าง"
 
 #: src/control/Control.NotebookbarWriter.js:401
 msgid "Go Online"
-msgstr ""
+msgstr "ออนไลน์"
 
 #: src/control/Control.NotebookbarWriter.js:401
 msgid "Go Offline"
-msgstr ""
+msgstr "ออฟไลน์"
 
 #: src/control/Control.NotebookbarWriter.js:915
 msgid "Scroll up"
-msgstr ""
+msgstr "เลื่อนขึ้น"
 
 #: src/control/Control.NotebookbarWriter.js:922
 msgid "Scroll down"
-msgstr ""
+msgstr "เลื่อนลง"
 
 #: src/control/Control.NotebookbarWriter.js:1507
 msgid "Rich Text"
-msgstr ""
+msgstr "ข้อความที่หลากหลาย"
 
 #: src/control/Control.NotebookbarWriter.js:1515
 msgid "Checkbox"
-msgstr ""
+msgstr "กล่องกาเครื่องหมาย"
 
 #: src/control/Control.NotebookbarWriter.js:1523
 msgid "Dropdown"
-msgstr ""
+msgstr "รายการดรอปดาวน์"
 
 #: src/control/Control.PartsPreview.js:186
 msgid "preview of page %1"
-msgstr ""
+msgstr "ตัวอย่างหน้าที่ %1"
 
 #: src/control/Control.PartsPreview.js:188
 msgid "Slide %1"
-msgstr ""
+msgstr "เลื่อน %1"
 
 #: src/control/Control.PartsPreview.js:263
 msgid "Paste Slide"
-msgstr ""
+msgstr "วางสไลด์"
 
 #: src/control/Control.PartsPreview.js:307
 msgid "Paste"
-msgstr ""
+msgstr "วาง"
 
 #: src/control/Control.SaveState.ts:38
 msgid "Saving"
-msgstr ""
+msgstr "กำลังบันทึก"
 
 #: src/control/Control.SaveState.ts:53
 #, fuzzy
@@ -2550,87 +2560,89 @@ msgstr "บันทึก"
 
 #: src/control/Control.Scroll.Annotation.js:19
 msgid "Scroll up annotations"
-msgstr ""
+msgstr "เลื่อนขึ้นคำอธิบาย"
 
 #: src/control/Control.Scroll.Annotation.js:21
 msgid "Scroll down annotations"
-msgstr ""
+msgstr "เลื่อนลงเพื่อดูคำอธิบายประกอบ"
 
 #: src/control/Control.ServerAuditDialog.ts:50
 msgid "The IsAdminUser property is not set by integration"
-msgstr ""
+msgstr "คุณสมบัติ IsAdminUser ยังไม่ได้ถูกตั้งค่าโดยการรวมระบบ"
 
 #: src/control/Control.ServerAuditDialog.ts:56
 msgid ""
 "Used deprecated is_admin field, integration should use IsAdminUser property "
 "instead"
-msgstr ""
+msgstr "ใช้ฟิลด์ is_admin ที่ไม่ใช้แล้ว การรวมควรใช้คุณสมบัติ IsAdminUser"
+"แทน"
 
 #: src/control/Control.ServerAuditDialog.ts:62
 msgid "The IsAdminUser user property is set by integration"
-msgstr ""
+msgstr "คุณสมบัติผู้ใช้ IsAdminUser ถูกกำหนดโดยการรวม"
 
 #: src/control/Control.ServerAuditDialog.ts:69
 msgid "Your WOPI server is not secure: SSL verification failed"
-msgstr ""
+msgstr "เซิร์ฟเวอร์ WOPI ของคุณไม่ปลอดภัย: การตรวจสอบ SSL ล้มเหลว"
 
 #: src/control/Control.ServerAuditDialog.ts:74
 msgid "No problems with SSL verification detected"
-msgstr ""
+msgstr "ไม่พบปัญหากับการตรวจสอบ SSL"
 
 #: src/control/Control.ServerAuditDialog.ts:81
 msgid "PostMessage API is initialized"
-msgstr ""
+msgstr "API ของ PostMessage ได้รับการเริ่มต้นแล้ว"
 
 #: src/control/Control.ServerAuditDialog.ts:86
 msgid "Integrator is not ready for PostMessage calls"
-msgstr ""
+msgstr "Integrator ไม่พร้อมสำหรับการโทร PostMessage"
 
 #: src/control/Control.ServerAuditDialog.ts:94
 msgid ""
 "Your server is configured with insufficient hardware resources, which may "
 "lead to poor performance."
-msgstr ""
+msgstr "เซิร์ฟเวอร์ของคุณได้รับการกำหนดค่าด้วยทรัพยากรฮาร์ดแวร์ไม่เพียงพอ ซึ่งอาจ"
+"นำไปสู่การทำงานที่ไม่ดี"
 
 #: src/control/Control.ServerAuditDialog.ts:100
 msgid "Hardware resources are sufficient for optimal performance"
-msgstr ""
+msgstr "ทรัพยากรฮาร์ดแวร์เพียงพอสำหรับประสิทธิภาพการทำงานที่เหมาะสมที่สุด"
 
 #: src/control/Control.ServerAuditDialog.ts:215
 msgid "Status"
-msgstr ""
+msgstr "สถานะ"
 
 #: src/control/Control.ServerAuditDialog.ts:225
 msgid "No issues found"
-msgstr ""
+msgstr "ไม่พบปัญหา"
 
 #: src/control/Control.ServerAuditDialog.ts:230
 msgid "Alerts:"
-msgstr ""
+msgstr "การแจ้งเตือน:"
 
 #: src/control/Control.ServerAuditDialog.ts:276
 msgid "Check security warnings of your server"
-msgstr ""
+msgstr "ตรวจสอบคำเตือนด้านความปลอดภัยของเซิร์ฟเวอร์ของคุณ"
 
 #: src/control/Control.ServerAuditDialog.ts:277
 msgid "OPEN"
-msgstr ""
+msgstr "เปิด"
 
 #: src/control/Control.SheetsBar.js:49
 msgid "Scroll to the first sheet"
-msgstr ""
+msgstr "เลื่อนไปที่แผ่นงานแรก"
 
 #: src/control/Control.SheetsBar.js:56
 msgid "Scroll left"
-msgstr ""
+msgstr "เลื่อนไปทางซ้าย"
 
 #: src/control/Control.SheetsBar.js:64
 msgid "Scroll right"
-msgstr ""
+msgstr "เลื่อนไปทางขวา"
 
 #: src/control/Control.SheetsBar.js:72
 msgid "Scroll to the last sheet"
-msgstr ""
+msgstr "เลื่อนไปที่แผ่นงานสุดท้าย"
 
 #: src/control/Control.SheetsBar.js:79
 #, fuzzy
@@ -2639,34 +2651,34 @@ msgstr "แทรกตาราง"
 
 #: src/control/Control.StatusBar.js:177
 msgid "On"
-msgstr ""
+msgstr "บน"
 
 #: src/control/Control.StatusBar.js:179
 #: src/control/jsdialog/Definitions.Menu.ts:586
 msgid "Off"
-msgstr ""
+msgstr "ปิด"
 
 #: src/control/Control.StatusBar.js:212
 #: src/control/jsdialog/Definitions.Menu.ts:129
 msgid "Average"
-msgstr ""
+msgstr "เฉลี่ย"
 
 #: src/control/Control.StatusBar.js:213
 msgid "CountA"
-msgstr ""
+msgstr "เคานต์เอ"
 
 #: src/control/Control.StatusBar.js:214
 #: src/control/jsdialog/Definitions.Menu.ts:132
 msgid "Count"
-msgstr ""
+msgstr "นับ"
 
 #: src/control/Control.StatusBar.js:215
 msgid "Maximum"
-msgstr ""
+msgstr "สูงสุด"
 
 #: src/control/Control.StatusBar.js:216
 msgid "Minimum"
-msgstr ""
+msgstr "ขั้นต่ำ"
 
 #: src/control/Control.StatusBar.js:217
 #: src/control/jsdialog/Definitions.Menu.ts:128
@@ -2675,83 +2687,85 @@ msgstr "ผลรวม"
 
 #: src/control/Control.StatusBar.js:218
 msgid "Selection count"
-msgstr ""
+msgstr "จำนวนการคัดเลือก"
 
 #: src/control/Control.StatusBar.js:256
 msgid "Cancel the search"
-msgstr ""
+msgstr "ยกเลิกการค้นหา"
 
 #: src/control/Control.StatusBar.js:419
 msgid ""
 "To prevent accidental changes, the author has set this file to open as view-"
 "only"
-msgstr ""
+msgstr "เพื่อป้องกันการเปลี่ยนแปลงโดยไม่ได้ตั้งใจ ผู้เขียนได้ตั้งค่าไฟล์นี้ให้เปิดเป็นแบบดู"
+"เท่านั้น"
 
 #: src/control/Control.StatusBar.js:469
 msgid "Select multiple cells"
-msgstr ""
+msgstr "เลือกหลายเซลล์"
 
 #: src/control/Control.StatusBar.js:486
 msgid "Selection mode: inactive"
-msgstr ""
+msgstr "โหมดการเลือก: ไม่ทำงาน"
 
 #: src/control/Control.StatusBar.js:564
 msgid "Set Language for All text"
-msgstr ""
+msgstr "ตั้งค่าภาษาสำหรับข้อความทั้งหมด"
 
 #: src/control/Control.StatusBar.js:567
 msgid "Set Language for Paragraph"
-msgstr ""
+msgstr "ตั้งค่าภาษาสำหรับย่อหน้า"
 
 #: src/control/Control.StatusBar.js:568
 msgid "Set Language for Selection"
-msgstr ""
+msgstr "ตั้งค่าภาษาสำหรับการเลือก"
 
 #: src/control/Control.Tabs.js:52
 msgid "Insert sheet before this"
-msgstr ""
+msgstr "ใส่แผ่นก่อนนี้"
 
 #: src/control/Control.Tabs.js:55
 msgid "Insert sheet after this"
-msgstr ""
+msgstr "ใส่แผ่นหลังจากนี้"
 
 #: src/control/Control.Tabs.js:88
 msgid "Move Sheet Left"
-msgstr ""
+msgstr "ย้ายแผ่นงานไปทางซ้าย"
 
 #: src/control/Control.Tabs.js:93
 msgid "Move Sheet Right"
-msgstr ""
+msgstr "ย้ายแผ่นงานไปทางขวา"
 
 #: src/control/Control.Tabs.js:103
 msgid "Copy Sheet..."
-msgstr ""
+msgstr "แผ่นคัดลอก..."
 
 #: src/control/Control.Tabs.js:383
 msgid "Are you sure you want to delete sheet, {sheet}?"
-msgstr ""
+msgstr "คุณแน่ใจว่าต้องการลบชีต {sheet} หรือไม่?"
 
 #: src/control/Control.Tabs.js:394
 msgid "Rename sheet"
-msgstr ""
+msgstr "เปลี่ยนชื่อแผ่นงาน"
 
 #: src/control/Control.Tabs.js:394
 msgid "Enter new sheet name"
-msgstr ""
+msgstr "ป้อนชื่อแผ่นงานใหม่"
 
 #: src/control/Control.Toolbar.js:988
 msgid ""
 "Conflict Undo/Redo with multiple users. Please use document repair to "
 "resolve"
-msgstr ""
+msgstr "ความขัดแย้งในการเลิกทำ/ทำซ้ำกับผู้ใช้หลายคน กรุณาใช้การซ่อมแซมเอกสารเพื่อ"
+"แก้ไข"
 
 #: src/control/Control.TopToolbar.js:109
 msgid "Active Sheet"
-msgstr ""
+msgstr "แผ่นงานที่ใช้งานอยู่"
 
 #: src/control/Control.TopToolbar.js:125
 msgid "Default Style"
-msgstr ""
+msgstr "สไตล์เริ่มต้น"
 
 #: src/control/Control.TopToolbar.js:195
 msgid "Insert table"
@@ -2764,231 +2778,234 @@ msgstr "แทรกตาราง"
 
 #: src/control/Control.TopToolbar.js:200
 msgid "Insert connectors"
-msgstr ""
+msgstr "ใส่ขั้วต่อ"
 
 #: src/control/Control.TopToolbar.js:225 src/control/Control.UIManager.ts:1074
 msgid "Hide Menu"
-msgstr ""
+msgstr "ซ่อนเมนู"
 
 #: src/control/Control.UIManager.ts:317
 msgid "Enter new name"
-msgstr ""
+msgstr "ป้อนชื่อใหม่"
 
 #: src/control/Control.UIManager.ts:1101
 msgid "Show Menu"
-msgstr ""
+msgstr "แสดงเมนู"
 
 #: src/control/Control.UserList.ts:56
 msgid "{user} has joined"
-msgstr ""
+msgstr "{ผู้ใช้} ได้เข้าร่วมแล้ว"
 
 #: src/control/Control.UserList.ts:57
 msgid "{user} has left"
-msgstr ""
+msgstr "{ผู้ใช้} ได้ออกไปแล้ว"
 
 #: src/control/Control.UserList.ts:58
 msgid "Following {user}"
-msgstr ""
+msgstr "กำลังติดตาม {ผู้ใช้}"
 
 #: src/control/Control.UserList.ts:59
 msgid "Following the editor"
-msgstr ""
+msgstr "ตามรอยบรรณาธิการ"
 
 #: src/control/Control.UserList.ts:60
 msgid "Stop following"
-msgstr ""
+msgstr "หยุดติดตาม"
 
 #: src/control/Control.UserList.ts:61
 msgid "Avatar for {user}"
-msgstr ""
+msgstr "อวาตาร์สำหรับ {ผู้ใช้}"
 
 #: src/control/Control.UserList.ts:81
 msgid "%n users"
-msgstr ""
+msgstr "%n ผู้ใช้"
 
 #: src/control/Control.UserList.ts:82
 msgid "1 user"
-msgstr ""
+msgstr "ผู้ใช้ 1 คน"
 
 #: src/control/Control.UserList.ts:83
 msgid "0 users"
-msgstr ""
+msgstr "ผู้ใช้ 0 คน"
 
 #: src/control/Control.UserList.ts:87
 msgid "User List Summary"
-msgstr ""
+msgstr "สรุปรายการผู้ใช้"
 
 #: src/control/Control.UserList.ts:495
 msgid "Following"
-msgstr ""
+msgstr "กำลังติดตาม"
 
 #: src/control/Control.UserList.ts:552
 msgid "Always follow the editor"
-msgstr ""
+msgstr "ติดตามบรรณาธิการเสมอ"
 
 #: src/control/Control.Zotero.js:143
 msgid "Zotero API key is not configured"
-msgstr ""
+msgstr "ไม่ได้กำหนดค่าคีย์ API ของ Zotero"
 
 #: src/control/Control.Zotero.js:164
 msgid "Zotero API key is incorrect"
-msgstr ""
+msgstr "รหัส API ของ Zotero ไม่ถูกต้อง"
 
 #: src/control/Control.Zotero.js:191
 msgid "Zotero Warning"
-msgstr ""
+msgstr "คำเตือนโซเทโร"
 
 #: src/control/Control.Zotero.js:192
 msgid ""
 "The document contains some citations which may be unreachable through web "
 "API. It may cause some problems while editing citations or bibliography."
-msgstr ""
+msgstr "เอกสารนี้มีการอ้างอิงบางส่วนที่อาจไม่สามารถเข้าถึงได้ผ่านเว็บ"
+"API อาจทำให้เกิดปัญหาในการแก้ไขการอ้างอิงหรือบรรณานุกรม"
 
 #: src/control/Control.Zotero.js:248 src/core/Socket.js:1379
 msgid "Loading..."
-msgstr ""
+msgstr "กำลังโหลด..."
 
 #: src/control/Control.Zotero.js:259 src/control/Control.Zotero.js:456
 #: src/slideshow/PresenterConsole.js:31
 msgid "Previous"
-msgstr ""
+msgstr "ก่อนหน้า"
 
 #: src/control/Control.Zotero.js:272 src/control/Control.Zotero.js:471
 #: src/slideshow/PresenterConsole.js:32
 msgid "Next"
-msgstr ""
+msgstr "ต่อไป"
 
 #: src/control/Control.Zotero.js:294
 msgid "Language:"
-msgstr ""
+msgstr "ภาษา:"
 
 #: src/control/Control.Zotero.js:309
 msgid "Store as:"
-msgstr ""
+msgstr "เก็บเป็น:"
 
 #: src/control/Control.Zotero.js:315 src/control/Control.Zotero.js:438
 msgid "Fields"
-msgstr ""
+msgstr "เขตข้อมูล"
 
 #: src/control/Control.Zotero.js:316 src/control/Control.Zotero.js:438
 msgid "Bookmarks"
-msgstr ""
+msgstr "บุ๊กมาร์ก"
 
 #: src/control/Control.Zotero.js:436
 msgid "Footnotes"
-msgstr ""
+msgstr "เชิงอรรถ"
 
 #: src/control/Control.Zotero.js:436
 msgid "Endnotes"
-msgstr ""
+msgstr "อ้างอิงท้ายเรื่อง"
 
 #: src/control/Control.Zotero.js:523
 msgid "My Publications"
-msgstr ""
+msgstr "สิ่งพิมพ์ของฉัน"
 
 #: src/control/Control.Zotero.js:529 src/control/Control.Zotero.js:748
 msgid "My Library"
-msgstr ""
+msgstr "ห้องสมุดของฉัน"
 
 #: src/control/Control.Zotero.js:530
 msgid "Group Libraries"
-msgstr ""
+msgstr "ห้องสมุดกลุ่ม"
 
 #: src/control/Control.Zotero.js:764
 msgid "Failed to load groups"
-msgstr ""
+msgstr "ไม่สามารถโหลดกลุ่มได้"
 
 #: src/control/Control.Zotero.js:782 src/control/Control.Zotero.js:1126
 msgid "Failed to load collections"
-msgstr ""
+msgstr "ไม่สามารถโหลดคอลเลกชันได้"
 
 #: src/control/Control.Zotero.js:790
 msgid "Loading references"
-msgstr ""
+msgstr "กำลังโหลดข้อมูลอ้างอิง"
 
 #: src/control/Control.Zotero.js:824
 msgid "Citation Style"
-msgstr ""
+msgstr "รูปแบบการอ้างอิง"
 
 #: src/control/Control.Zotero.js:829
 msgid "Styles"
-msgstr ""
+msgstr "สไตล์"
 
 #: src/control/Control.Zotero.js:829
 msgid "An error occurred while fetching style list"
-msgstr ""
+msgstr "เกิดข้อผิดพลาดขณะดึงรายการสไตล์"
 
 #: src/control/Control.Zotero.js:837
 msgid "Failed to load styles"
-msgstr ""
+msgstr "ไม่สามารถโหลดสไตล์ได้"
 
 #: src/control/Control.Zotero.js:1154 src/control/Control.Zotero.js:1606
 msgid "Title"
-msgstr ""
+msgstr "ชื่อ"
 
 #: src/control/Control.Zotero.js:1154 src/control/Control.Zotero.js:1606
 msgid "Creator(s)"
-msgstr ""
+msgstr "ผู้สร้าง"
 
 #: src/control/Control.Zotero.js:1154 src/control/Control.Zotero.js:1606
 msgid "Your library is empty"
-msgstr ""
+msgstr "ห้องสมุดของคุณว่างเปล่า"
 
 #: src/control/Control.Zotero.js:1166
 msgid "Failed to load items"
-msgstr ""
+msgstr "ไม่สามารถโหลดรายการได้"
 
 #: src/control/Control.Zotero.js:1218
 msgid "Citation warning"
-msgstr ""
+msgstr "คำเตือนการอ้างอิง"
 
 #: src/control/Control.Zotero.js:1219
 msgid ""
 "Once citations are entered their storage and display type can not be "
 "changed."
-msgstr ""
+msgstr "เมื่อป้อนการอ้างอิงแล้ว ไม่สามารถจัดเก็บและแสดงประเภทได้"
+"เปลี่ยน."
 
 #: src/control/Control.Zotero.js:1220 src/control/Control.Zotero.js:1535
 msgid "Confirm"
-msgstr ""
+msgstr "ยืนยัน"
 
 #: src/control/Control.Zotero.js:1339
 msgid "Add Note"
-msgstr ""
+msgstr "เพิ่มหมายเหตุ"
 
 #: src/control/Control.Zotero.js:1342 src/slideshow/PresenterConsole.js:33
 msgid "Notes"
-msgstr ""
+msgstr "หมายเหตุ"
 
 #: src/control/Control.Zotero.js:1342
 msgid "An error occurred while fetching notes"
-msgstr ""
+msgstr "เกิดข้อผิดพลาดขณะดึงบันทึก"
 
 #: src/control/Control.Zotero.js:1473
 msgid "Updated citations"
-msgstr ""
+msgstr "การอ้างอิงที่อัปเดต"
 
 #: src/control/Control.Zotero.js:1475
 msgid "Citations update failed"
-msgstr ""
+msgstr "การอัปเดตการอ้างอิงล้มเหลว"
 
 #: src/control/Control.Zotero.js:1479
 msgid "Updating citations"
-msgstr ""
+msgstr "การอัปเดตการอ้างอิง"
 
 #: src/control/Control.Zotero.js:1534
 msgid ""
 "Unlinking citations will prevent Collabora Online from updating citations "
 "and bibliography in this document."
-msgstr ""
+msgstr "การยกเลิกการเชื่อมโยงการอ้างอิงจะป้องกันไม่ให้ Collabora Online อัปเดตการอ้างอิง"
+"และบรรณานุกรมในเอกสารนี้"
 
 #: src/control/HRuler.ts:604
 msgid "Left Margin"
-msgstr ""
+msgstr "ขอบซ้าย"
 
 #: src/control/HRuler.ts:605
 msgid "Right Margin"
-msgstr ""
+msgstr "ขอบขวา"
 
 #: src/control/HRuler.ts:890
 #, fuzzy
@@ -2998,702 +3015,709 @@ msgstr "แทรกตาราง"
 #: src/control/HRuler.ts:897
 #, fuzzy
 msgid "Delete tabstop"
-msgstr "แทรกตาราง"
+msgstr "ลบแท็บสต็อป"
 
 #: src/control/Parts.js:483
 msgid "Show sheets"
-msgstr ""
+msgstr "แสดงแผ่นงาน"
 
 #: src/control/Permission.js:27 src/control/Permission.js:28
 msgid "Edit document"
-msgstr ""
+msgstr "แก้ไขเอกสาร"
 
 #: src/control/Permission.js:85
 msgid "The document could not be locked, and is opened in read-only mode."
-msgstr ""
+msgstr "ไม่สามารถล็อคเอกสารได้ และเปิดในโหมดอ่านอย่างเดียว"
 
 #: src/control/Permission.js:87 src/control/Permission.js:97
 msgid "Server returned this reason:"
-msgstr ""
+msgstr "เซิร์ฟเวอร์ส่งคืนเหตุผลนี้:"
 
 #: src/control/Permission.js:95
 msgid "The document could not be locked."
-msgstr ""
+msgstr "ไม่สามารถล็อคเอกสารได้"
 
 #: src/control/Permission.js:149
 msgid "Enter a file name"
-msgstr ""
+msgstr "ป้อนชื่อไฟล์"
 
 #: src/control/Permission.js:168
 msgid "Save as ODF format"
-msgstr ""
+msgstr "บันทึกเป็นรูปแบบ ODF"
 
 #: src/control/Permission.js:169
 msgid "Continue editing"
-msgstr ""
+msgstr "แก้ไขต่อ"
 
 #: src/control/Permission.js:169
 msgid "Continue read only"
-msgstr ""
+msgstr "อ่านต่ออย่างเดียวครับ"
 
 #: src/control/Permission.js:182
 msgid ""
 "This document may contain formatting or content that cannot be saved in the "
 "current file format."
-msgstr ""
+msgstr "เอกสารนี้อาจมีการจัดรูปแบบหรือเนื้อหาที่ไม่สามารถบันทึกใน"
+"รูปแบบไฟล์ปัจจุบัน"
 
 #: src/control/Signing.js:21
 msgid "The document is not signed."
-msgstr ""
+msgstr "เอกสารนี้ไม่ได้ลงนาม"
 
 #: src/control/Signing.js:32
 msgid "This document is digitally signed and the signature is valid."
-msgstr ""
+msgstr "เอกสารนี้มีการลงนามแบบดิจิทัลและลายเซ็นนั้นถูกต้อง"
 
 #: src/control/Signing.js:36
 msgid "This document has an invalid signature."
-msgstr ""
+msgstr "เอกสารนี้มีลายเซ็นที่ไม่ถูกต้อง"
 
 #: src/control/Signing.js:40
 msgid "The signature was valid, but the document has been modified."
-msgstr ""
+msgstr "ลายเซ็นถูกต้อง แต่เอกสารมีการแก้ไข"
 
 #: src/control/Signing.js:44
 msgid "The signature is OK, but the certificate could not be validated."
-msgstr ""
+msgstr "ลายเซ็นนั้นโอเค แต่ไม่สามารถตรวจสอบใบรับรองได้"
 
 #: src/control/Signing.js:48
 msgid "The signature is OK, but the document is only partially signed."
-msgstr ""
+msgstr "ลายเซ็นก็โอเค แต่เอกสารมีการเซ็นเพียงบางส่วนเท่านั้น"
 
 #: src/control/Signing.js:52
 msgid ""
 "The signature is OK, but the certificate could not be validated and the "
 "document is only partially signed."
-msgstr ""
+msgstr "ลายเซ็นก็โอเค แต่ใบรับรองไม่ผ่านการตรวจสอบและ"
+"เอกสารมีการลงนามเพียงบางส่วนเท่านั้น"
 
 #: src/control/Toolbar.js:56
 msgid "Font"
-msgstr ""
+msgstr "แบบอักษร"
 
 #: src/control/Toolbar.js:251 src/control/Toolbar.js:264
 msgid "Downloading..."
-msgstr ""
+msgstr "กำลังดาวน์โหลด..."
 
 #: src/control/Toolbar.js:280 src/control/jsdialog/Widget.HTMLContent.ts:176
 msgid "Saving..."
-msgstr ""
+msgstr "ประหยัด..."
 
 #: src/control/Toolbar.js:299
 msgid "Renaming..."
-msgstr ""
+msgstr "กำลังเปลี่ยนชื่อ..."
 
 #: src/control/Toolbar.js:800
 msgid "Insert hyperlink"
-msgstr ""
+msgstr "แทรกไฮเปอร์ลิงก์"
 
 #: src/control/Toolbar.js:824
 msgid "Link"
-msgstr ""
+msgstr "ลิงค์"
 
 #: src/control/VRuler.ts:359
 msgid "Top Margin"
-msgstr ""
+msgstr "ขอบบนสุด"
 
 #: src/control/VRuler.ts:360
 msgid "Bottom Margin"
-msgstr ""
+msgstr "ขอบล่าง"
 
 #: src/control/jsdialog/Definitions.Menu.ts:112
 #: src/control/jsdialog/Definitions.Menu.ts:559
 msgid "Normal"
-msgstr ""
+msgstr "ปกติ"
 
 #: src/control/jsdialog/Definitions.Menu.ts:117
 msgid "Wide"
-msgstr ""
+msgstr "กว้าง"
 
 #: src/control/jsdialog/Definitions.Menu.ts:122
 msgid "Narrow"
-msgstr ""
+msgstr "แคบ"
 
 #: src/control/jsdialog/Definitions.Menu.ts:130
 msgid "Min"
-msgstr ""
+msgstr "นาที"
 
 #: src/control/jsdialog/Definitions.Menu.ts:131
 msgid "Max"
-msgstr ""
+msgstr "สูงสุด"
 
 #: src/control/jsdialog/Definitions.Menu.ts:187
 msgid "Edit Single Sparkline"
-msgstr ""
+msgstr "แก้ไข Sparkline เดี่ยว"
 
 #: src/control/jsdialog/Definitions.Menu.ts:198
 msgid "Delete Single Sparkline"
-msgstr ""
+msgstr "ลบเส้นประกายไฟเดี่ยว"
 
 #: src/control/jsdialog/Definitions.Menu.ts:234
 msgid "Portrait"
-msgstr ""
+msgstr "ภาพเหมือน"
 
 #: src/control/jsdialog/Definitions.Menu.ts:240
 msgid "Landscape"
-msgstr ""
+msgstr "ภูมิประเทศ"
 
 #: src/control/jsdialog/Definitions.Menu.ts:248
 msgid "A6"
-msgstr ""
+msgstr "A6"
 
 #: src/control/jsdialog/Definitions.Menu.ts:253
 msgid "A5"
-msgstr ""
+msgstr "A5"
 
 #: src/control/jsdialog/Definitions.Menu.ts:258
 msgid "A4"
-msgstr ""
+msgstr "A4"
 
 #: src/control/jsdialog/Definitions.Menu.ts:263
 msgid "A3"
-msgstr ""
+msgstr "A3"
 
 #: src/control/jsdialog/Definitions.Menu.ts:268
 msgid "B6 (ISO)"
-msgstr ""
+msgstr "บี6 (ไอเอสโอ)"
 
 #: src/control/jsdialog/Definitions.Menu.ts:273
 msgid "B5 (ISO)"
-msgstr ""
+msgstr "B5 (ไอเอสโอ)"
 
 #: src/control/jsdialog/Definitions.Menu.ts:278
 msgid "B4 (ISO)"
-msgstr ""
+msgstr "บี4 (ไอเอสโอ)"
 
 #: src/control/jsdialog/Definitions.Menu.ts:283
 msgid "Letter"
-msgstr ""
+msgstr "จดหมาย"
 
 #: src/control/jsdialog/Definitions.Menu.ts:288
 msgid "Legal"
-msgstr ""
+msgstr "ถูกกฎหมาย"
 
 #: src/control/jsdialog/Definitions.Menu.ts:293
 msgid "Long Bond"
-msgstr ""
+msgstr "พันธบัตรระยะยาว"
 
 #: src/control/jsdialog/Definitions.Menu.ts:298
 msgid "Tabloid"
-msgstr ""
+msgstr "แท็บลอยด์"
 
 #: src/control/jsdialog/Definitions.Menu.ts:303
 msgid "B6 (JIS)"
-msgstr ""
+msgstr "บี6 (เจไอเอส)"
 
 #: src/control/jsdialog/Definitions.Menu.ts:308
 msgid "B5 (JIS)"
-msgstr ""
+msgstr "บี5 (เจไอเอส)"
 
 #: src/control/jsdialog/Definitions.Menu.ts:313
 msgid "B4 (JIS)"
-msgstr ""
+msgstr "บี4 (เจไอเอส)"
 
 #: src/control/jsdialog/Definitions.Menu.ts:318
 msgid "16 Kai"
-msgstr ""
+msgstr "16 ไค"
 
 #: src/control/jsdialog/Definitions.Menu.ts:323
 msgid "32 Kai"
-msgstr ""
+msgstr "32 ไค"
 
 #: src/control/jsdialog/Definitions.Menu.ts:328
 msgid "Big 32 Kai"
-msgstr ""
+msgstr "บิ๊ก 32 ไก่"
 
 #: src/control/jsdialog/Definitions.Menu.ts:333
 msgid "User"
-msgstr ""
+msgstr "ผู้ใช้"
 
 #: src/control/jsdialog/Definitions.Menu.ts:338
 msgid "DL Envelope"
-msgstr ""
+msgstr "ซอง DL"
 
 #: src/control/jsdialog/Definitions.Menu.ts:343
 msgid "C6 Envelope"
-msgstr ""
+msgstr "ซอง C6"
 
 #: src/control/jsdialog/Definitions.Menu.ts:348
 msgid "C6/5 Envelope"
-msgstr ""
+msgstr "ซอง C6/5"
 
 #: src/control/jsdialog/Definitions.Menu.ts:353
 msgid "C5 Envelope"
-msgstr ""
+msgstr "ซอง C5"
 
 #: src/control/jsdialog/Definitions.Menu.ts:358
 msgid "C4 Envelope"
-msgstr ""
+msgstr "ซอง C4"
 
 #: src/control/jsdialog/Definitions.Menu.ts:363
 msgid "#6¾ Envelope"
-msgstr ""
+msgstr "ซองจดหมายขนาด #6¾"
 
 #: src/control/jsdialog/Definitions.Menu.ts:368
 msgid "#7¾ (Monarch) Envelope"
-msgstr ""
+msgstr "ซองจดหมาย #7¾ (Monarch)"
 
 #: src/control/jsdialog/Definitions.Menu.ts:373
 msgid "#9 Envelope"
-msgstr ""
+msgstr "#9 ซองจดหมาย"
 
 #: src/control/jsdialog/Definitions.Menu.ts:378
 msgid "#10 Envelope"
-msgstr ""
+msgstr "ซองจดหมาย #10"
 
 #: src/control/jsdialog/Definitions.Menu.ts:383
 msgid "#11 Envelope"
-msgstr ""
+msgstr "#11 ซองจดหมาย"
 
 #: src/control/jsdialog/Definitions.Menu.ts:388
 msgid "#12 Envelope"
-msgstr ""
+msgstr "#12 ซองจดหมาย"
 
 #: src/control/jsdialog/Definitions.Menu.ts:393
 msgid "Japanese Postcard"
-msgstr ""
+msgstr "โปสการ์ดญี่ปุ่น"
 
 #: src/control/jsdialog/Definitions.Menu.ts:547
 msgid "Insert Local Image"
-msgstr ""
+msgstr "แทรกรูปภาพในเครื่อง"
 
 #: src/control/jsdialog/Definitions.Menu.ts:552
 msgid "Insert Local Multimedia"
-msgstr ""
+msgstr "แทรกมัลติมีเดียท้องถิ่น"
 
 #: src/control/jsdialog/Definitions.Menu.ts:557
 msgid "Very Tight"
-msgstr ""
+msgstr "แน่นมาก"
 
 #: src/control/jsdialog/Definitions.Menu.ts:558
 msgid "Tight"
-msgstr ""
+msgstr "แน่น"
 
 #: src/control/jsdialog/Definitions.Menu.ts:560
 msgid "Loose"
-msgstr ""
+msgstr "หลวม"
 
 #: src/control/jsdialog/Definitions.Menu.ts:561
 msgid "Very Loose"
-msgstr ""
+msgstr "หลวมมาก"
 
 #: src/control/jsdialog/Definitions.Menu.ts:591
 msgid "All users"
-msgstr ""
+msgstr "ผู้ใช้บริการทุกคน"
 
 #: src/control/jsdialog/Definitions.Menu.ts:596
 msgid "This user"
-msgstr ""
+msgstr "ผู้ใช้รายนี้"
 
 #: src/control/jsdialog/Definitions.Menu.ts:729
 msgid "From Beginning"
-msgstr ""
+msgstr "ตั้งแต่เริ่มต้น"
 
 #: src/control/jsdialog/Definitions.Menu.ts:733
 msgid "From Current Slide"
-msgstr ""
+msgstr "จากสไลด์ปัจจุบัน"
 
 #: src/control/jsdialog/Definitions.Menu.ts:740
 msgid "Standard (4:3)"
-msgstr ""
+msgstr "มาตรฐาน (4:3)"
 
 #: src/control/jsdialog/Definitions.Menu.ts:745
 msgid "Widescreen (16:9)"
-msgstr ""
+msgstr "จอไวด์สกรีน (16:9)"
 
 #: src/control/jsdialog/Definitions.Menu.ts:755
 msgid "Blank Slide"
-msgstr ""
+msgstr "สไลด์เปล่า"
 
 #: src/control/jsdialog/Definitions.Menu.ts:756
 msgid "Title Slide"
-msgstr ""
+msgstr "สไลด์ชื่อเรื่อง"
 
 #: src/control/jsdialog/Definitions.Menu.ts:757
 msgid "Title, Content"
-msgstr ""
+msgstr "ชื่อเรื่อง, เนื้อหา"
 
 #: src/control/jsdialog/Definitions.Menu.ts:758
 msgid "Title and 2 Content"
-msgstr ""
+msgstr "ชื่อเรื่องและเนื้อหา 2"
 
 #: src/control/jsdialog/Definitions.Menu.ts:759
 msgid "Title Only"
-msgstr ""
+msgstr "ชื่อเรื่องเท่านั้น"
 
 #: src/control/jsdialog/Definitions.Menu.ts:760
 msgid "Centered Text"
-msgstr ""
+msgstr "ข้อความที่อยู่กึ่งกลาง"
 
 #: src/control/jsdialog/Definitions.Menu.ts:761
 msgid "Title, 2 Content and Content"
-msgstr ""
+msgstr "ชื่อเรื่อง 2 เนื้อหา และเนื้อหา"
 
 #: src/control/jsdialog/Definitions.Menu.ts:762
 msgid "Title, Content and 2 Content"
-msgstr ""
+msgstr "ชื่อเรื่อง เนื้อหา และ 2 เนื้อหา"
 
 #: src/control/jsdialog/Definitions.Menu.ts:763
 msgid "Title, 2 Content over Content"
-msgstr ""
+msgstr "ชื่อเรื่อง 2 เนื้อหาเหนือเนื้อหา"
 
 #: src/control/jsdialog/Definitions.Menu.ts:764
 msgid "Title, Content over Content"
-msgstr ""
+msgstr "ชื่อเรื่อง เนื้อหา เหนือเนื้อหา"
 
 #: src/control/jsdialog/Definitions.Menu.ts:765
 msgid "Title, 4 Content"
-msgstr ""
+msgstr "ชื่อเรื่อง 4 เนื้อหา"
 
 #: src/control/jsdialog/Definitions.Menu.ts:766
 msgid "Title, 6 Content"
-msgstr ""
+msgstr "ชื่อเรื่อง 6 เนื้อหา"
 
 #: src/control/jsdialog/Definitions.Menu.ts:767
 msgid "Vertical Title, Text, Chart"
-msgstr ""
+msgstr "ชื่อเรื่องแนวตั้ง, ข้อความ, แผนภูมิ"
 
 #: src/control/jsdialog/Definitions.Menu.ts:768
 msgid "Vertical Title, Vertical Text"
-msgstr ""
+msgstr "ชื่อเรื่องแนวตั้ง, ข้อความแนวตั้ง"
 
 #: src/control/jsdialog/Definitions.Menu.ts:769
 msgid "Title, Vertical Text"
-msgstr ""
+msgstr "ชื่อเรื่อง ข้อความแนวตั้ง"
 
 #: src/control/jsdialog/Definitions.Menu.ts:770
 msgid "Title, Vertical Text, Clipart"
-msgstr ""
+msgstr "ชื่อเรื่อง, ข้อความแนวตั้ง, คลิปอาร์ต"
 
 #: src/control/jsdialog/Definitions.Menu.ts:895
 msgid "Grayscale"
-msgstr ""
+msgstr "ระดับสีเทา"
 
 #: src/control/jsdialog/Definitions.Menu.ts:900
 msgid "Black/White"
-msgstr ""
+msgstr "ดำ/ขาว"
 
 #: src/control/jsdialog/Definitions.Menu.ts:905
 msgid "Watermark"
-msgstr ""
+msgstr "ลายน้ำ"
 
 #: src/control/jsdialog/Util.SnackbarController.ts:122
 msgid "Dismiss"
-msgstr ""
+msgstr "อนุญาตให้ออกไป"
 
 #: src/control/jsdialog/Widget.ColorPicker.ts:46
 #: src/control/jsdialog/Widget.ColorPicker.ts:138
 msgid "Unknown color"
-msgstr ""
+msgstr "สีที่ไม่รู้จัก"
 
 #: src/control/jsdialog/Widget.ColorPicker.ts:214
 msgid "No fill"
-msgstr ""
+msgstr "ไม่มีการเติม"
 
 #: src/control/jsdialog/Widget.ColorPicker.ts:214
 msgid "Automatic"
-msgstr ""
+msgstr "อัตโนมัติ"
 
 #: src/control/jsdialog/Widget.ColorPicker.ts:395
 msgid "Recent"
-msgstr ""
+msgstr "ล่าสุด"
 
 #: src/control/jsdialog/Widget.PageMarginEntry.ts:82
 msgid "Top: {top}"
-msgstr ""
+msgstr "บน: {top}"
 
 #: src/control/jsdialog/Widget.PageMarginEntry.ts:87
 msgid "Left: {left}"
-msgstr ""
+msgstr "ซ้าย: {left}"
 
 #: src/control/jsdialog/Widget.PageMarginEntry.ts:97
 msgid "Bottom: {bottom}"
-msgstr ""
+msgstr "ด้านล่าง: {bottom}"
 
 #: src/control/jsdialog/Widget.PageMarginEntry.ts:102
 msgid "Right: {right}"
-msgstr ""
+msgstr "ขวา: {right}"
 
 #: src/control/jsdialog/Widget.PageMarginEntry.ts:126
 msgid "Custom Margins…"
-msgstr ""
+msgstr "ระยะขอบที่กำหนดเอง…"
 
 #: src/control/jsdialog/Widget.HTMLContent.ts:47
 msgid "Read-only"
-msgstr ""
+msgstr "อ่านอย่างเดียว"
 
 #: src/control/jsdialog/Widget.HTMLContent.ts:48
 #: src/control/jsdialog/Widget.HTMLContent.ts:56
 msgid "Permission Mode"
-msgstr ""
+msgstr "โหมดการอนุญาต"
 
 #: src/control/jsdialog/Widget.HTMLContent.ts:55
 msgid "Edit mode"
-msgstr ""
+msgstr "โหมดแก้ไข"
 
 #: src/control/jsdialog/Widget.HTMLContent.ts:82
 #: src/control/jsdialog/Widget.HTMLContent.ts:160
 msgid "Number of Pages"
-msgstr ""
+msgstr "จำนวนหน้า"
 
 #: src/control/jsdialog/Widget.HTMLContent.ts:93
 msgid "Word Counter"
-msgstr ""
+msgstr "เครื่องนับคำ"
 
 #: src/control/jsdialog/Widget.HTMLContent.ts:102
 msgid "Number of Sheets"
-msgstr ""
+msgstr "จำนวนชีต"
 
 #: src/control/jsdialog/Widget.HTMLContent.ts:113
 msgid "Entering text mode"
-msgstr ""
+msgstr "กำลังเข้าสู่โหมดข้อความ"
 
 #: src/control/jsdialog/Widget.HTMLContent.ts:122
 msgid "Selection Mode"
-msgstr ""
+msgstr "โหมดการเลือก"
 
 #: src/control/jsdialog/Widget.HTMLContent.ts:131
 msgid "Selected range of cells"
-msgstr ""
+msgstr "ช่วงเซลล์ที่เลือก"
 
 #: src/control/jsdialog/Widget.HTMLContent.ts:140
 msgid "Choice of functions"
-msgstr ""
+msgstr "ทางเลือกของฟังก์ชั่น"
 
 #: src/control/jsdialog/Widget.HTMLContent.ts:149
 msgid "Number of Slides"
-msgstr ""
+msgstr "จำนวนสไลด์"
 
 #: src/control/jsdialog/Widget.HTMLContent.ts:171
 #: src/control/jsdialog/Widget.HTMLContent.ts:183
 msgid "Your changes have been saved"
-msgstr ""
+msgstr "การเปลี่ยนแปลงของคุณได้รับการบันทึกแล้ว"
 
 #: src/control/jsdialog/Widget.HTMLContent.ts:195
 msgid "Show Comments"
-msgstr ""
+msgstr "แสดงความคิดเห็น"
 
 #: src/control/jsdialog/Widget.MobileBorderSelector.js:96
 msgid "Cell borders"
-msgstr ""
+msgstr "เส้นขอบเซลล์"
 
 #: src/control/jsdialog/Widget.SidebarContainers.ts:72
 msgid "More options for {1}"
-msgstr ""
+msgstr "ตัวเลือกเพิ่มเติมสำหรับ {1}"
 
 #: src/control/jsdialog/Widget.TreeView.ts:1328
 msgid "Headings and objects that you add to the document will appear here"
-msgstr ""
+msgstr "หัวข้อและวัตถุที่คุณเพิ่มลงในเอกสารจะปรากฏที่นี่"
 
 #: src/core/Socket.js:69
 msgid "Oops, there is a problem connecting to {productname}: "
-msgstr ""
+msgstr "อุ๊ย มีปัญหาในการเชื่อมต่อกับ {productname}:"
 
 #: src/core/Socket.js:703
 msgid "Server is now reachable. We have to refresh the page now."
-msgstr ""
+msgstr "ตอนนี้เซิร์ฟเวอร์เข้าถึงได้แล้ว เราต้องรีเฟรชหน้านี้อีกครั้ง"
 
 #: src/core/Socket.js:705
 msgid "Server is now reachable..."
-msgstr ""
+msgstr "ตอนนี้สามารถเข้าถึงเซิร์ฟเวอร์ได้แล้ว..."
 
 #: src/core/Socket.js:709
 msgid "RELOAD"
-msgstr ""
+msgstr "โหลดซ้ำ"
 
 #: src/core/Socket.js:722
 msgid "Cluster configuration warning"
-msgstr ""
+msgstr "คำเตือนการกำหนดค่าคลัสเตอร์"
 
 #: src/core/Socket.js:725
 msgid "Wrong server, reconnecting..."
-msgstr ""
+msgstr "เซิฟเวอร์ผิด กำลังเชื่อมต่อใหม่..."
 
 #: src/core/Socket.js:734
 msgid "COOLWSD version:"
-msgstr ""
+msgstr "เวอร์ชัน COOLWSD:"
 
 #: src/core/Socket.js:759
 msgid "Served by:"
-msgstr ""
+msgstr "ให้บริการโดย:"
 
 #: src/core/Socket.js:765
 msgid "Unsupported server version."
-msgstr ""
+msgstr "เวอร์ชันเซิร์ฟเวอร์ไม่รองรับ"
 
 #: src/core/Socket.js:769
 msgid "LOKit version:"
-msgstr ""
+msgstr "เวอร์ชัน LOKit:"
 
 #: src/core/Socket.js:894
 msgid "Document is getting migrated"
-msgstr ""
+msgstr "เอกสารกำลังถูกย้าย"
 
 #: src/core/Socket.js:921
 msgid "Session terminated by document owner"
-msgstr ""
+msgstr "เซสชั่นถูกยกเลิกโดยเจ้าของเอกสาร"
 
 #: src/core/Socket.js:932
 msgid "Server is shutting down for maintenance (auto-saving)"
-msgstr ""
+msgstr "เซิร์ฟเวอร์กำลังปิดเพื่อการบำรุงรักษา (บันทึกอัตโนมัติ)"
 
 #: src/core/Socket.js:938
 msgid "Oops, there is a problem connecting the document"
-msgstr ""
+msgstr "อุ๊ย มีปัญหาในการเชื่อมต่อเอกสาร"
 
 #: src/core/Socket.js:942
 msgid "Server is down, restarting automatically. Please wait."
-msgstr ""
+msgstr "เซิร์ฟเวอร์กำลังปิดอยู่ กำลังรีสตาร์ทอัตโนมัติ กรุณารอสักครู่"
 
 #: src/core/Socket.js:969
 msgid ""
 "Document has changed in storage. Loading the new document. Your version is "
 "available as revision."
-msgstr ""
+msgstr "เอกสารมีการเปลี่ยนแปลงในที่เก็บข้อมูล กำลังโหลดเอกสารใหม่ เวอร์ชันของคุณคือ"
+"มีจำหน่ายเป็นฉบับแก้ไข"
 
 #: src/core/Socket.js:975
 msgid ""
 "Restoring older revision. Any unsaved changes will be available in version "
 "history"
-msgstr ""
+msgstr "กำลังกู้คืนเวอร์ชันเก่า การเปลี่ยนแปลงใดๆ ที่ยังไม่ได้บันทึกจะพร้อมใช้งานในเวอร์ชัน"
+"ประวัติศาสตร์"
 
 #: src/core/Socket.js:981
 msgid "Reloading the document after rename"
-msgstr ""
+msgstr "การโหลดเอกสารใหม่หลังจากเปลี่ยนชื่อ"
 
 #: src/core/Socket.js:1140
 msgid "Document requires password to view."
-msgstr ""
+msgstr "เอกสารนี้ต้องใช้รหัสผ่านจึงจะดูได้"
 
 #: src/core/Socket.js:1143
 msgid "Document requires password to modify."
-msgstr ""
+msgstr "เอกสารนี้ต้องใช้รหัสผ่านจึงจะแก้ไขได้"
 
 #: src/core/Socket.js:1145
 msgid "Hit Cancel to open in view-only mode."
-msgstr ""
+msgstr "กดยกเลิกเพื่อเปิดในโหมดดูอย่างเดียว"
 
 #: src/core/Socket.js:1149
 msgid "Wrong password provided. Please try again."
-msgstr ""
+msgstr "รหัสผ่านที่ให้มาไม่ถูกต้อง กรุณาลองอีกครั้ง"
 
 #: src/core/Socket.js:1187
 msgid "Only the document owner can change the password."
-msgstr ""
+msgstr "เฉพาะเจ้าของเอกสารเท่านั้นที่สามารถเปลี่ยนรหัสผ่านได้"
 
 #: src/core/Socket.js:1218 src/core/Socket.js:1223
 msgid "Missing Fonts"
-msgstr ""
+msgstr "แบบอักษรที่หายไป"
 
 #: src/core/Socket.js:1255
 msgid "Someone"
-msgstr ""
+msgstr "บางคน"
 
 #: src/core/Socket.js:1256
 msgid "{username} saved this document as {filename}. Do you want to join?"
-msgstr ""
+msgstr "{username} บันทึกเอกสารนี้ไว้เป็น {filename} คุณต้องการเข้าร่วมหรือไม่"
 
 #: src/core/Socket.js:1273
 msgid "The document is being renamed and will reload shortly"
-msgstr ""
+msgstr "เอกสารกำลังถูกเปลี่ยนชื่อและจะโหลดใหม่ในเร็วๆ นี้"
 
 #: src/core/Socket.js:1276
 msgid "The document is switching to Offline mode and will reload shortly"
-msgstr ""
+msgstr "เอกสารกำลังสลับเป็นโหมดออฟไลน์และจะโหลดใหม่เร็วๆ นี้"
 
 #: src/core/Socket.js:1379
 msgid "Connecting..."
-msgstr ""
+msgstr "กำลังเชื่อมต่อ..."
 
 #: src/core/Socket.js:1394
 msgid "Server is shutting down"
-msgstr ""
+msgstr "เซิร์ฟเวอร์กำลังปิดตัวลง"
 
 #: src/core/Socket.js:1430
 msgid "Exported to storage"
-msgstr ""
+msgstr "ส่งออกไปยังที่เก็บข้อมูล"
 
 #: src/core/Socket.js:1430
 msgid "Successfully exported: "
-msgstr ""
+msgstr "ส่งออกสำเร็จแล้ว:"
 
 #: src/core/Socket.js:1458
 msgid "Discard"
-msgstr ""
+msgstr "ทิ้ง"
 
 #: src/core/Socket.js:1470
 msgid "Save to new file"
-msgstr ""
+msgstr "บันทึกเป็นไฟล์ใหม่"
 
 #: src/core/Socket.js:1480
 msgid "Document has been changed"
-msgstr ""
+msgstr "เอกสารมีการเปลี่ยนแปลง"
 
 #: src/core/Socket.js:1481
 msgid ""
 "Document has been changed in storage. What would you like to do with your "
 "unsaved changes?"
-msgstr ""
+msgstr "เอกสารมีการเปลี่ยนแปลงในที่เก็บข้อมูล คุณต้องการทำอะไรกับ"
+"มีการเปลี่ยนแปลงที่ไม่ได้บันทึก?"
 
 #: src/core/Socket.js:1745
 msgid ""
 "Well, this is embarrassing, we cannot connect to your document. Please try "
 "again."
-msgstr ""
+msgstr "นี่มันน่าอายมาก เราไม่สามารถเชื่อมต่อกับเอกสารของคุณได้ โปรดลอง"
+"อีกครั้ง."
 
 #: src/core/Socket.js:1762
 msgid "Reconnecting..."
-msgstr ""
+msgstr "กำลังเชื่อมต่อใหม่..."
 
 #: src/core/Socket.js:1772
 msgid "The server has been disconnected."
-msgstr ""
+msgstr "เซิร์ฟเวอร์ถูกตัดการเชื่อมต่อ"
 
 #: src/docdispatcher.ts:514
 msgid "Are you sure you want to delete this slide?"
-msgstr ""
+msgstr "คุณแน่ใจว่าต้องการลบสไลด์นี้หรือไม่?"
 
 #: src/docdispatcher.ts:517
 msgid "Are you sure you want to delete this page?"
-msgstr ""
+msgstr "คุณแน่ใจว่าต้องการลบหน้านี้ใช่ไหม?"
 
 #: src/docstate.js:102
 msgid "Standard"
-msgstr ""
+msgstr "มาตรฐาน"
 
 #: src/docstate.js:115
 msgid "Theme colors"
-msgstr ""
+msgstr "สีของธีม"
 
 #: src/docstate.js:116
 msgid "Document colors"
-msgstr ""
+msgstr "สีของเอกสาร"
 
 #: src/docstatefunctions.js:256
 msgid ", cluster configuration error: mis-matching serverid"
-msgstr ""
+msgstr "ข้อผิดพลาดในการกำหนดค่าคลัสเตอร์: serverid ไม่ตรงกัน"
 
 #: src/dom/NotebookbarAccessibility.js:234
 msgid "{0} tab selected"
-msgstr ""
+msgstr "เลือกแท็บ {0}"
 
 #: src/errormessages.js:22
 msgid "No disk space left on server."
-msgstr ""
+msgstr "ไม่มีพื้นที่ดิสก์เหลืออยู่บนเซิร์ฟเวอร์"
 
 #: src/errormessages.js:23
 msgid ""
 "The host URL is empty. The coolwsd server is probably misconfigured, please "
 "contact the administrator."
-msgstr ""
+msgstr "URL โฮสต์ว่างเปล่า เซิร์ฟเวอร์ coolwsd อาจได้รับการกำหนดค่าไม่ถูกต้อง โปรด"
+"ติดต่อผู้ดูแลระบบ"
 
 #: src/errormessages.js:24
 msgid ""
@@ -3701,82 +3725,95 @@ msgid ""
 "that it is suitable for deployment in enterprises, this message appears "
 "when more than {docs} documents or {connections} connections are in use "
 "concurrently."
-msgstr ""
+msgstr "นี่คือเวอร์ชันที่ไม่ได้รับการสนับสนุนของ {productname} เพื่อหลีกเลี่ยงการแสดงผล"
+"ว่าเหมาะสำหรับการใช้งานในองค์กร ปรากฏข้อความนี้"
+"เมื่อมีการใช้งานเอกสารมากกว่า {docs} เอกสารหรือการเชื่อมต่อ {connections} รายการ"
+"พร้อมกัน"
 
 #: src/errormessages.js:25
 msgid "More information and support"
-msgstr ""
+msgstr "ข้อมูลเพิ่มเติมและการสนับสนุน"
 
 #: src/errormessages.js:26
 msgid ""
 "This service is limited to {0} documents, and {1} connections total by the "
 "admin. This limit has been reached. Please try again later."
-msgstr ""
+msgstr "บริการนี้จำกัดเฉพาะเอกสาร {0} ฉบับ และการเชื่อมต่อทั้งหมด {1} รายการ"
+"แอดมินครับ ถึงขีดจำกัดแล้ว กรุณาลองอีกครั้งในภายหลัง"
 
 #: src/errormessages.js:27
 msgid ""
 "Service is unavailable. Please try again later and report to your "
 "administrator if the issue persists."
-msgstr ""
+msgstr "บริการไม่พร้อมใช้งาน โปรดลองอีกครั้งในภายหลังและรายงานไปยัง"
+"ผู้ดูแลระบบหากปัญหายังคงมีอยู่"
 
 #: src/errormessages.js:28
 msgid ""
 "Unauthorized WOPI host. Please try again later and report to your "
 "administrator if the issue persists."
-msgstr ""
+msgstr "โฮสต์ WOPI ที่ไม่ได้รับอนุญาต โปรดลองอีกครั้งในภายหลังและรายงานไปยัง"
+"ผู้ดูแลระบบหากปัญหายังคงมีอยู่"
 
 #: src/errormessages.js:29
 msgid "Authorization error was: '{errormessage}'."
-msgstr ""
+msgstr "ข้อผิดพลาดในการอนุญาตคือ: '{errormessage}'."
 
 #: src/errormessages.js:30
 msgid "Wrong or missing WOPISrc parameter, please contact support."
-msgstr ""
+msgstr "พารามิเตอร์ WOPISrc ไม่ถูกต้องหรือขาดหายไป โปรดติดต่อฝ่ายสนับสนุน"
 
 #: src/errormessages.js:31
 msgid ""
 "Your session will expire in {time}. Please save your work and refresh the "
 "session (or webpage) to continue. You might need to login again."
-msgstr ""
+msgstr "เซสชันของคุณจะหมดอายุใน {time} โปรดบันทึกงานของคุณและรีเฟรช"
+"เซสชัน (หรือเว็บเพจ) เพื่อดำเนินการต่อ คุณอาจต้องเข้าสู่ระบบอีกครั้ง"
 
 #: src/errormessages.js:32
 msgid ""
 "Your session has expired. Further changes to the document might not be "
 "saved. Please refresh the session (or webpage) to continue. You might need "
 "to login again."
-msgstr ""
+msgstr "เซสชันของคุณหมดอายุแล้ว การเปลี่ยนแปลงเพิ่มเติมในเอกสารอาจไม่เกิดขึ้น"
+"บันทึกแล้ว โปรดรีเฟรชเซสชัน (หรือเว็บเพจ) เพื่อดำเนินการต่อ คุณอาจต้อง"
+"เพื่อเข้าสู่ระบบอีกครั้ง"
 
 #: src/errormessages.js:33
 msgid ""
 "Failed to load the document. Please ensure the file type is supported and "
 "not corrupted, and try again."
-msgstr ""
+msgstr "ไม่สามารถโหลดเอกสารได้ โปรดตรวจสอบให้แน่ใจว่าประเภทไฟล์ได้รับการรองรับและ"
+"ไม่เสียหายแล้วลองใหม่อีกครั้ง"
 
 #: src/errormessages.js:34
 msgid "Invalid link: '{url}'"
-msgstr ""
+msgstr "ลิงก์ไม่ถูกต้อง: '{url}'"
 
 #: src/errormessages.js:35
 msgid ""
 "You are leaving the document. The following web page will open in a new "
 "tab: "
-msgstr ""
+msgstr "คุณกำลังออกจากเอกสาร หน้าเว็บต่อไปนี้จะเปิดขึ้นในหน้าต่างใหม่"
+"แท็บ: "
 
 #: src/errormessages.js:36
 msgid ""
 "Failed to load the document. This document is either malformed or is taking "
 "more resources than allowed. Please contact the administrator."
-msgstr ""
+msgstr "ไม่สามารถโหลดเอกสารได้ เอกสารนี้อาจผิดรูปแบบหรือกำลังดำเนินการ"
+"ทรัพยากรมากกว่าที่ได้รับอนุญาต โปรดติดต่อผู้ดูแลระบบ"
 
 #: src/errormessages.js:37
 msgid "Cleaning up the document from the last session."
-msgstr ""
+msgstr "การทำความสะอาดเอกสารจากเซสชันล่าสุด"
 
 #: src/errormessages.js:38
 msgid ""
 "We are in the process of cleaning up this document from the last session, "
 "please try again later."
-msgstr ""
+msgstr "เรากำลังอยู่ในขั้นตอนการทำความสะอาดเอกสารนี้จากเซสชันที่แล้ว"
+"โปรดลองอีกครั้งในภายหลัง"
 
 #: src/errormessages.js:39
 msgid ""
@@ -3785,7 +3822,11 @@ msgid ""
 "result in multiple users not seeing each other, conflicts in the document "
 "storage and/or copy/paste problems. Expected serverId {0} for routeToken "
 "{1} but connected to serverId {2}"
-msgstr ""
+msgstr "คลัสเตอร์ {productname} ของคุณดูเหมือนจะมีการกำหนดค่าไม่ถูกต้องหรือปรับขนาดอย่างรวดเร็ว"
+"โปรดติดต่อผู้ดูแลระบบของคุณ การดำเนินการแก้ไขต่ออาจ"
+"ส่งผลให้ผู้ใช้หลายคนไม่เห็นกัน เกิดความขัดแย้งในเอกสาร"
+"ปัญหาการจัดเก็บและ/หรือการคัดลอก/วาง คาดว่า serverId {0} สำหรับ routeToken"
+"{1} แต่เชื่อมต่อกับ serverId {2}"
 
 #: src/errormessages.js:40
 msgid ""
@@ -3793,52 +3834,61 @@ msgid ""
 "unexpectedly. The reverse proxy might be misconfigured, please contact the "
 "administrator. For more info on proxy configuration please checkout https://"
 "sdk.collaboraonline.com/docs/installation/Proxy_settings.html"
-msgstr ""
+msgstr "ไม่สามารถสร้างการเชื่อมต่อซ็อกเก็ตได้หรือการเชื่อมต่อซ็อกเก็ตถูกปิด"
+"โดยไม่คาดคิด พร็อกซีแบบย้อนกลับอาจได้รับการกำหนดค่าไม่ถูกต้อง โปรดติดต่อ"
+"ผู้ดูแลระบบ สำหรับข้อมูลเพิ่มเติมเกี่ยวกับการกำหนดค่าพร็อกซี โปรดดูที่ https://"
+"sdk.collaboraonline.com/docs/การติดตั้ง/การตั้งค่าพร็อกซี.html"
 
 #: src/errormessages.js:41
 msgid ""
 "Failed to establish socket connection or socket connection closed "
 "unexpectedly."
-msgstr ""
+msgstr "ไม่สามารถสร้างการเชื่อมต่อซ็อกเก็ตได้หรือการเชื่อมต่อซ็อกเก็ตถูกปิด"
+"โดยไม่คาดคิด"
 
 #: src/errormessages.js:44
 msgid "Failed to load document."
-msgstr ""
+msgstr "ไม่สามารถโหลดเอกสารได้"
 
 #: src/errormessages.js:45
 msgid "Save failed due to no disk space left. Document will now be read-only."
-msgstr ""
+msgstr "การบันทึกล้มเหลวเนื่องจากไม่มีพื้นที่ว่างเหลือ เอกสารจะถูกอ่านอย่างเดียว"
 
 #: src/errormessages.js:46
 msgid ""
 "The document is too large or no disk space left to save. Document will now "
 "be read-only."
-msgstr ""
+msgstr "เอกสารมีขนาดใหญ่เกินไปหรือไม่มีพื้นที่ว่างเหลือสำหรับบันทึก เอกสารจะ..."
+"ให้เป็นแบบอ่านอย่างเดียว"
 
 #: src/errormessages.js:47
 msgid ""
 "Document cannot be saved due to expired session, please reopen the document "
 "to continue."
-msgstr ""
+msgstr "ไม่สามารถบันทึกเอกสารได้เนื่องจากเซสชันหมดอายุ กรุณาเปิดเอกสารอีกครั้ง"
+"เพื่อดำเนินการต่อ"
 
 #: src/errormessages.js:48
 msgid "Document cannot be saved."
-msgstr ""
+msgstr "ไม่สามารถบันทึกเอกสารได้"
 
 #: src/errormessages.js:49
 msgid "Document cannot be renamed."
-msgstr ""
+msgstr "ไม่สามารถเปลี่ยนชื่อเอกสารได้"
 
 #: src/errormessages.js:53
 msgid ""
 "Failed to read document from storage, please try to load the document again."
 msgstr ""
+"ไม่สามารถอ่านเอกสารจากที่จัดเก็บได้ กรุณาลองโหลดเอกสารอีกครั้ง"
 
 #: src/errormessages.js:54
 msgid ""
 "Save failed due to no storage space left. Document will now be read-only. "
 "Please make sure enough disk space is available and try to save again."
 msgstr ""
+"การบันทึกล้มเหลวเนื่องจากไม่มีพื้นที่เก็บข้อมูลเหลือ เอกสารจะถูกอ่านอย่างเดียว"
+"โปรดตรวจสอบให้แน่ใจว่ามีพื้นที่ว่างเพียงพอและลองบันทึกอีกครั้ง"
 
 #: src/errormessages.js:55
 msgid ""
@@ -3846,100 +3896,105 @@ msgid ""
 "storage space. The document will now be read-only but you may still "
 "download it now to preserve a copy locally."
 msgstr ""
+"การบันทึกล้มเหลวเนื่องจากเอกสารมีขนาดใหญ่เกินไปหรือเกินจำนวนที่เหลือ"
+"พื้นที่เก็บข้อมูล เอกสารจะเป็นแบบอ่านอย่างเดียว แต่คุณอาจยัง"
+"ดาวน์โหลดทันทีเพื่อเก็บรักษาสำเนาไว้ในเครื่อง"
 
 #: src/errormessages.js:56
 msgid ""
 "Document cannot be saved due to expired session, please reload the page to "
 "continue."
 msgstr ""
+"ไม่สามารถบันทึกเอกสารได้เนื่องจากเซสชันหมดอายุ กรุณาโหลดหน้าใหม่อีกครั้ง"
+"ดำเนินการต่อ."
 
 #: src/errormessages.js:57
 msgid "Document cannot be saved, please check your permissions."
-msgstr ""
+msgstr "ไม่สามารถบันทึกเอกสารได้ กรุณาตรวจสอบสิทธิ์ของคุณ"
 
 #: src/errormessages.js:58
 msgid "Document cannot be renamed, please check your permissions."
-msgstr ""
+msgstr "ไม่สามารถเปลี่ยนชื่อเอกสารได้ โปรดตรวจสอบสิทธิ์ของคุณ"
 
 #: src/errormessages.js:59
 msgid "Document cannot be exported. Please try again."
-msgstr ""
+msgstr "ไม่สามารถส่งออกเอกสารได้ กรุณาลองอีกครั้ง"
 
 #: src/errormessages.js:64
 msgid "Uploading file to server failed, file not found."
-msgstr ""
+msgstr "การอัพโหลดไฟล์ไปยังเซิร์ฟเวอร์ล้มเหลว ไม่พบไฟล์"
 
 #: src/errormessages.js:65
 msgid "Uploading file to server failed, the file is too large."
-msgstr ""
+msgstr "การอัพโหลดไฟล์ไปยังเซิร์ฟเวอร์ล้มเหลว ไฟล์มีขนาดใหญ่เกินไป"
 
 #: src/layer/marker/A11yTextInput.js:235
 msgid "Out of table"
-msgstr ""
+msgstr "ออกจากโต๊ะ"
 
 #: src/layer/marker/A11yTextInput.js:238
 msgid "Table with {0} rows and {1} columns"
-msgstr ""
+msgstr "ตารางที่มี {0} แถวและ {1} คอลัมน์"
 
 #: src/layer/marker/A11yTextInput.js:243
 msgid "Row {0} through {1}"
-msgstr ""
+msgstr "แถว {0} ถึง {1}"
 
 #: src/layer/marker/A11yTextInput.js:246
 msgid "Row {0}"
-msgstr ""
+msgstr "แถว {0}"
 
 #: src/layer/marker/A11yTextInput.js:254
 msgid "Column {0} through {1}"
-msgstr ""
+msgstr "คอลัมน์ {0} ถึง {1}"
 
 #: src/layer/marker/A11yTextInput.js:257
 msgid "Column {0}"
-msgstr ""
+msgstr "คอลัมน์ {0}"
 
 #: src/layer/marker/A11yTextInput.js:285
 msgid "Editing activated. "
-msgstr ""
+msgstr "เปิดใช้งานการแก้ไขแล้ว"
 
 #: src/layer/marker/A11yTextInput.js:304
 msgid "{0} selected"
-msgstr ""
+msgstr "เลือกแล้ว {0}"
 
 #: src/layer/marker/A11yTextInput.js:306
 msgid "Has text: "
-msgstr ""
+msgstr "มีข้อความ:"
 
 #: src/layer/marker/A11yTextInput.js:311
 msgid "{0} unselected"
-msgstr ""
+msgstr "{0} ยังไม่ได้เลือก"
 
 #: src/layer/marker/A11yTextInput.js:315
 msgid "{0} deleted"
-msgstr ""
+msgstr "{0} ลบแล้ว"
 
 #: src/layer/marker/TextInput.js:451
 msgid "Screen reader support for text content is disabled. "
-msgstr ""
+msgstr "ปิดใช้งานการสนับสนุนโปรแกรมอ่านหน้าจอสำหรับเนื้อหาข้อความ"
 
 #: src/layer/marker/TextInput.js:452
 msgid "You need to enable it both at server level and in the UI. "
-msgstr ""
+msgstr "คุณต้องเปิดใช้งานทั้งในระดับเซิร์ฟเวอร์และใน UI"
 
 #: src/layer/marker/TextInput.js:453
 msgid "Look for the accessibility section in coolwsd.xml for server setting. "
-msgstr ""
+msgstr "ค้นหาส่วนการเข้าถึงได้ใน coolwsd.xml สำหรับการตั้งค่าเซิร์ฟเวอร์"
 
 #: src/layer/marker/TextInput.js:454
 msgid "Also check the voice over toggle under {parentControl}."
-msgstr ""
+msgstr "ตรวจสอบการสลับเสียงพากย์ภายใต้ {parentControl} ด้วย"
 
 #: src/layer/marker/TextInput.js:456
 msgid "the Help tab"
-msgstr ""
+msgstr "แท็บวิธีใช้"
 
 #: src/layer/marker/TextInput.js:456
 msgid "the View menu"
-msgstr ""
+msgstr "เมนูมุมมอง"
 
 #: src/layer/tile/CanvasTileLayer.js:1571
 #, fuzzy
@@ -3948,112 +4003,120 @@ msgstr "ฟังก์ชัน"
 
 #: src/layer/tile/CanvasTileLayer.js:1831
 msgid "Named Range"
-msgstr ""
+msgstr "ตั้งชื่อช่วง"
 
 #: src/layer/tile/CanvasTileLayer.js:3449
 msgid "No Comments"
-msgstr ""
+msgstr "ไม่มีความคิดเห็น"
 
 #: src/main.js:141
 msgid "Warning! The browser you are using is not supported."
-msgstr ""
+msgstr "คำเตือน! เบราว์เซอร์ที่คุณใช้ไม่ได้รับการรองรับ"
 
 #: src/map/Clipboard.js:176
 msgid ""
 "To paste outside {productname}, please first click the 'download' button"
 msgstr ""
+"หากต้องการวางไว้ภายนอก {productname} โปรดคลิกปุ่ม 'ดาวน์โหลด' ก่อน"
 
 #: src/map/Clipboard.js:184
 msgid "Copying from the document disabled"
-msgstr ""
+msgstr "การคัดลอกจากเอกสารถูกปิดใช้งาน"
 
 #: src/map/Clipboard.js:285
 msgid "warning: copy/paste request timed out"
-msgstr ""
+msgstr "คำเตือน: คำขอคัดลอก/วางหมดเวลา"
 
 #: src/map/Clipboard.js:329
 msgid "Failed to download clipboard, please re-copy"
-msgstr ""
+msgstr "ไม่สามารถดาวน์โหลดคลิปบอร์ดได้ กรุณาคัดลอกใหม่อีกครั้ง"
 
 #: src/map/Clipboard.js:1310
 msgid ""
 "Your browser has very limited access to the clipboard, so please use the "
 "paste buttons on your on-screen keyboard instead."
 msgstr ""
+"เบราว์เซอร์ของคุณสามารถเข้าถึงคลิปบอร์ดได้จำกัดมาก ดังนั้นโปรดใช้"
+"วางปุ่มบนแป้นพิมพ์บนหน้าจอแทน"
 
 #: src/map/Clipboard.js:1366
 msgid ""
 "A download due to a large copy/paste operation has already started. Please, "
 "wait for the current download or cancel it before starting a new one"
 msgstr ""
+"การดาวน์โหลดเนื่องจากการคัดลอก/วางข้อมูลจำนวนมากได้เริ่มต้นขึ้นแล้ว กรุณา"
+"รอการดาวน์โหลดปัจจุบันหรือยกเลิกก่อนเริ่มการดาวน์โหลดใหม่"
 
 #: src/map/Clipboard.js:1388
 msgid "Paste from this document"
-msgstr ""
+msgstr "วางจากเอกสารนี้"
 
 #: src/map/Clipboard.js:1388
 msgid "Cancel paste special"
-msgstr ""
+msgstr "ยกเลิกการวางแบบพิเศษ"
 
 #: src/map/Clipboard.js:1410
 msgid "Your browser has very limited access to the clipboard"
-msgstr ""
+msgstr "เบราว์เซอร์ของคุณมีการเข้าถึงคลิปบอร์ดได้จำกัดมาก"
 
 #: src/map/Clipboard.js:1415
 msgid "Please use following combination to see more options:"
-msgstr ""
+msgstr "กรุณาใช้ชุดค่าผสมต่อไปนี้เพื่อดูตัวเลือกเพิ่มเติม:"
 
 #: src/map/Clipboard.js:1433
 msgid "Close popup to ignore paste special"
-msgstr ""
+msgstr "ปิดป๊อปอัปเพื่อละเว้นการวางแบบพิเศษ"
 
 #: src/map/Map.js:218
 msgid "Initializing..."
-msgstr ""
+msgstr "กำลังเริ่มต้น..."
 
 #: src/map/Map.js:497 src/map/Map.js:500 src/map/Map.js:503 src/map/Map.js:506
 msgid "Last saved:"
-msgstr ""
+msgstr "บันทึกครั้งล่าสุด:"
 
 #: src/map/Map.js:1483
 msgid "Please wait!"
-msgstr ""
+msgstr "โปรดรอ!"
 
 #: src/map/handler/Map.Feedback.js:95
 msgid "Please send us your feedback"
-msgstr ""
+msgstr "กรุณาส่งคำติชมของคุณมาให้เรา"
 
 #: src/map/handler/Map.FileInserter.js:174
 msgid ""
 "The file of type: {0} cannot be uploaded to server since the file has no "
 "name"
 msgstr ""
+"ไฟล์ประเภท: {0} ไม่สามารถอัพโหลดไปยังเซิร์ฟเวอร์ได้เนื่องจากไม่มีไฟล์"
+"ชื่อ"
 
 #: src/map/handler/Map.FileInserter.js:176
 msgid ""
 "The file of type: {0} cannot be uploaded to server since the file is empty"
 msgstr ""
+"ไฟล์ประเภท: {0} ไม่สามารถอัพโหลดไปยังเซิร์ฟเวอร์ได้เนื่องจากไฟล์ว่างเปล่า"
 
 #: src/map/handler/Map.FileInserter.js:214
 msgid "Uploading..."
-msgstr ""
+msgstr "กำลังอัปโหลด..."
 
 #: src/map/handler/Map.FileInserter.js:239
 msgid "Uploading file to server failed with status: {0}"
-msgstr ""
+msgstr "การอัพโหลดไฟล์ไปยังเซิร์ฟเวอร์ล้มเหลวโดยมีสถานะ: {0}"
 
 #: src/map/handler/Map.Print.js:44
 msgid "Print dialog"
-msgstr ""
+msgstr "กล่องโต้ตอบการพิมพ์"
 
 #: src/map/handler/Map.SlideShow.js:59 src/slideshow/SlideShowPresenter.ts:664
 msgid "Empty Slide Show"
-msgstr ""
+msgstr "สไลด์โชว์ที่ว่างเปล่า"
 
 #: src/map/handler/Map.SlideShow.js:167
 #: src/slideshow/SlideShowPresenter.ts:692
 msgid "Windowed Presentation Blocked"
-msgstr ""
+msgstr "การนำเสนอแบบหน้าต่างถูกบล็อค"
 
 #: src/map/handler/Map.SlideShow.js:168
 #: src/slideshow/SlideShowPresenter.ts:694
@@ -4062,139 +4125,142 @@ msgid ""
 "slide shows to be displayed in separated windows, allowing for easy screen "
 "sharing."
 msgstr ""
+"การนำเสนอถูกบล็อก กรุณาอนุญาตให้มีป๊อปอัปในเบราว์เซอร์ของคุณ วิธีนี้ช่วยให้"
+"สไลด์โชว์ที่จะแสดงเป็นหน้าต่างแยกกัน ช่วยให้ดูหน้าจอได้ง่าย"
+"การแบ่งปัน"
 
 #: src/map/handler/Map.SlideShow.js:172
 #: src/slideshow/SlideShowPresenter.ts:491
 msgid "Windowed Presentation: "
-msgstr ""
+msgstr "การนำเสนอแบบมีหน้าต่าง:"
 
 #: src/map/handler/Map.SlideShow.js:202
 #: src/slideshow/SlideShowPresenter.ts:534
 msgid "Presenting in window"
-msgstr ""
+msgstr "นำเสนอในหน้าต่าง"
 
 #: src/map/handler/Map.SlideShow.js:203
 #: src/slideshow/SlideShowPresenter.ts:535
 msgid "Close Presentation"
-msgstr ""
+msgstr "ปิดการนำเสนอ"
 
 #: src/map/handler/Map.SlideShow.js:230
 msgid "Presenting in fullscreen"
-msgstr ""
+msgstr "นำเสนอแบบเต็มจอ"
 
 #: src/map/handler/Map.SlideShow.js:231
 msgid "End Presentation"
-msgstr ""
+msgstr "สิ้นสุดการนำเสนอ"
 
 #: src/map/handler/Map.SlideShow.js:295
 #: src/slideshow/SlideShowPresenter.ts:679
 msgid "Already presenting"
-msgstr ""
+msgstr "นำเสนอแล้วครับ"
 
 #: src/map/handler/Map.SlideShow.js:296
 #: src/slideshow/SlideShowPresenter.ts:680
 msgid "You are already presenting this document"
-msgstr ""
+msgstr "คุณกำลังนำเสนอเอกสารนี้อยู่แล้ว"
 
 #: src/map/handler/Map.SlideShow.js:306
 #: src/slideshow/SlideShowPresenter.ts:717
 msgid "Presentation disabled"
-msgstr ""
+msgstr "การนำเสนอถูกปิดใช้งาน"
 
 #: src/map/handler/Map.SlideShow.js:307
 #: src/slideshow/SlideShowPresenter.ts:718
 msgid "Presentation mode has been disabled for this document"
-msgstr ""
+msgstr "โหมดการนำเสนอถูกปิดใช้งานสำหรับเอกสารนี้"
 
 #: src/map/handler/Map.VersionBar.js:50
 msgid "Your Collabora Online server needs updating. Version {0} is available."
-msgstr ""
+msgstr "เซิร์ฟเวอร์ Collabora Online ของคุณต้องได้รับการอัปเดต เวอร์ชัน {0} พร้อมใช้งานแล้ว"
 
 #: src/map/handler/Map.WOPI.js:176
 msgid "Creating new file from template..."
-msgstr ""
+msgstr "กำลังสร้างไฟล์ใหม่จากเทมเพลต..."
 
 #: src/map/handler/Map.WOPI.js:691
 msgid "File name should contain an extension."
-msgstr ""
+msgstr "ชื่อไฟล์ควรมีนามสกุลไฟล์ด้วย"
 
 #: src/map/handler/Map.WOPI.js:699
 msgid "Creating copy..."
-msgstr ""
+msgstr "กำลังสร้างสำเนา..."
 
 #: src/map/handler/Map.Welcome.js:92
 msgid "Welcome Dialog"
-msgstr ""
+msgstr "กล่องโต้ตอบยินดีต้อนรับ"
 
 #: src/slideshow/PauseTimer.ts:141
 msgid "Pause... ( %SECONDS% )"
-msgstr ""
+msgstr "หยุดชั่วคราว... ( %SECONDS% )"
 
 #: src/slideshow/PresenterConsole.js:29
 msgid "Current Slide"
-msgstr ""
+msgstr "สไลด์ปัจจุบัน"
 
 #: src/slideshow/PresenterConsole.js:30
 msgid "Next Slide"
-msgstr ""
+msgstr "สไลด์ถัดไป"
 
 #: src/slideshow/PresenterConsole.js:35
 msgid "Pause"
-msgstr ""
+msgstr "หยุดชั่วคราว"
 
 #: src/slideshow/PresenterConsole.js:36
 msgid "Restart"
-msgstr ""
+msgstr "รีสตาร์ท"
 
 #: src/slideshow/PresenterConsole.js:37
 msgid "Resume"
-msgstr ""
+msgstr "ประวัติย่อ"
 
 #: src/slideshow/PresenterConsole.js:38
 msgid "Go Back"
-msgstr ""
+msgstr "กลับไป"
 
 #: src/slideshow/PresenterConsole.js:39
 msgid "Zoom In"
-msgstr ""
+msgstr "ซูมเข้า"
 
 #: src/slideshow/PresenterConsole.js:40
 msgid "Zoom Out"
-msgstr ""
+msgstr "ซูมออก"
 
 #: src/slideshow/PresenterConsole.js:173
 msgid "Preview Slide {1}"
-msgstr ""
+msgstr "สไลด์ตัวอย่าง {1}"
 
 #: src/slideshow/PresenterConsole.js:1218
 msgid "Slide {0} of {1}"
-msgstr ""
+msgstr "สไลด์ {0} จาก {1}"
 
 #: src/slideshow/PresenterConsole.js:1242
 msgid "No Notes"
-msgstr ""
+msgstr "ไม่มีหมายเหตุ"
 
 #: src/slideshow/PresenterConsole.js:1330
 msgid "Repeat in {0} seconds"
-msgstr ""
+msgstr "ทำซ้ำใน {0} วินาที"
 
 #: src/slideshow/PresenterConsole.js:1335
 #: src/slideshow/SlideShowPresenter.ts:389
 msgid "Click to exit presentation..."
-msgstr ""
+msgstr "คลิกเพื่อออกจากการนำเสนอ..."
 
 #: welcome/welcome.html%2Bhtml.head.title:9-3
 msgid "Collabora Online Welcome"
-msgstr ""
+msgstr "Collabora Online ยินดีต้อนรับ"
 
 #: welcome/welcome.html%2Bhtml.body.div.div.div.div.h1:26-7
 msgid "Explore The New {coolversion}"
-msgstr ""
+msgstr "สำรวจ {coolversion} ใหม่"
 
 #: welcome/welcome.html%2Bhtml.body.div.div.div.div.h2:27-7
 #: welcome/welcome.html%2Bhtml.body.div.div.div.div.h2:38-7
 msgid "Collabora Online Development Edition"
-msgstr ""
+msgstr "รุ่นพัฒนา Collabora ออนไลน์"
 
 #: welcome/welcome.html%2Bhtml.body.div.div.div.div.p:28-7
 msgid ""
@@ -4203,10 +4269,14 @@ msgid ""
 "target=\"_blank\" href=\"https://www.collaboraonline.com/solutions/"
 "collabora-office-android-ios/\">apps</a> are also available for mobile."
 msgstr ""
+"เพลิดเพลินไปกับการพัฒนาล่าสุดในการเพิ่มผลผลิตออนไลน์ให้คุณใช้ฟรี"
+"เพื่อสำรวจและใช้งานร่วมกับผู้อื่นในเบราว์เซอร์ ต่างๆ <a"
+"เป้าหมาย=\"_blank\" href=\"https://www.collaboraonline.com/solutions/"
+"collabora-office-android-ios/\">แอป</a> ยังพร้อมใช้งานสำหรับอุปกรณ์พกพาอีกด้วย"
 
 #: welcome/welcome.html%2Bhtml.body.div.div.div.div.h1:37-7
 msgid "Discover All The Changes"
-msgstr ""
+msgstr "ค้นพบการเปลี่ยนแปลงทั้งหมด"
 
 #: welcome/welcome.html%2Bhtml.body.div.div.div.div.p:39-7
 msgid ""
@@ -4215,14 +4285,18 @@ msgid ""
 "latest Collabora Online Development Edition, aimed at home users and small "
 "teams."
 msgstr ""
+"ตรวจสอบ <a target=\"_blank\" href=\"https://www.collaboraonline.com/"
+"code-24-04-release-notes/\">หมายเหตุการเผยแพร่</a> และเรียนรู้ทุกสิ่งเกี่ยวกับ:"
+"Collabora Online Development Edition รุ่นล่าสุด มุ่งเป้าไปที่ผู้ใช้ตามบ้านและกลุ่มเล็ก"
+"ทีม"
 
 #: welcome/welcome.html%2Bhtml.body.div.div.div.div.h1:48-7
 msgid "Get Involved"
-msgstr ""
+msgstr "มีส่วนร่วม"
 
 #: welcome/welcome.html%2Bhtml.body.div.div.div.div.h2:49-7
 msgid "https://collaboraonline.github.io/"
-msgstr ""
+msgstr "https://collaboraonline.github.io/"
 
 #: welcome/welcome.html%2Bhtml.body.div.div.div.div.p:50-7
 msgid ""
@@ -4235,6 +4309,14 @@ msgid ""
 "\">filing a bug report</a> with all the essential steps on how to reproduce "
 "it."
 msgstr ""
+"คุณสนใจที่จะมีส่วนร่วมแต่ไม่รู้จะเริ่มต้นอย่างไรใช่ไหม? เข้าไปที่"
+"ไปที่ <a target=\"_blank\" href=\"https://collaboraonline.github.io/post/"
+"build-code/\">คำแนะนำทีละขั้นตอน</a> และสร้าง CODE ตั้งแต่เริ่มต้น"
+"คุณยังสามารถช่วยเหลือได้ด้วย <a target=\"_blank\" href=\"https://"
+"collaboraonline.github.io/post/translate/\">การแปล</a> หรือโดย <a"
+"เป้าหมาย=\"_ว่างเปล่า\" href=\"https://collaboraonline.github.io/post/filebugs/"
+"\">การยื่นรายงานข้อบกพร่อง</a> พร้อมขั้นตอนสำคัญทั้งหมดเกี่ยวกับวิธีการทำซ้ำ"
+"มัน."
 
 #: welcome/welcome.html%2Bhtml.body.div.div:55-5
 msgid ""
@@ -4243,3 +4325,7 @@ msgid ""
 "translate=\"true\">2</a> <a id=\"slide-3-indicator\" href=\"#slide-3\" data-"
 "translate=\"true\">3</a>"
 msgstr ""
+"<a id=\"slide-1-indicator\" class=\"active\" href=\"#slide-1\" data-"
+"translate=\"true\">1</a> <a id=\"slide-2-indicator\" href=\"#slide-2\" data-"
+"translate=\"true\">2</a> <a id=\"slide-3-indicator\" href=\"#slide-3\" data-"
+"translate=\"true\">3</a>"
